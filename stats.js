@@ -1,15 +1,24 @@
 import { chassis, scanners, steering, thrusters } from './constants/utilities.js';
 import ObjectsToCsv from 'objects-to-csv';
 import path from 'path';
+import { height, width } from './constants/constants.js';
 
 export default class Stats {
     _highScores = [];
     _squadronStats = [];
     _droneStats = [];
 
-    addStatsFor(uid, squadron, rank, wld, survivingDrones, roundTime, width, height) {
+    pad(n, width, unit) {
+        unit = unit || '0';
+        n = n + '';
+        return n.length >= width ? n : new Array(width - n.length + 1).join(unit) + n;
+    };
+
+    addStatsFor(
+        uid, currentSquadron, squadron, rank, wld, survivingDrones, roundTime, width, height) {
         this._squadronStats.push({
             uid,
+            number: `#${this.pad(currentSquadron + 1, 4)}`,
             name: squadron.name,
             rank,
             wld,
@@ -18,10 +27,11 @@ export default class Stats {
             survivingDrones,
             roundTime: roundTime.toFixed(),
             width,
-            height
+            height,
         });
         this._droneStats.push(...squadron.drones.map(d => ({
             uid,
+            number: `#${this.pad(currentSquadron + 1, 4)}`,
             squadron: squadron.name,
             name: d.name,
             value: d.value,
@@ -37,27 +47,29 @@ export default class Stats {
             diedAt: d.diedAt?.toFixed(2) || '',
             roundTime: roundTime.toFixed(),
             width,
-            height
+            height,
         })));
     }
 
-    addHighScore(uid, squadron, highScore, rank, width, height) {
+    addHighScore(uid, currentSquadron, squadron, highScore, rank, width, height) {
         this._highScores.push({
             uid,
+            number: `#${this.pad(currentSquadron + 1, 4)}`,
             squadron: squadron.name,
             highScore,
             rank,
             width,
-            height
+            height,
         });
     }
 
     async write(filePath = './', append = false) {
-        await new ObjectsToCsv(this._squadronStats).toDisk(path.join(filePath, `squadrons-stats.csv`),
+        await new ObjectsToCsv(this._squadronStats).toDisk(
+            path.join(filePath, `squadrons-stats_${width}x${height}.csv`),
             {append});
-        await new ObjectsToCsv(this._droneStats).toDisk(path.join(filePath, `drones-stats.csv`),
+        await new ObjectsToCsv(this._droneStats).toDisk(path.join(filePath, `drones-stats_${width}x${height}.csv`),
             {append});
-        await new ObjectsToCsv(this._highScores).toDisk(path.join(filePath, `high-scores.csv`),
+        await new ObjectsToCsv(this._highScores).toDisk(path.join(filePath, `high-scores_${width}x${height}.csv`),
             {append});
     }
 }
