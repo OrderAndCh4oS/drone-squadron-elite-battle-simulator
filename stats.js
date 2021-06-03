@@ -2,6 +2,7 @@ import { chassis, scanners, steering, thrusters } from './constants/utilities.js
 import ObjectsToCsv from 'objects-to-csv';
 import path from 'path';
 import { height, width } from './constants/constants.js';
+import fs from 'fs';
 
 export default class Stats {
     _highScores = [];
@@ -67,9 +68,29 @@ export default class Stats {
         await new ObjectsToCsv(this._squadronStats).toDisk(
             path.join(filePath, `squadrons-stats_${width}x${height}.csv`),
             {append});
-        await new ObjectsToCsv(this._droneStats).toDisk(path.join(filePath, `drones-stats_${width}x${height}.csv`),
+        await new ObjectsToCsv(this._droneStats).toDisk(
+            path.join(filePath, `drones-stats_${width}x${height}.csv`),
             {append});
-        await new ObjectsToCsv(this._highScores).toDisk(path.join(filePath, `high-scores_${width}x${height}.csv`),
+        await new ObjectsToCsv(this._highScores).toDisk(
+            path.join(filePath, `high-scores_${width}x${height}.csv`),
             {append});
+    }
+
+    async writePickTopHighScores(filePath = './', append = false) {
+        const weeklyHighScores = JSON.stringify(this._highScores.reduce((result, hs) => {
+            const lastSquadHighScoreIndex = result.findIndex(r => r.number === hs.number);
+            if(lastSquadHighScoreIndex === -1) {
+                result.push(hs);
+                return result;
+            }
+            if(result[lastSquadHighScoreIndex].highScore < hs.highScore) {
+                result.splice(lastSquadHighScoreIndex, 1)
+                result.push(hs);
+            }
+            return result;
+        }, []).sort((a, b) => b.highScore - a.highScore));
+        const file = path.join(filePath, `weekly-high-scores_${width}x${height}_${(new Date()).toISOString().slice(0, 10)}.json`);
+        fs.writeFileSync(file, weeklyHighScores);
+
     }
 }
