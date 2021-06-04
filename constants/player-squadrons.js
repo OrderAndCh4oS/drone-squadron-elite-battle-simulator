@@ -32,6 +32,17 @@ const playerSquadrons = [
     '31_squadron_ooqzMn5bPFMXF1f6ymaxDnXUcQMhU4v6mLc6gv38pFrYeDcRysC.json',
     '32_squadron_opRSNtzQERYoZhr5CUSBXQMZKYogcDNStFGAGqmmShR4z2JGMYq.json',
     '33_squadron_op2CZQuAxuxhACnF9AbC9YeYgrQcuSqJ1c2wLFHWdv1vPWwbsre.json',
+    '34_squadron_opMxvqtjzVxUMC5mfUxtHFwCXouUPpKYXVGEf3BxYyPYUQT6768.json',
+    '35_squadron_ooRDCkJWtXjwB8JE926SFUeNVbhPuyREK14VhzFKG6dTKJoLUov.json',
+    '36_squadron_oooxtAk9s4PWy3iGarc59oD92sxVw1KCxFW7mZEWZXoQu95b97x.json',
+    '37_squadron_op9hpFDRDtAnAk8VkWk2pPaXLiSaY86qJpfab74ZVwP1UFNT3Jm.json',
+    '38_squadron_onoaiH49xwNVM77M7AGggaHUPcjE6gtf3K6Fr2ukkeYgSzvHwmF.json',
+    '39_squadron_oozhTEiGs2NHNNW3fsv6s8vqYjKeQK1ySu7eqSJ49JY6wbRX952.json',
+    '40_squadron_oozhTEiGs2NHNNW3fsv6s8vqYjKeQK1ySu7eqSJ49JY6wbRX952_2.json',
+    '41_squadron_oozhTEiGs2NHNNW3fsv6s8vqYjKeQK1ySu7eqSJ49JY6wbRX952_3.json',
+    '42_squadron_ooR8jK8UAceE6MKoXBDfmbym6kZtBfETqaMwTrpYBQWfiA6Kh2N.json',
+    '43_squadron_op7r3jjBvuUJCXKxY35SkgrdJewi5craNpLXwF865A3icaNdGRC.json',
+    '44_squadron_opWrvQC396L7k8N1Pj8PboUtDd9k6shtJNJmtuyY5U8uKg8edHT.json'
 ];
 
 export default playerSquadrons;

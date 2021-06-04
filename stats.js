@@ -1,4 +1,4 @@
-import { chassis, scanners, steering, thrusters } from './constants/utilities.js';
+import { chassis, scanners, steering, thrusters, gimbals } from './constants/utilities.js';
 import ObjectsToCsv from 'objects-to-csv';
 import path from 'path';
 import { height, width } from './constants/constants.js';
@@ -37,6 +37,7 @@ export default class Stats {
             name: d.name,
             value: d.value,
             weapon: d.weapon.name,
+            gimbal: Object.keys(gimbals)[d.weapon.gimbal.id],
             scanner: Object.keys(scanners)[d.scanner.id],
             thruster: Object.keys(thrusters)[d.thruster.id],
             steering: Object.keys(steering)[d.steering.id],
