@@ -121,7 +121,6 @@ const endRound = async(isDraw = false) => {
     } else {
         await stats.write('./stats');
         await stats.writePickTopHighScores('./stats');
-        await writeExcel();
         await startNextRound();
     }
 };

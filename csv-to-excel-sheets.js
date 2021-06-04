@@ -85,4 +85,4 @@ async function writeExcel() {
     wb.write(`stats_${(new Date()).toISOString().slice(0, 10)}.xlsx`);
 }
 
-export default writeExcel;
+await writeExcel();
