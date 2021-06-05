@@ -14,7 +14,6 @@ import ShortUniqueId from 'short-unique-id';
 import Stats from './stats.js';
 import playerSquadrons from './constants/player-squadrons.js';
 import { fetchEnemySquadron, fetchPlayerSquadron } from './api/get-drones.js';
-import writeExcel from './csv-to-excel-sheets';
 
 const uid = new ShortUniqueId();
 
