@@ -1,905 +1,1127 @@
 uid,number,name,rank,wld,kills,health,survivingDrones,roundTime,width,height
-Rb5DJ6,#0001,Squadron Gaphus,0,1,6,176,3,284,1280,720
-Rb5DJ6,#0001,Squadron Gaphus,1,1,6,380,5,201,1280,720
-Rb5DJ6,#0001,Squadron Gaphus,2,1,6,357,5,174,1280,720
-Rb5DJ6,#0001,Squadron Gaphus,3,1,6,94,4,292,1280,720
-Rb5DJ6,#0001,Squadron Gaphus,4,1,6,374,5,197,1280,720
-Rb5DJ6,#0001,Squadron Gaphus,5,1,6,322,6,238,1280,720
-Rb5DJ6,#0001,Squadron Gaphus,6,1,6,247,6,184,1280,720
-Rb5DJ6,#0001,Squadron Gaphus,7,1,6,280,4,246,1280,720
-Rb5DJ6,#0001,Squadron Gaphus,8,1,6,76,3,368,1280,720
-Rb5DJ6,#0001,Squadron Gaphus,9,1,6,105,3,334,1280,720
-Rb5DJ6,#0001,Squadron Gaphus,10,1,6,219,6,270,1280,720
-Rb5DJ6,#0001,Squadron Gaphus,11,1,6,68,2,382,1280,720
-Rb5DJ6,#0001,Squadron Gaphus,12,1,6,147,3,285,1280,720
-Rb5DJ6,#0001,Squadron Gaphus,13,1,6,181,4,275,1280,720
-Rb5DJ6,#0001,Squadron Gaphus,14,-1,3,0,0,350,1280,720
-AU6AcV,#0001,Squadron Gaphus,0,1,6,30,1,360,1280,720
-AU6AcV,#0001,Squadron Gaphus,1,1,6,325,5,201,1280,720
-AU6AcV,#0001,Squadron Gaphus,2,1,6,249,5,281,1280,720
-AU6AcV,#0001,Squadron Gaphus,3,1,6,62,2,362,1280,720
-AU6AcV,#0001,Squadron Gaphus,4,1,6,318,6,164,1280,720
-AU6AcV,#0001,Squadron Gaphus,5,1,6,285,5,224,1280,720
-AU6AcV,#0001,Squadron Gaphus,6,1,6,219,4,292,1280,720
-AU6AcV,#0001,Squadron Gaphus,7,1,6,280,5,225,1280,720
-AU6AcV,#0001,Squadron Gaphus,8,1,6,253,5,263,1280,720
-AU6AcV,#0001,Squadron Gaphus,9,1,6,253,4,288,1280,720
-AU6AcV,#0001,Squadron Gaphus,10,1,6,297,6,257,1280,720
-AU6AcV,#0001,Squadron Gaphus,11,1,6,112,4,235,1280,720
-AU6AcV,#0001,Squadron Gaphus,12,-1,4,0,0,388,1280,720
-cWt3Nh,#0001,Squadron Gaphus,0,1,6,183,3,414,1280,720
-cWt3Nh,#0001,Squadron Gaphus,1,1,6,218,5,233,1280,720
-cWt3Nh,#0001,Squadron Gaphus,2,1,6,334,5,295,1280,720
-cWt3Nh,#0001,Squadron Gaphus,3,1,6,116,3,309,1280,720
-cWt3Nh,#0001,Squadron Gaphus,4,1,6,194,4,244,1280,720
-cWt3Nh,#0001,Squadron Gaphus,5,1,6,115,4,307,1280,720
-cWt3Nh,#0001,Squadron Gaphus,6,1,6,268,4,298,1280,720
-cWt3Nh,#0001,Squadron Gaphus,7,1,6,77,1,440,1280,720
-cWt3Nh,#0001,Squadron Gaphus,8,1,6,201,6,229,1280,720
-cWt3Nh,#0001,Squadron Gaphus,9,1,6,134,4,288,1280,720
-cWt3Nh,#0001,Squadron Gaphus,10,-1,2,0,0,461,1280,720
-WCIDyq,#0002,Squadron Nonia,0,-1,4,0,0,316,1280,720
-1F4E24,#0002,Squadron Nonia,0,1,6,204,4,310,1280,720
-1F4E24,#0002,Squadron Nonia,1,1,6,224,4,469,1280,720
-1F4E24,#0002,Squadron Nonia,2,-1,4,0,0,474,1280,720
-MIxHsI,#0002,Squadron Nonia,0,1,6,95,3,389,1280,720
-MIxHsI,#0002,Squadron Nonia,1,1,6,351,5,368,1280,720
-MIxHsI,#0002,Squadron Nonia,2,1,6,211,4,367,1280,720
-MIxHsI,#0002,Squadron Nonia,3,-1,4,0,0,516,1280,720
-FCbnpQ,#0003,Squadron Tubos,0,1,6,296,4,364,1280,720
-FCbnpQ,#0003,Squadron Tubos,1,1,6,521,6,275,1280,720
-FCbnpQ,#0003,Squadron Tubos,2,1,6,314,3,338,1280,720
-FCbnpQ,#0003,Squadron Tubos,3,1,6,157,2,575,1280,720
-FCbnpQ,#0003,Squadron Tubos,4,1,6,285,3,511,1280,720
-FCbnpQ,#0003,Squadron Tubos,5,1,6,292,5,363,1280,720
-FCbnpQ,#0003,Squadron Tubos,6,1,6,45,3,416,1280,720
-FCbnpQ,#0003,Squadron Tubos,7,1,6,156,4,329,1280,720
-FCbnpQ,#0003,Squadron Tubos,8,1,6,131,3,386,1280,720
-FCbnpQ,#0003,Squadron Tubos,9,1,6,189,4,370,1280,720
-FCbnpQ,#0003,Squadron Tubos,10,1,6,78,3,393,1280,720
-FCbnpQ,#0003,Squadron Tubos,11,1,6,100,2,308,1280,720
-FCbnpQ,#0003,Squadron Tubos,12,1,6,336,4,410,1280,720
-FCbnpQ,#0003,Squadron Tubos,13,1,6,378,6,274,1280,720
-FCbnpQ,#0003,Squadron Tubos,14,-1,4,0,0,383,1280,720
-LJ8zZ2,#0003,Squadron Tubos,0,1,6,268,5,295,1280,720
-LJ8zZ2,#0003,Squadron Tubos,1,1,6,332,5,273,1280,720
-LJ8zZ2,#0003,Squadron Tubos,2,1,6,220,3,446,1280,720
-LJ8zZ2,#0003,Squadron Tubos,3,1,6,223,5,793,1280,720
-LJ8zZ2,#0003,Squadron Tubos,4,1,6,354,6,271,1280,720
-LJ8zZ2,#0003,Squadron Tubos,5,1,6,227,4,325,1280,720
-LJ8zZ2,#0003,Squadron Tubos,6,1,6,393,5,332,1280,720
-LJ8zZ2,#0003,Squadron Tubos,7,1,6,299,5,288,1280,720
-LJ8zZ2,#0003,Squadron Tubos,8,1,6,306,4,393,1280,720
-LJ8zZ2,#0003,Squadron Tubos,9,1,6,243,3,365,1280,720
-LJ8zZ2,#0003,Squadron Tubos,10,-1,5,0,0,570,1280,720
-q8RTts,#0003,Squadron Tubos,0,1,6,241,2,353,1280,720
-q8RTts,#0003,Squadron Tubos,1,1,6,319,3,380,1280,720
-q8RTts,#0003,Squadron Tubos,2,1,6,175,3,409,1280,720
-q8RTts,#0003,Squadron Tubos,3,1,6,99,2,388,1280,720
-q8RTts,#0003,Squadron Tubos,4,1,6,357,4,328,1280,720
-q8RTts,#0003,Squadron Tubos,5,1,6,373,5,461,1280,720
-q8RTts,#0003,Squadron Tubos,6,1,6,303,4,328,1280,720
-q8RTts,#0003,Squadron Tubos,7,1,6,395,5,284,1280,720
-q8RTts,#0003,Squadron Tubos,8,1,6,229,4,325,1280,720
-q8RTts,#0003,Squadron Tubos,9,1,6,78,3,512,1280,720
-q8RTts,#0003,Squadron Tubos,10,-1,1,0,0,321,1280,720
-E2eBgW,#0004,Squadron Pecury,0,-1,2,0,0,275,1280,720
-E2iSyk,#0004,Squadron Pecury,0,-1,4,0,0,327,1280,720
-Ppg2sH,#0004,Squadron Pecury,0,-1,2,0,0,317,1280,720
-GUXcWW,#0005,Squadron Cotania,0,-1,0,0,0,391,1280,720
-lGYuUo,#0005,Squadron Cotania,0,1,6,143,4,294,1280,720
-lGYuUo,#0005,Squadron Cotania,1,1,6,25,1,523,1280,720
-lGYuUo,#0005,Squadron Cotania,2,1,6,51,3,366,1280,720
-lGYuUo,#0005,Squadron Cotania,3,1,6,34,2,558,1280,720
-lGYuUo,#0005,Squadron Cotania,4,1,6,36,1,631,1280,720
-lGYuUo,#0005,Squadron Cotania,5,1,6,222,4,338,1280,720
-lGYuUo,#0005,Squadron Cotania,6,-1,3,0,0,470,1280,720
-8Fl5Na,#0005,Squadron Cotania,0,-1,1,0,0,294,1280,720
-rdSn6g,#0006,Squadron Sophus,0,-1,2,0,0,267,1280,720
-ZlxFYm,#0006,Squadron Sophus,0,-1,3,0,0,328,1280,720
-qmEfrU,#0006,Squadron Sophus,0,-1,3,0,0,554,1280,720
-nDLKKL,#0007,Squadron Nostea,0,1,6,409,5,271,1280,720
-nDLKKL,#0007,Squadron Nostea,1,1,6,363,6,489,1280,720
-nDLKKL,#0007,Squadron Nostea,2,1,6,126,2,439,1280,720
-nDLKKL,#0007,Squadron Nostea,3,1,6,305,4,658,1280,720
-nDLKKL,#0007,Squadron Nostea,4,1,6,445,6,284,1280,720
-nDLKKL,#0007,Squadron Nostea,5,1,6,328,5,355,1280,720
-nDLKKL,#0007,Squadron Nostea,6,1,6,172,3,425,1280,720
-nDLKKL,#0007,Squadron Nostea,7,1,6,174,2,531,1280,720
-nDLKKL,#0007,Squadron Nostea,8,1,6,253,4,304,1280,720
-nDLKKL,#0007,Squadron Nostea,9,-1,3,0,0,414,1280,720
-kAJVAq,#0007,Squadron Nostea,0,-1,3,0,0,450,1280,720
-pOTjJM,#0007,Squadron Nostea,0,-1,4,0,0,513,1280,720
-SSrrwo,#0008,Squadron Tepra,0,1,6,277,5,298,1280,720
-SSrrwo,#0008,Squadron Tepra,1,1,6,105,2,948,1280,720
-SSrrwo,#0008,Squadron Tepra,2,1,6,248,5,313,1280,720
-SSrrwo,#0008,Squadron Tepra,3,-1,5,0,0,2334,1280,720
-1DSgAq,#0008,Squadron Tepra,0,1,6,175,2,456,1280,720
-1DSgAq,#0008,Squadron Tepra,1,1,6,144,2,522,1280,720
-1DSgAq,#0008,Squadron Tepra,2,1,6,456,6,248,1280,720
-1DSgAq,#0008,Squadron Tepra,3,-1,3,0,0,557,1280,720
-cXYKHO,#0008,Squadron Tepra,0,1,6,383,5,276,1280,720
-cXYKHO,#0008,Squadron Tepra,1,1,6,155,2,323,1280,720
-cXYKHO,#0008,Squadron Tepra,2,1,6,71,2,489,1280,720
-cXYKHO,#0008,Squadron Tepra,3,-1,2,0,0,385,1280,720
-DZM9Xp,#0009,Squadron Relia v12.42,0,1,6,166,4,275,1280,720
-DZM9Xp,#0009,Squadron Relia v12.42,1,1,6,144,4,274,1280,720
-DZM9Xp,#0009,Squadron Relia v12.42,2,1,6,212,5,250,1280,720
-DZM9Xp,#0009,Squadron Relia v12.42,3,-1,3,0,0,479,1280,720
-sBtWLl,#0009,Squadron Relia v12.42,0,-1,5,0,0,489,1280,720
-N1n8KC,#0009,Squadron Relia v12.42,0,-1,0,0,0,325,1280,720
-1Fnd3e,#0010,Squadron Xocury,0,-1,2,0,0,284,1280,720
-CvSqOU,#0010,Squadron Xocury,0,-1,0,0,0,312,1280,720
-QSErf7,#0010,Squadron Xocury,0,-1,2,0,0,188,1280,720
-UHw3UY,#0011,Squadron Wuwei v12.30,0,1,6,143,4,281,1280,720
-UHw3UY,#0011,Squadron Wuwei v12.30,1,1,6,216,4,300,1280,720
-UHw3UY,#0011,Squadron Wuwei v12.30,2,1,6,4,1,719,1280,720
-UHw3UY,#0011,Squadron Wuwei v12.30,3,1,6,75,2,578,1280,720
-UHw3UY,#0011,Squadron Wuwei v12.30,4,1,6,169,2,495,1280,720
-UHw3UY,#0011,Squadron Wuwei v12.30,5,-1,5,0,0,499,1280,720
-AIg0f2,#0011,Squadron Wuwei v12.30,0,1,6,117,4,225,1280,720
-AIg0f2,#0011,Squadron Wuwei v12.30,1,1,6,295,5,225,1280,720
-AIg0f2,#0011,Squadron Wuwei v12.30,2,1,6,192,5,325,1280,720
-AIg0f2,#0011,Squadron Wuwei v12.30,3,-1,0,0,0,381,1280,720
-g2e7fI,#0011,Squadron Wuwei v12.30,0,-1,3,0,0,268,1280,720
-QKGHrW,#0012,Squadron Yutera Mk LXXXIV,0,-1,2,0,0,250,1280,720
-l2ozqG,#0012,Squadron Yutera Mk LXXXIV,0,-1,4,0,0,373,1280,720
-cgMUdf,#0012,Squadron Yutera Mk LXXXIV,0,-1,3,0,0,281,1280,720
-Sfh6AM,#0013,Squadron Tewei v11.69,0,1,6,457,6,255,1280,720
-Sfh6AM,#0013,Squadron Tewei v11.69,1,1,6,519,5,235,1280,720
-Sfh6AM,#0013,Squadron Tewei v11.69,2,1,6,276,5,217,1280,720
-Sfh6AM,#0013,Squadron Tewei v11.69,3,1,6,177,3,443,1280,720
-Sfh6AM,#0013,Squadron Tewei v11.69,4,1,6,264,4,266,1280,720
-Sfh6AM,#0013,Squadron Tewei v11.69,5,1,6,457,5,379,1280,720
-Sfh6AM,#0013,Squadron Tewei v11.69,6,1,6,500,5,253,1280,720
-Sfh6AM,#0013,Squadron Tewei v11.69,7,1,6,299,4,466,1280,720
-Sfh6AM,#0013,Squadron Tewei v11.69,8,1,6,294,5,266,1280,720
-Sfh6AM,#0013,Squadron Tewei v11.69,9,1,6,263,5,374,1280,720
-Sfh6AM,#0013,Squadron Tewei v11.69,10,1,6,179,4,370,1280,720
-Sfh6AM,#0013,Squadron Tewei v11.69,11,1,6,160,4,367,1280,720
-Sfh6AM,#0013,Squadron Tewei v11.69,12,1,6,134,3,463,1280,720
-Sfh6AM,#0013,Squadron Tewei v11.69,13,1,6,541,6,225,1280,720
-Sfh6AM,#0013,Squadron Tewei v11.69,14,1,6,281,5,242,1280,720
-Sfh6AM,#0013,Squadron Tewei v11.69,15,1,6,273,3,339,1280,720
-Sfh6AM,#0013,Squadron Tewei v11.69,16,1,6,461,5,198,1280,720
-Sfh6AM,#0013,Squadron Tewei v11.69,17,1,6,408,6,255,1280,720
-Sfh6AM,#0013,Squadron Tewei v11.69,18,1,6,237,4,410,1280,720
-Sfh6AM,#0013,Squadron Tewei v11.69,19,1,6,138,3,326,1280,720
-Sfh6AM,#0013,Squadron Tewei v11.69,20,1,6,137,2,332,1280,720
-Sfh6AM,#0013,Squadron Tewei v11.69,21,-1,2,0,0,312,1280,720
-yPfF9y,#0013,Squadron Tewei v11.69,0,1,6,362,5,382,1280,720
-yPfF9y,#0013,Squadron Tewei v11.69,1,1,6,481,6,241,1280,720
-yPfF9y,#0013,Squadron Tewei v11.69,2,1,6,440,6,172,1280,720
-yPfF9y,#0013,Squadron Tewei v11.69,3,1,6,120,3,431,1280,720
-yPfF9y,#0013,Squadron Tewei v11.69,4,1,6,596,6,167,1280,720
-yPfF9y,#0013,Squadron Tewei v11.69,5,1,6,370,4,250,1280,720
-yPfF9y,#0013,Squadron Tewei v11.69,6,1,6,363,6,336,1280,720
-yPfF9y,#0013,Squadron Tewei v11.69,7,1,6,414,5,242,1280,720
-yPfF9y,#0013,Squadron Tewei v11.69,8,1,6,349,5,253,1280,720
-yPfF9y,#0013,Squadron Tewei v11.69,9,1,6,281,4,307,1280,720
-yPfF9y,#0013,Squadron Tewei v11.69,10,1,6,165,3,395,1280,720
-yPfF9y,#0013,Squadron Tewei v11.69,11,1,6,500,5,184,1280,720
-yPfF9y,#0013,Squadron Tewei v11.69,12,1,6,92,2,449,1280,720
-yPfF9y,#0013,Squadron Tewei v11.69,13,1,6,254,4,216,1280,720
-yPfF9y,#0013,Squadron Tewei v11.69,14,1,6,119,3,343,1280,720
-yPfF9y,#0013,Squadron Tewei v11.69,15,1,6,109,2,494,1280,720
-yPfF9y,#0013,Squadron Tewei v11.69,16,1,6,536,6,169,1280,720
-yPfF9y,#0013,Squadron Tewei v11.69,17,1,6,408,5,217,1280,720
-yPfF9y,#0013,Squadron Tewei v11.69,18,1,6,205,4,331,1280,720
-yPfF9y,#0013,Squadron Tewei v11.69,19,1,6,269,5,402,1280,720
-yPfF9y,#0013,Squadron Tewei v11.69,20,-1,4,0,0,540,1280,720
-DetLoG,#0013,Squadron Tewei v11.69,0,1,6,500,5,201,1280,720
-DetLoG,#0013,Squadron Tewei v11.69,1,1,6,375,5,234,1280,720
-DetLoG,#0013,Squadron Tewei v11.69,2,1,6,379,5,215,1280,720
-DetLoG,#0013,Squadron Tewei v11.69,3,1,6,450,5,263,1280,720
-DetLoG,#0013,Squadron Tewei v11.69,4,1,6,514,5,196,1280,720
-DetLoG,#0013,Squadron Tewei v11.69,5,1,6,448,5,255,1280,720
-DetLoG,#0013,Squadron Tewei v11.69,6,1,6,436,5,243,1280,720
-DetLoG,#0013,Squadron Tewei v11.69,7,1,6,105,2,402,1280,720
-DetLoG,#0013,Squadron Tewei v11.69,8,1,6,491,5,290,1280,720
-DetLoG,#0013,Squadron Tewei v11.69,9,1,6,292,5,308,1280,720
-DetLoG,#0013,Squadron Tewei v11.69,10,1,6,338,4,381,1280,720
-DetLoG,#0013,Squadron Tewei v11.69,11,1,6,282,3,249,1280,720
-DetLoG,#0013,Squadron Tewei v11.69,12,1,6,296,5,319,1280,720
-DetLoG,#0013,Squadron Tewei v11.69,13,1,6,473,6,216,1280,720
-DetLoG,#0013,Squadron Tewei v11.69,14,1,6,374,6,184,1280,720
-DetLoG,#0013,Squadron Tewei v11.69,15,1,6,165,3,677,1280,720
-DetLoG,#0013,Squadron Tewei v11.69,16,1,6,475,5,181,1280,720
-DetLoG,#0013,Squadron Tewei v11.69,17,1,6,257,5,334,1280,720
-DetLoG,#0013,Squadron Tewei v11.69,18,1,6,415,5,287,1280,720
-DetLoG,#0013,Squadron Tewei v11.69,19,1,6,323,5,360,1280,720
-DetLoG,#0013,Squadron Tewei v11.69,20,1,6,247,3,275,1280,720
-DetLoG,#0013,Squadron Tewei v11.69,21,1,6,210,4,311,1280,720
-DetLoG,#0013,Squadron Tewei v11.69,22,1,6,446,6,242,1280,720
-DetLoG,#0013,Squadron Tewei v11.69,23,1,6,138,3,289,1280,720
-DetLoG,#0013,Squadron Tewei v11.69,24,1,6,371,6,285,1280,720
-DetLoG,#0013,Squadron Tewei v11.69,25,1,6,413,5,236,1280,720
-DetLoG,#0013,Squadron Tewei v11.69,26,1,6,376,6,235,1280,720
-DetLoG,#0013,Squadron Tewei v11.69,27,1,6,193,3,549,1280,720
-DetLoG,#0013,Squadron Tewei v11.69,28,1,6,398,4,213,1280,720
-DetLoG,#0013,Squadron Tewei v11.69,29,-1,3,0,0,504,1280,720
-upStcA,#0014,Squadron Qewei Mk XCV,0,-1,3,0,0,322,1280,720
-dEQruA,#0014,Squadron Qewei Mk XCV,0,-1,5,0,0,418,1280,720
-JfQiMe,#0014,Squadron Qewei Mk XCV,0,-1,1,0,0,270,1280,720
-Cykd4H,#0015,Squadron Honov,0,1,6,265,4,313,1280,720
-Cykd4H,#0015,Squadron Honov,1,1,6,246,3,454,1280,720
-Cykd4H,#0015,Squadron Honov,2,1,6,391,5,342,1280,720
-Cykd4H,#0015,Squadron Honov,3,1,6,248,4,359,1280,720
-Cykd4H,#0015,Squadron Honov,4,1,6,374,6,243,1280,720
-Cykd4H,#0015,Squadron Honov,5,1,6,241,3,462,1280,720
-Cykd4H,#0015,Squadron Honov,6,1,6,399,6,308,1280,720
-Cykd4H,#0015,Squadron Honov,7,1,6,360,5,310,1280,720
-Cykd4H,#0015,Squadron Honov,8,1,6,215,4,401,1280,720
-Cykd4H,#0015,Squadron Honov,9,1,6,241,5,307,1280,720
-Cykd4H,#0015,Squadron Honov,10,-1,3,0,0,456,1280,720
-Q7NClV,#0015,Squadron Honov,0,1,6,102,2,403,1280,720
-Q7NClV,#0015,Squadron Honov,1,1,6,447,6,228,1280,720
-Q7NClV,#0015,Squadron Honov,2,1,6,107,2,385,1280,720
-Q7NClV,#0015,Squadron Honov,3,-1,3,0,0,412,1280,720
-WY09W3,#0015,Squadron Honov,0,1,6,377,6,285,1280,720
-WY09W3,#0015,Squadron Honov,1,1,6,12,1,566,1280,720
-WY09W3,#0015,Squadron Honov,2,1,6,169,3,330,1280,720
-WY09W3,#0015,Squadron Honov,3,-1,2,0,0,440,1280,720
-nm6Gum,#0016,Squadron Purilia Mk XXXV,0,1,6,60,3,308,1280,720
-nm6Gum,#0016,Squadron Purilia Mk XXXV,1,-1,4,0,0,362,1280,720
-YzFDRF,#0016,Squadron Purilia Mk XXXV,0,-1,1,0,0,287,1280,720
-LxQ4PA,#0016,Squadron Purilia Mk XXXV,0,-1,3,0,0,358,1280,720
-AJbg08,#0017,Squadron Wonus,0,1,6,463,6,248,1280,720
-AJbg08,#0017,Squadron Wonus,1,1,6,501,5,330,1280,720
-AJbg08,#0017,Squadron Wonus,2,1,6,359,4,469,1280,720
-AJbg08,#0017,Squadron Wonus,3,1,6,301,4,338,1280,720
-AJbg08,#0017,Squadron Wonus,4,1,6,495,5,278,1280,720
-AJbg08,#0017,Squadron Wonus,5,1,6,261,5,401,1280,720
-AJbg08,#0017,Squadron Wonus,6,1,6,420,5,492,1280,720
-AJbg08,#0017,Squadron Wonus,7,-1,2,0,0,431,1280,720
-TVOfBd,#0017,Squadron Wonus,0,1,6,439,4,391,1280,720
-TVOfBd,#0017,Squadron Wonus,1,1,6,492,5,286,1280,720
-TVOfBd,#0017,Squadron Wonus,2,1,6,515,5,275,1280,720
-TVOfBd,#0017,Squadron Wonus,3,1,6,324,4,357,1280,720
-TVOfBd,#0017,Squadron Wonus,4,1,6,525,6,263,1280,720
-TVOfBd,#0017,Squadron Wonus,5,1,6,126,3,430,1280,720
-TVOfBd,#0017,Squadron Wonus,6,1,6,406,5,348,1280,720
-TVOfBd,#0017,Squadron Wonus,7,1,6,397,6,266,1280,720
-TVOfBd,#0017,Squadron Wonus,8,1,6,427,6,304,1280,720
-TVOfBd,#0017,Squadron Wonus,9,1,6,305,5,316,1280,720
-TVOfBd,#0017,Squadron Wonus,10,-1,5,0,0,491,1280,720
-6fH0Hg,#0017,Squadron Wonus,0,1,6,491,6,279,1280,720
-6fH0Hg,#0017,Squadron Wonus,1,1,6,411,6,274,1280,720
-6fH0Hg,#0017,Squadron Wonus,2,1,6,307,4,375,1280,720
-6fH0Hg,#0017,Squadron Wonus,3,1,6,178,3,390,1280,720
-6fH0Hg,#0017,Squadron Wonus,4,1,6,554,5,230,1280,720
-6fH0Hg,#0017,Squadron Wonus,5,1,6,371,4,270,1280,720
-6fH0Hg,#0017,Squadron Wonus,6,1,6,501,6,309,1280,720
-6fH0Hg,#0017,Squadron Wonus,7,1,6,229,5,332,1280,720
-6fH0Hg,#0017,Squadron Wonus,8,1,6,509,5,349,1280,720
-6fH0Hg,#0017,Squadron Wonus,9,1,6,190,2,705,1280,720
-6fH0Hg,#0017,Squadron Wonus,10,1,6,479,6,309,1280,720
-6fH0Hg,#0017,Squadron Wonus,11,-1,3,0,0,468,1280,720
-AfjqBB,#0018,Squadron Buwei,0,1,6,4,1,522,1280,720
-AfjqBB,#0018,Squadron Buwei,1,1,6,383,4,309,1280,720
-AfjqBB,#0018,Squadron Buwei,2,1,6,321,4,350,1280,720
-AfjqBB,#0018,Squadron Buwei,3,-1,4,0,0,438,1280,720
-avuh2j,#0018,Squadron Buwei,0,1,6,84,3,406,1280,720
-avuh2j,#0018,Squadron Buwei,1,1,6,294,6,264,1280,720
-avuh2j,#0018,Squadron Buwei,2,1,6,237,5,320,1280,720
-avuh2j,#0018,Squadron Buwei,3,-1,4,0,0,655,1280,720
-ndlL2g,#0018,Squadron Buwei,0,1,6,323,4,382,1280,720
-ndlL2g,#0018,Squadron Buwei,1,1,6,267,4,325,1280,720
-ndlL2g,#0018,Squadron Buwei,2,1,6,48,2,435,1280,720
-ndlL2g,#0018,Squadron Buwei,3,-1,5,0,0,491,1280,720
-8apZWP,#0019,Squadron Iavis v40.72,0,1,6,430,6,182,1280,720
-8apZWP,#0019,Squadron Iavis v40.72,1,1,6,287,3,284,1280,720
-8apZWP,#0019,Squadron Iavis v40.72,2,1,6,572,6,186,1280,720
-8apZWP,#0019,Squadron Iavis v40.72,3,1,6,366,5,265,1280,720
-8apZWP,#0019,Squadron Iavis v40.72,4,1,6,445,5,264,1280,720
-8apZWP,#0019,Squadron Iavis v40.72,5,1,6,492,5,180,1280,720
-8apZWP,#0019,Squadron Iavis v40.72,6,1,6,407,5,288,1280,720
-8apZWP,#0019,Squadron Iavis v40.72,7,1,6,217,3,304,1280,720
-8apZWP,#0019,Squadron Iavis v40.72,8,1,6,401,5,312,1280,720
-8apZWP,#0019,Squadron Iavis v40.72,9,1,6,214,3,324,1280,720
-8apZWP,#0019,Squadron Iavis v40.72,10,1,6,439,5,361,1280,720
-8apZWP,#0019,Squadron Iavis v40.72,11,1,6,260,3,290,1280,720
-8apZWP,#0019,Squadron Iavis v40.72,12,1,6,186,3,416,1280,720
-8apZWP,#0019,Squadron Iavis v40.72,13,1,6,172,3,438,1280,720
-8apZWP,#0019,Squadron Iavis v40.72,14,1,6,261,4,260,1280,720
-8apZWP,#0019,Squadron Iavis v40.72,15,1,6,306,4,361,1280,720
-8apZWP,#0019,Squadron Iavis v40.72,16,1,6,592,5,190,1280,720
-8apZWP,#0019,Squadron Iavis v40.72,17,1,6,419,4,261,1280,720
-8apZWP,#0019,Squadron Iavis v40.72,18,1,6,274,3,364,1280,720
-8apZWP,#0019,Squadron Iavis v40.72,19,-1,2,0,0,469,1280,720
-a6v30R,#0019,Squadron Iavis v40.72,0,1,6,415,5,303,1280,720
-a6v30R,#0019,Squadron Iavis v40.72,1,1,6,334,4,242,1280,720
-a6v30R,#0019,Squadron Iavis v40.72,2,1,6,366,3,419,1280,720
-a6v30R,#0019,Squadron Iavis v40.72,3,1,6,259,4,337,1280,720
-a6v30R,#0019,Squadron Iavis v40.72,4,1,6,564,6,167,1280,720
-a6v30R,#0019,Squadron Iavis v40.72,5,1,6,407,5,505,1280,720
-a6v30R,#0019,Squadron Iavis v40.72,6,1,6,379,4,480,1280,720
-a6v30R,#0019,Squadron Iavis v40.72,7,1,6,386,5,243,1280,720
-a6v30R,#0019,Squadron Iavis v40.72,8,1,6,163,3,444,1280,720
-a6v30R,#0019,Squadron Iavis v40.72,9,1,6,397,5,377,1280,720
-a6v30R,#0019,Squadron Iavis v40.72,10,1,6,561,5,233,1280,720
-a6v30R,#0019,Squadron Iavis v40.72,11,1,6,370,5,259,1280,720
-a6v30R,#0019,Squadron Iavis v40.72,12,1,6,101,3,384,1280,720
-a6v30R,#0019,Squadron Iavis v40.72,13,1,6,310,4,333,1280,720
-a6v30R,#0019,Squadron Iavis v40.72,14,1,6,362,5,289,1280,720
-a6v30R,#0019,Squadron Iavis v40.72,15,1,6,283,5,290,1280,720
-a6v30R,#0019,Squadron Iavis v40.72,16,1,6,570,5,191,1280,720
-a6v30R,#0019,Squadron Iavis v40.72,17,1,6,338,5,682,1280,720
-a6v30R,#0019,Squadron Iavis v40.72,18,-1,1,0,0,349,1280,720
-84EdXY,#0019,Squadron Iavis v40.72,0,1,6,472,6,214,1280,720
-84EdXY,#0019,Squadron Iavis v40.72,1,1,6,499,6,228,1280,720
-84EdXY,#0019,Squadron Iavis v40.72,2,1,6,470,6,262,1280,720
-84EdXY,#0019,Squadron Iavis v40.72,3,1,6,327,4,325,1280,720
-84EdXY,#0019,Squadron Iavis v40.72,4,1,6,437,4,236,1280,720
-84EdXY,#0019,Squadron Iavis v40.72,5,1,6,446,5,230,1280,720
-84EdXY,#0019,Squadron Iavis v40.72,6,1,6,450,6,231,1280,720
-84EdXY,#0019,Squadron Iavis v40.72,7,1,6,522,6,198,1280,720
-84EdXY,#0019,Squadron Iavis v40.72,8,1,6,389,5,289,1280,720
-84EdXY,#0019,Squadron Iavis v40.72,9,1,6,266,3,365,1280,720
-84EdXY,#0019,Squadron Iavis v40.72,10,1,6,239,3,361,1280,720
-84EdXY,#0019,Squadron Iavis v40.72,11,1,6,301,4,287,1280,720
-84EdXY,#0019,Squadron Iavis v40.72,12,1,6,326,4,384,1280,720
-84EdXY,#0019,Squadron Iavis v40.72,13,1,6,338,4,298,1280,720
-84EdXY,#0019,Squadron Iavis v40.72,14,1,6,144,4,218,1280,720
-84EdXY,#0019,Squadron Iavis v40.72,15,1,6,424,6,266,1280,720
-84EdXY,#0019,Squadron Iavis v40.72,16,1,6,547,5,269,1280,720
-84EdXY,#0019,Squadron Iavis v40.72,17,1,6,445,3,367,1280,720
-84EdXY,#0019,Squadron Iavis v40.72,18,-1,3,0,0,537,1280,720
-q9Cz2e,#0020,Squadron Humia,0,-1,3,0,0,462,1280,720
-sAiLHr,#0020,Squadron Humia,0,1,6,98,2,395,1280,720
-sAiLHr,#0020,Squadron Humia,1,1,6,182,3,372,1280,720
-sAiLHr,#0020,Squadron Humia,2,1,6,49,2,385,1280,720
-sAiLHr,#0020,Squadron Humia,3,-1,5,0,0,647,1280,720
-8J3igt,#0020,Squadron Humia,0,1,6,354,6,222,1280,720
-8J3igt,#0020,Squadron Humia,1,-1,4,0,0,544,1280,720
-CggNYb,#0021,Squadron Selea,0,1,6,161,2,316,1280,720
-CggNYb,#0021,Squadron Selea,1,1,6,387,5,242,1280,720
-CggNYb,#0021,Squadron Selea,2,1,6,315,3,254,1280,720
-CggNYb,#0021,Squadron Selea,3,-1,2,0,0,433,1280,720
-YaJob7,#0021,Squadron Selea,0,-1,3,0,0,376,1280,720
-rWcLtt,#0021,Squadron Selea,0,1,6,263,4,297,1280,720
-rWcLtt,#0021,Squadron Selea,1,1,6,295,5,307,1280,720
-rWcLtt,#0021,Squadron Selea,2,1,6,78,2,578,1280,720
-rWcLtt,#0021,Squadron Selea,3,1,6,242,4,265,1280,720
-rWcLtt,#0021,Squadron Selea,4,1,6,364,4,262,1280,720
-rWcLtt,#0021,Squadron Selea,5,1,6,96,1,729,1280,720
-rWcLtt,#0021,Squadron Selea,6,1,6,308,4,291,1280,720
-rWcLtt,#0021,Squadron Selea,7,1,6,337,4,264,1280,720
-rWcLtt,#0021,Squadron Selea,8,1,6,299,4,368,1280,720
-rWcLtt,#0021,Squadron Selea,9,-1,4,0,0,337,1280,720
-oaXZYu,#0022,Squadron Yocarro Mk XLVII,0,1,6,245,2,243,1280,720
-oaXZYu,#0022,Squadron Yocarro Mk XLVII,1,1,6,118,3,375,1280,720
-oaXZYu,#0022,Squadron Yocarro Mk XLVII,2,1,6,167,4,254,1280,720
-oaXZYu,#0022,Squadron Yocarro Mk XLVII,3,1,6,297,5,298,1280,720
-oaXZYu,#0022,Squadron Yocarro Mk XLVII,4,1,6,377,6,182,1280,720
-oaXZYu,#0022,Squadron Yocarro Mk XLVII,5,1,6,272,4,299,1280,720
-oaXZYu,#0022,Squadron Yocarro Mk XLVII,6,1,6,234,4,355,1280,720
-oaXZYu,#0022,Squadron Yocarro Mk XLVII,7,1,6,176,5,195,1280,720
-oaXZYu,#0022,Squadron Yocarro Mk XLVII,8,-1,2,0,0,306,1280,720
-NTBO5y,#0022,Squadron Yocarro Mk XLVII,0,-1,2,0,0,289,1280,720
-fbMAgY,#0022,Squadron Yocarro Mk XLVII,0,-1,2,0,0,380,1280,720
-UV2EQY,#0023,Squadron Manope Mk XXXVII,0,1,6,64,1,472,1280,720
-UV2EQY,#0023,Squadron Manope Mk XXXVII,1,1,6,176,3,349,1280,720
-UV2EQY,#0023,Squadron Manope Mk XXXVII,2,-1,4,0,0,304,1280,720
-9ehyCz,#0023,Squadron Manope Mk XXXVII,0,1,6,113,2,350,1280,720
-9ehyCz,#0023,Squadron Manope Mk XXXVII,1,1,6,254,4,326,1280,720
-9ehyCz,#0023,Squadron Manope Mk XXXVII,2,-1,0,0,0,210,1280,720
-kznD3b,#0023,Squadron Manope Mk XXXVII,0,-1,4,0,0,304,1280,720
-e5diit,#0024,Squadron Wehines Mk L,0,1,6,124,1,556,1280,720
-e5diit,#0024,Squadron Wehines Mk L,1,1,6,337,4,345,1280,720
-e5diit,#0024,Squadron Wehines Mk L,2,-1,2,0,0,302,1280,720
-SPWWSm,#0024,Squadron Wehines Mk L,0,-1,1,0,0,484,1280,720
-FkLHvU,#0024,Squadron Wehines Mk L,0,1,6,391,5,253,1280,720
-FkLHvU,#0024,Squadron Wehines Mk L,1,1,6,317,4,297,1280,720
-FkLHvU,#0024,Squadron Wehines Mk L,2,1,6,177,2,365,1280,720
-FkLHvU,#0024,Squadron Wehines Mk L,3,-1,2,0,0,330,1280,720
-gxnNY4,#0025,Squadron Iapra,0,1,6,208,4,247,1280,720
-gxnNY4,#0025,Squadron Iapra,1,-1,2,0,0,380,1280,720
-kwI8Kc,#0025,Squadron Iapra,0,1,6,140,3,315,1280,720
-kwI8Kc,#0025,Squadron Iapra,1,1,6,82,2,365,1280,720
-kwI8Kc,#0025,Squadron Iapra,2,-1,2,0,0,390,1280,720
-RLqzFq,#0025,Squadron Iapra,0,-1,2,0,0,315,1280,720
-U4Ve7S,#0026,Squadron Jolea,0,-1,2,0,0,600,1280,720
-Gw72TA,#0026,Squadron Jolea,0,1,6,98,2,314,1280,720
-Gw72TA,#0026,Squadron Jolea,1,1,6,168,3,307,1280,720
-Gw72TA,#0026,Squadron Jolea,2,1,6,262,6,249,1280,720
-Gw72TA,#0026,Squadron Jolea,3,1,6,50,2,506,1280,720
-Gw72TA,#0026,Squadron Jolea,4,1,6,271,6,224,1280,720
-Gw72TA,#0026,Squadron Jolea,5,-1,3,0,0,1017,1280,720
-SEOGY3,#0026,Squadron Jolea,0,-1,5,0,0,334,1280,720
-EhYRtX,#0027,Squadron Yutania,0,-1,4,0,0,282,1280,720
-FPWszE,#0027,Squadron Yutania,0,1,6,249,3,274,1280,720
-FPWszE,#0027,Squadron Yutania,1,1,6,231,5,348,1280,720
-FPWszE,#0027,Squadron Yutania,2,1,6,120,3,299,1280,720
-FPWszE,#0027,Squadron Yutania,3,-1,1,0,0,232,1280,720
-TSLVjU,#0027,Squadron Yutania,0,1,6,52,1,477,1280,720
-TSLVjU,#0027,Squadron Yutania,1,1,6,248,5,212,1280,720
-TSLVjU,#0027,Squadron Yutania,2,1,6,296,4,224,1280,720
-TSLVjU,#0027,Squadron Yutania,3,-1,0,0,0,343,1280,720
-kZ2JOV,#0028,Squadron Senus Mk XLIX,0,1,6,177,3,270,1280,720
-kZ2JOV,#0028,Squadron Senus Mk XLIX,1,1,6,300,5,243,1280,720
-kZ2JOV,#0028,Squadron Senus Mk XLIX,2,1,6,241,3,367,1280,720
-kZ2JOV,#0028,Squadron Senus Mk XLIX,3,1,6,351,5,344,1280,720
-kZ2JOV,#0028,Squadron Senus Mk XLIX,4,1,6,356,4,246,1280,720
-kZ2JOV,#0028,Squadron Senus Mk XLIX,5,1,6,242,3,357,1280,720
-kZ2JOV,#0028,Squadron Senus Mk XLIX,6,1,6,397,6,252,1280,720
-kZ2JOV,#0028,Squadron Senus Mk XLIX,7,1,6,249,4,263,1280,720
-kZ2JOV,#0028,Squadron Senus Mk XLIX,8,1,6,174,3,350,1280,720
-kZ2JOV,#0028,Squadron Senus Mk XLIX,9,1,6,227,5,274,1280,720
-kZ2JOV,#0028,Squadron Senus Mk XLIX,10,1,6,103,1,2110,1280,720
-kZ2JOV,#0028,Squadron Senus Mk XLIX,11,1,6,261,4,216,1280,720
-kZ2JOV,#0028,Squadron Senus Mk XLIX,12,1,6,100,3,820,1280,720
-kZ2JOV,#0028,Squadron Senus Mk XLIX,13,1,6,243,5,203,1280,720
-kZ2JOV,#0028,Squadron Senus Mk XLIX,14,1,6,210,4,261,1280,720
-kZ2JOV,#0028,Squadron Senus Mk XLIX,15,1,6,251,4,396,1280,720
-kZ2JOV,#0028,Squadron Senus Mk XLIX,16,1,6,497,6,183,1280,720
-kZ2JOV,#0028,Squadron Senus Mk XLIX,17,1,6,393,5,278,1280,720
-kZ2JOV,#0028,Squadron Senus Mk XLIX,18,1,6,146,2,481,1280,720
-kZ2JOV,#0028,Squadron Senus Mk XLIX,19,-1,1,0,0,280,1280,720
-o15cdf,#0028,Squadron Senus Mk XLIX,0,1,6,120,2,437,1280,720
-o15cdf,#0028,Squadron Senus Mk XLIX,1,1,6,443,5,169,1280,720
-o15cdf,#0028,Squadron Senus Mk XLIX,2,1,6,386,4,241,1280,720
-o15cdf,#0028,Squadron Senus Mk XLIX,3,1,6,56,2,358,1280,720
-o15cdf,#0028,Squadron Senus Mk XLIX,4,1,6,355,4,296,1280,720
-o15cdf,#0028,Squadron Senus Mk XLIX,5,1,6,454,6,216,1280,720
-o15cdf,#0028,Squadron Senus Mk XLIX,6,1,6,405,6,219,1280,720
-o15cdf,#0028,Squadron Senus Mk XLIX,7,1,6,223,4,494,1280,720
-o15cdf,#0028,Squadron Senus Mk XLIX,8,1,6,113,2,698,1280,720
-o15cdf,#0028,Squadron Senus Mk XLIX,9,1,6,240,4,454,1280,720
-o15cdf,#0028,Squadron Senus Mk XLIX,10,1,6,415,6,224,1280,720
-o15cdf,#0028,Squadron Senus Mk XLIX,11,1,6,107,3,365,1280,720
-o15cdf,#0028,Squadron Senus Mk XLIX,12,1,6,200,4,400,1280,720
-o15cdf,#0028,Squadron Senus Mk XLIX,13,1,6,297,4,233,1280,720
-o15cdf,#0028,Squadron Senus Mk XLIX,14,1,6,303,4,258,1280,720
-o15cdf,#0028,Squadron Senus Mk XLIX,15,1,6,217,3,427,1280,720
-o15cdf,#0028,Squadron Senus Mk XLIX,16,1,6,476,6,200,1280,720
-o15cdf,#0028,Squadron Senus Mk XLIX,17,1,6,278,6,257,1280,720
-o15cdf,#0028,Squadron Senus Mk XLIX,18,1,6,330,5,246,1280,720
-o15cdf,#0028,Squadron Senus Mk XLIX,19,-1,1,0,0,248,1280,720
-oHQt8O,#0028,Squadron Senus Mk XLIX,0,1,6,404,5,263,1280,720
-oHQt8O,#0028,Squadron Senus Mk XLIX,1,1,6,263,4,208,1280,720
-oHQt8O,#0028,Squadron Senus Mk XLIX,2,1,6,339,6,228,1280,720
-oHQt8O,#0028,Squadron Senus Mk XLIX,3,1,6,36,3,765,1280,720
-oHQt8O,#0028,Squadron Senus Mk XLIX,4,1,6,418,6,193,1280,720
-oHQt8O,#0028,Squadron Senus Mk XLIX,5,1,6,309,4,294,1280,720
-oHQt8O,#0028,Squadron Senus Mk XLIX,6,-1,4,0,0,425,1280,720
-LOiDGo,#0029,Squadron Nehiri,0,-1,2,0,0,396,1280,720
-kWDVca,#0029,Squadron Nehiri,0,-1,1,0,0,249,1280,720
-NGqEzv,#0029,Squadron Nehiri,0,-1,4,0,0,378,1280,720
-mu0RO4,#0030,Squadron Yenus,0,1,6,415,6,292,1280,720
-mu0RO4,#0030,Squadron Yenus,1,1,6,434,6,201,1280,720
-mu0RO4,#0030,Squadron Yenus,2,1,6,486,5,277,1280,720
-mu0RO4,#0030,Squadron Yenus,3,1,6,250,6,261,1280,720
-mu0RO4,#0030,Squadron Yenus,4,1,6,327,5,289,1280,720
-mu0RO4,#0030,Squadron Yenus,5,1,6,525,6,234,1280,720
-mu0RO4,#0030,Squadron Yenus,6,1,6,445,5,292,1280,720
-mu0RO4,#0030,Squadron Yenus,7,1,6,239,4,275,1280,720
-mu0RO4,#0030,Squadron Yenus,8,1,6,396,5,281,1280,720
-mu0RO4,#0030,Squadron Yenus,9,1,6,458,6,234,1280,720
-mu0RO4,#0030,Squadron Yenus,10,1,6,443,5,267,1280,720
-mu0RO4,#0030,Squadron Yenus,11,-1,3,0,0,867,1280,720
-tsEEXV,#0030,Squadron Yenus,0,1,6,491,5,266,1280,720
-tsEEXV,#0030,Squadron Yenus,1,1,6,446,5,328,1280,720
-tsEEXV,#0030,Squadron Yenus,2,1,6,365,5,378,1280,720
-tsEEXV,#0030,Squadron Yenus,3,1,6,207,3,480,1280,720
-tsEEXV,#0030,Squadron Yenus,4,1,6,445,6,276,1280,720
-tsEEXV,#0030,Squadron Yenus,5,1,6,425,5,311,1280,720
-tsEEXV,#0030,Squadron Yenus,6,1,6,475,6,326,1280,720
-tsEEXV,#0030,Squadron Yenus,7,1,6,296,4,321,1280,720
-tsEEXV,#0030,Squadron Yenus,8,1,6,277,5,356,1280,720
-tsEEXV,#0030,Squadron Yenus,9,1,6,237,5,313,1280,720
-tsEEXV,#0030,Squadron Yenus,10,1,6,403,6,323,1280,720
-tsEEXV,#0030,Squadron Yenus,11,1,6,462,6,263,1280,720
-tsEEXV,#0030,Squadron Yenus,12,1,6,246,4,412,1280,720
-tsEEXV,#0030,Squadron Yenus,13,1,6,453,6,229,1280,720
-tsEEXV,#0030,Squadron Yenus,14,1,6,230,4,359,1280,720
-tsEEXV,#0030,Squadron Yenus,15,1,6,363,5,321,1280,720
-tsEEXV,#0030,Squadron Yenus,16,1,6,500,5,184,1280,720
-tsEEXV,#0030,Squadron Yenus,17,1,6,489,5,254,1280,720
-tsEEXV,#0030,Squadron Yenus,18,-1,5,0,0,461,1280,720
-gdWP1j,#0030,Squadron Yenus,0,1,6,508,5,248,1280,720
-gdWP1j,#0030,Squadron Yenus,1,1,6,524,5,229,1280,720
-gdWP1j,#0030,Squadron Yenus,2,1,6,569,5,281,1280,720
-gdWP1j,#0030,Squadron Yenus,3,1,6,199,3,420,1280,720
-gdWP1j,#0030,Squadron Yenus,4,1,6,378,4,259,1280,720
-gdWP1j,#0030,Squadron Yenus,5,1,6,357,4,277,1280,720
-gdWP1j,#0030,Squadron Yenus,6,1,6,466,6,224,1280,720
-gdWP1j,#0030,Squadron Yenus,7,-1,4,0,0,430,1280,720
-OZJiCF,#0031,Squadron Ianov,0,1,6,332,5,207,1280,720
-OZJiCF,#0031,Squadron Ianov,1,1,6,486,6,173,1280,720
-OZJiCF,#0031,Squadron Ianov,2,1,6,481,6,201,1280,720
-OZJiCF,#0031,Squadron Ianov,3,1,6,263,5,330,1280,720
-OZJiCF,#0031,Squadron Ianov,4,1,6,470,5,218,1280,720
-OZJiCF,#0031,Squadron Ianov,5,1,6,545,6,288,1280,720
-OZJiCF,#0031,Squadron Ianov,6,1,6,426,5,291,1280,720
-OZJiCF,#0031,Squadron Ianov,7,1,6,347,3,189,1280,720
-OZJiCF,#0031,Squadron Ianov,8,1,6,438,5,271,1280,720
-OZJiCF,#0031,Squadron Ianov,9,1,6,32,1,538,1280,720
-OZJiCF,#0031,Squadron Ianov,10,1,6,383,3,336,1280,720
-OZJiCF,#0031,Squadron Ianov,11,1,6,275,4,274,1280,720
-OZJiCF,#0031,Squadron Ianov,12,-1,1,0,0,378,1280,720
-vzFSDV,#0031,Squadron Ianov,0,1,6,348,5,245,1280,720
-vzFSDV,#0031,Squadron Ianov,1,1,6,268,5,258,1280,720
-vzFSDV,#0031,Squadron Ianov,2,1,6,483,4,212,1280,720
-vzFSDV,#0031,Squadron Ianov,3,1,6,151,4,317,1280,720
-vzFSDV,#0031,Squadron Ianov,4,1,6,557,6,174,1280,720
-vzFSDV,#0031,Squadron Ianov,5,1,6,328,5,265,1280,720
-vzFSDV,#0031,Squadron Ianov,6,1,6,350,5,375,1280,720
-vzFSDV,#0031,Squadron Ianov,7,1,6,211,4,316,1280,720
-vzFSDV,#0031,Squadron Ianov,8,1,6,352,4,303,1280,720
-vzFSDV,#0031,Squadron Ianov,9,1,6,211,5,244,1280,720
-vzFSDV,#0031,Squadron Ianov,10,1,6,465,5,303,1280,720
-vzFSDV,#0031,Squadron Ianov,11,1,6,268,6,273,1280,720
-vzFSDV,#0031,Squadron Ianov,12,1,6,186,3,443,1280,720
-vzFSDV,#0031,Squadron Ianov,13,1,6,477,5,255,1280,720
-vzFSDV,#0031,Squadron Ianov,14,1,6,228,4,317,1280,720
-vzFSDV,#0031,Squadron Ianov,15,1,6,358,4,293,1280,720
-vzFSDV,#0031,Squadron Ianov,16,1,6,562,6,173,1280,720
-vzFSDV,#0031,Squadron Ianov,17,1,6,487,5,196,1280,720
-vzFSDV,#0031,Squadron Ianov,18,1,6,115,3,344,1280,720
-vzFSDV,#0031,Squadron Ianov,19,1,6,141,4,415,1280,720
-vzFSDV,#0031,Squadron Ianov,20,1,6,140,3,256,1280,720
-vzFSDV,#0031,Squadron Ianov,21,1,6,248,4,318,1280,720
-vzFSDV,#0031,Squadron Ianov,22,1,6,449,5,201,1280,720
-vzFSDV,#0031,Squadron Ianov,23,1,6,322,5,264,1280,720
-vzFSDV,#0031,Squadron Ianov,24,1,6,446,5,274,1280,720
-vzFSDV,#0031,Squadron Ianov,25,1,6,194,3,376,1280,720
-vzFSDV,#0031,Squadron Ianov,26,1,6,308,5,285,1280,720
-vzFSDV,#0031,Squadron Ianov,27,1,6,377,5,307,1280,720
-vzFSDV,#0031,Squadron Ianov,28,-1,5,0,0,813,1280,720
-YEgp04,#0031,Squadron Ianov,0,1,6,404,4,233,1280,720
-YEgp04,#0031,Squadron Ianov,1,1,6,477,4,190,1280,720
-YEgp04,#0031,Squadron Ianov,2,1,6,241,2,264,1280,720
-YEgp04,#0031,Squadron Ianov,3,1,6,344,4,333,1280,720
-YEgp04,#0031,Squadron Ianov,4,1,6,358,4,237,1280,720
-YEgp04,#0031,Squadron Ianov,5,1,6,489,4,224,1280,720
-YEgp04,#0031,Squadron Ianov,6,1,6,510,6,216,1280,720
-YEgp04,#0031,Squadron Ianov,7,1,6,406,4,243,1280,720
-YEgp04,#0031,Squadron Ianov,8,1,6,257,3,297,1280,720
-YEgp04,#0031,Squadron Ianov,9,1,6,363,6,244,1280,720
-YEgp04,#0031,Squadron Ianov,10,1,6,434,5,219,1280,720
-YEgp04,#0031,Squadron Ianov,11,1,6,407,4,236,1280,720
-YEgp04,#0031,Squadron Ianov,12,1,6,270,4,331,1280,720
-YEgp04,#0031,Squadron Ianov,13,1,6,354,6,235,1280,720
-YEgp04,#0031,Squadron Ianov,14,1,6,370,4,252,1280,720
-YEgp04,#0031,Squadron Ianov,15,1,6,225,4,325,1280,720
-YEgp04,#0031,Squadron Ianov,16,1,6,536,6,246,1280,720
-YEgp04,#0031,Squadron Ianov,17,1,6,452,5,241,1280,720
-YEgp04,#0031,Squadron Ianov,18,1,6,313,5,287,1280,720
-YEgp04,#0031,Squadron Ianov,19,1,6,187,5,312,1280,720
-YEgp04,#0031,Squadron Ianov,20,1,6,247,4,328,1280,720
-YEgp04,#0031,Squadron Ianov,21,1,6,339,4,304,1280,720
-YEgp04,#0031,Squadron Ianov,22,1,6,512,5,241,1280,720
-YEgp04,#0031,Squadron Ianov,23,1,6,320,5,258,1280,720
-YEgp04,#0031,Squadron Ianov,24,1,6,574,6,267,1280,720
-YEgp04,#0031,Squadron Ianov,25,1,6,215,3,392,1280,720
-YEgp04,#0031,Squadron Ianov,26,1,6,174,3,398,1280,720
-YEgp04,#0031,Squadron Ianov,27,1,6,466,6,255,1280,720
-YEgp04,#0031,Squadron Ianov,28,1,6,281,4,273,1280,720
-YEgp04,#0031,Squadron Ianov,29,1,6,156,3,420,1280,720
-YEgp04,#0031,Squadron Ianov,30,1,6,462,6,172,1280,720
-YEgp04,#0031,Squadron Ianov,31,1,6,258,4,282,1280,720
-YEgp04,#0031,Squadron Ianov,32,1,6,413,4,268,1280,720
-YEgp04,#0031,Squadron Ianov,33,1,6,365,4,281,1280,720
-YEgp04,#0031,Squadron Ianov,34,1,6,118,3,294,1280,720
-YEgp04,#0031,Squadron Ianov,35,1,6,365,5,224,1280,720
-YEgp04,#0031,Squadron Ianov,36,1,6,468,6,303,1280,720
-YEgp04,#0031,Squadron Ianov,37,1,6,219,3,390,1280,720
-YEgp04,#0031,Squadron Ianov,38,-1,3,0,0,317,1280,720
-uwRkZk,#0032,Squadron Later,0,-1,3,0,0,435,1280,720
-NuL7Yr,#0032,Squadron Later,0,-1,1,0,0,301,1280,720
-exijgG,#0032,Squadron Later,0,1,6,286,5,249,1280,720
-exijgG,#0032,Squadron Later,1,1,6,374,5,223,1280,720
-exijgG,#0032,Squadron Later,2,1,6,217,4,292,1280,720
-exijgG,#0032,Squadron Later,3,-1,1,0,0,310,1280,720
-1D348J,#0033,Squadron Lacarro,0,-1,1,0,0,207,1280,720
-2lVw3w,#0033,Squadron Lacarro,0,-1,0,0,0,179,1280,720
-ZuFuJk,#0033,Squadron Lacarro,0,-1,0,0,0,203,1280,720
-Z4hKMC,#0034,Squadron Pucury v46.28,0,-1,2,0,0,284,1280,720
-x6t7nk,#0034,Squadron Pucury v46.28,0,1,6,7,2,353,1280,720
-x6t7nk,#0034,Squadron Pucury v46.28,1,1,6,261,4,284,1280,720
-x6t7nk,#0034,Squadron Pucury v46.28,2,-1,5,0,0,509,1280,720
-PsBI1O,#0034,Squadron Pucury v46.28,0,1,6,208,4,269,1280,720
-PsBI1O,#0034,Squadron Pucury v46.28,1,-1,5,0,0,401,1280,720
-8wYyjq,#0035,Squadron Haruta Mk XLIX,0,1,6,442,5,362,1280,720
-8wYyjq,#0035,Squadron Haruta Mk XLIX,1,1,6,300,5,221,1280,720
-8wYyjq,#0035,Squadron Haruta Mk XLIX,2,1,6,426,5,291,1280,720
-8wYyjq,#0035,Squadron Haruta Mk XLIX,3,1,6,202,5,403,1280,720
-8wYyjq,#0035,Squadron Haruta Mk XLIX,4,1,6,451,6,181,1280,720
-8wYyjq,#0035,Squadron Haruta Mk XLIX,5,1,6,301,2,278,1280,720
-8wYyjq,#0035,Squadron Haruta Mk XLIX,6,1,6,297,4,405,1280,720
-8wYyjq,#0035,Squadron Haruta Mk XLIX,7,1,6,508,6,225,1280,720
-8wYyjq,#0035,Squadron Haruta Mk XLIX,8,1,6,411,5,249,1280,720
-8wYyjq,#0035,Squadron Haruta Mk XLIX,9,1,6,111,3,382,1280,720
-8wYyjq,#0035,Squadron Haruta Mk XLIX,10,1,6,35,1,765,1280,720
-8wYyjq,#0035,Squadron Haruta Mk XLIX,11,1,6,299,4,349,1280,720
-8wYyjq,#0035,Squadron Haruta Mk XLIX,12,1,6,121,2,390,1280,720
-8wYyjq,#0035,Squadron Haruta Mk XLIX,13,1,6,377,4,240,1280,720
-8wYyjq,#0035,Squadron Haruta Mk XLIX,14,1,6,261,4,290,1280,720
-8wYyjq,#0035,Squadron Haruta Mk XLIX,15,1,6,337,4,265,1280,720
-8wYyjq,#0035,Squadron Haruta Mk XLIX,16,1,6,457,5,399,1280,720
-8wYyjq,#0035,Squadron Haruta Mk XLIX,17,1,6,553,5,265,1280,720
-8wYyjq,#0035,Squadron Haruta Mk XLIX,18,1,6,348,4,392,1280,720
-8wYyjq,#0035,Squadron Haruta Mk XLIX,19,-1,1,0,0,286,1280,720
-Y2EQUE,#0035,Squadron Haruta Mk XLIX,0,1,6,368,4,272,1280,720
-Y2EQUE,#0035,Squadron Haruta Mk XLIX,1,1,6,318,3,409,1280,720
-Y2EQUE,#0035,Squadron Haruta Mk XLIX,2,1,6,189,2,540,1280,720
-Y2EQUE,#0035,Squadron Haruta Mk XLIX,3,1,6,395,5,261,1280,720
-Y2EQUE,#0035,Squadron Haruta Mk XLIX,4,1,6,388,5,214,1280,720
-Y2EQUE,#0035,Squadron Haruta Mk XLIX,5,1,6,384,5,246,1280,720
-Y2EQUE,#0035,Squadron Haruta Mk XLIX,6,1,6,566,6,227,1280,720
-Y2EQUE,#0035,Squadron Haruta Mk XLIX,7,1,6,572,4,270,1280,720
-Y2EQUE,#0035,Squadron Haruta Mk XLIX,8,1,6,389,4,294,1280,720
-Y2EQUE,#0035,Squadron Haruta Mk XLIX,9,-1,4,0,0,346,1280,720
-rw3kLM,#0035,Squadron Haruta Mk XLIX,0,1,6,417,5,234,1280,720
-rw3kLM,#0035,Squadron Haruta Mk XLIX,1,1,6,309,4,274,1280,720
-rw3kLM,#0035,Squadron Haruta Mk XLIX,2,1,6,410,5,209,1280,720
-rw3kLM,#0035,Squadron Haruta Mk XLIX,3,1,6,417,6,315,1280,720
-rw3kLM,#0035,Squadron Haruta Mk XLIX,4,1,6,508,5,335,1280,720
-rw3kLM,#0035,Squadron Haruta Mk XLIX,5,1,6,299,4,280,1280,720
-rw3kLM,#0035,Squadron Haruta Mk XLIX,6,1,6,247,4,364,1280,720
-rw3kLM,#0035,Squadron Haruta Mk XLIX,7,1,6,292,6,250,1280,720
-rw3kLM,#0035,Squadron Haruta Mk XLIX,8,1,6,385,4,270,1280,720
-rw3kLM,#0035,Squadron Haruta Mk XLIX,9,1,6,118,2,656,1280,720
-rw3kLM,#0035,Squadron Haruta Mk XLIX,10,1,6,487,6,243,1280,720
-rw3kLM,#0035,Squadron Haruta Mk XLIX,11,1,6,175,3,478,1280,720
-rw3kLM,#0035,Squadron Haruta Mk XLIX,12,1,6,170,3,349,1280,720
-rw3kLM,#0035,Squadron Haruta Mk XLIX,13,1,6,224,3,301,1280,720
-rw3kLM,#0035,Squadron Haruta Mk XLIX,14,1,6,252,2,321,1280,720
-rw3kLM,#0035,Squadron Haruta Mk XLIX,15,1,6,166,3,406,1280,720
-rw3kLM,#0035,Squadron Haruta Mk XLIX,16,1,6,344,4,232,1280,720
-rw3kLM,#0035,Squadron Haruta Mk XLIX,17,1,6,224,3,326,1280,720
-rw3kLM,#0035,Squadron Haruta Mk XLIX,18,1,6,52,2,521,1280,720
-rw3kLM,#0035,Squadron Haruta Mk XLIX,19,-1,1,0,0,294,1280,720
-xRjyCT,#0036,Squadron Tenia,0,1,6,130,2,439,1280,720
-xRjyCT,#0036,Squadron Tenia,1,1,6,424,6,330,1280,720
-xRjyCT,#0036,Squadron Tenia,2,1,6,380,3,378,1280,720
-xRjyCT,#0036,Squadron Tenia,3,1,6,321,3,549,1280,720
-xRjyCT,#0036,Squadron Tenia,4,1,6,524,6,283,1280,720
-xRjyCT,#0036,Squadron Tenia,5,1,6,230,3,634,1280,720
-xRjyCT,#0036,Squadron Tenia,6,1,6,337,6,310,1280,720
-xRjyCT,#0036,Squadron Tenia,7,1,6,190,3,533,1280,720
-xRjyCT,#0036,Squadron Tenia,8,1,6,157,3,410,1280,720
-xRjyCT,#0036,Squadron Tenia,9,1,6,340,6,340,1280,720
-xRjyCT,#0036,Squadron Tenia,10,1,6,135,3,717,1280,720
-xRjyCT,#0036,Squadron Tenia,11,1,6,100,2,884,1280,720
-xRjyCT,#0036,Squadron Tenia,12,-1,2,0,0,272,1280,720
-RAUdDm,#0036,Squadron Tenia,0,1,6,178,3,637,1280,720
-RAUdDm,#0036,Squadron Tenia,1,1,6,470,5,281,1280,720
-RAUdDm,#0036,Squadron Tenia,2,-1,4,0,0,403,1280,720
-A5Kv7g,#0036,Squadron Tenia,0,1,6,195,2,691,1280,720
-A5Kv7g,#0036,Squadron Tenia,1,1,6,431,5,261,1280,720
-A5Kv7g,#0036,Squadron Tenia,2,1,6,403,4,296,1280,720
-A5Kv7g,#0036,Squadron Tenia,3,1,6,340,5,310,1280,720
-A5Kv7g,#0036,Squadron Tenia,4,1,6,247,4,613,1280,720
-A5Kv7g,#0036,Squadron Tenia,5,1,6,582,5,343,1280,720
-A5Kv7g,#0036,Squadron Tenia,6,1,6,282,4,329,1280,720
-A5Kv7g,#0036,Squadron Tenia,7,1,6,126,3,390,1280,720
-A5Kv7g,#0036,Squadron Tenia,8,1,6,261,4,558,1280,720
-A5Kv7g,#0036,Squadron Tenia,9,1,6,194,3,509,1280,720
-A5Kv7g,#0036,Squadron Tenia,10,-1,5,0,0,1078,1280,720
-a96uVW,#0037,Squadron Decarro,0,1,6,270,5,286,1280,720
-a96uVW,#0037,Squadron Decarro,1,1,6,471,6,221,1280,720
-a96uVW,#0037,Squadron Decarro,2,1,6,361,4,212,1280,720
-a96uVW,#0037,Squadron Decarro,3,1,6,91,3,496,1280,720
-a96uVW,#0037,Squadron Decarro,4,1,6,462,5,214,1280,720
-a96uVW,#0037,Squadron Decarro,5,1,6,228,4,330,1280,720
-a96uVW,#0037,Squadron Decarro,6,1,6,342,5,258,1280,720
-a96uVW,#0037,Squadron Decarro,7,1,6,381,6,278,1280,720
-a96uVW,#0037,Squadron Decarro,8,1,6,212,4,272,1280,720
-a96uVW,#0037,Squadron Decarro,9,1,6,82,2,377,1280,720
-a96uVW,#0037,Squadron Decarro,10,1,6,121,3,386,1280,720
-a96uVW,#0037,Squadron Decarro,11,-1,4,0,0,396,1280,720
-nQtGO7,#0037,Squadron Decarro,0,1,6,405,6,246,1280,720
-nQtGO7,#0037,Squadron Decarro,1,1,6,313,4,273,1280,720
-nQtGO7,#0037,Squadron Decarro,2,1,6,231,4,299,1280,720
-nQtGO7,#0037,Squadron Decarro,3,-1,4,0,0,411,1280,720
-pWi64S,#0037,Squadron Decarro,0,-1,3,0,0,522,1280,720
-ojcS8i,#0038,Squadron Selia,0,-1,1,0,0,285,1280,720
-tR3xKy,#0038,Squadron Selia,0,-1,3,0,0,369,1280,720
-JZnBqz,#0038,Squadron Selia,0,1,6,117,3,277,1280,720
-JZnBqz,#0038,Squadron Selia,1,1,6,87,5,289,1280,720
-JZnBqz,#0038,Squadron Selia,2,-1,3,0,0,327,1280,720
-iDMQeC,#0039,Squadron Cuvis,0,1,6,185,4,255,1280,720
-iDMQeC,#0039,Squadron Cuvis,1,1,6,257,4,279,1280,720
-iDMQeC,#0039,Squadron Cuvis,2,1,6,118,1,343,1280,720
-iDMQeC,#0039,Squadron Cuvis,3,1,6,67,3,332,1280,720
-iDMQeC,#0039,Squadron Cuvis,4,1,6,155,4,246,1280,720
-iDMQeC,#0039,Squadron Cuvis,5,1,6,330,6,286,1280,720
-iDMQeC,#0039,Squadron Cuvis,6,1,6,215,3,311,1280,720
-iDMQeC,#0039,Squadron Cuvis,7,1,6,206,4,385,1280,720
-iDMQeC,#0039,Squadron Cuvis,8,1,6,153,5,443,1280,720
-iDMQeC,#0039,Squadron Cuvis,9,1,6,14,1,385,1280,720
-iDMQeC,#0039,Squadron Cuvis,10,-1,3,0,0,308,1280,720
-nWKZ7E,#0039,Squadron Cuvis,0,1,6,92,4,302,1280,720
-nWKZ7E,#0039,Squadron Cuvis,1,1,6,13,1,747,1280,720
-nWKZ7E,#0039,Squadron Cuvis,2,1,6,154,4,285,1280,720
-nWKZ7E,#0039,Squadron Cuvis,3,-1,4,0,0,452,1280,720
-VCVn3y,#0039,Squadron Cuvis,0,-1,0,0,0,242,1280,720
-xNjNMn,#0040,Squadron Wuter Mk XVII,0,1,6,147,3,230,1280,720
-xNjNMn,#0040,Squadron Wuter Mk XVII,1,1,6,158,4,362,1280,720
-xNjNMn,#0040,Squadron Wuter Mk XVII,2,1,6,50,2,355,1280,720
-xNjNMn,#0040,Squadron Wuter Mk XVII,3,-1,2,0,0,696,1280,720
-0FRGZv,#0040,Squadron Wuter Mk XVII,0,1,6,127,2,282,1280,720
-0FRGZv,#0040,Squadron Wuter Mk XVII,1,1,6,4,1,322,1280,720
-0FRGZv,#0040,Squadron Wuter Mk XVII,2,1,6,230,4,255,1280,720
-0FRGZv,#0040,Squadron Wuter Mk XVII,3,1,6,34,2,747,1280,720
-0FRGZv,#0040,Squadron Wuter Mk XVII,4,1,6,263,4,303,1280,720
-0FRGZv,#0040,Squadron Wuter Mk XVII,5,1,6,174,3,265,1280,720
-0FRGZv,#0040,Squadron Wuter Mk XVII,6,1,6,163,3,272,1280,720
-0FRGZv,#0040,Squadron Wuter Mk XVII,7,1,6,142,2,236,1280,720
-0FRGZv,#0040,Squadron Wuter Mk XVII,8,-1,3,0,0,275,1280,720
-UdkxRU,#0040,Squadron Wuter Mk XVII,0,1,6,219,5,231,1280,720
-UdkxRU,#0040,Squadron Wuter Mk XVII,1,1,6,225,4,250,1280,720
-UdkxRU,#0040,Squadron Wuter Mk XVII,2,1,6,160,3,277,1280,720
-UdkxRU,#0040,Squadron Wuter Mk XVII,3,-1,2,0,0,312,1280,720
-gfc5xa,#0041,Squadron Toliv v6.73,0,-1,4,0,0,478,1280,720
-QGwNZY,#0041,Squadron Toliv v6.73,0,1,6,14,2,449,1280,720
-QGwNZY,#0041,Squadron Toliv v6.73,1,1,6,417,5,245,1280,720
-QGwNZY,#0041,Squadron Toliv v6.73,2,1,6,91,2,348,1280,720
-QGwNZY,#0041,Squadron Toliv v6.73,3,-1,1,0,0,467,1280,720
-rNHGHc,#0041,Squadron Toliv v6.73,0,1,6,252,4,370,1280,720
-rNHGHc,#0041,Squadron Toliv v6.73,1,1,6,305,4,336,1280,720
-rNHGHc,#0041,Squadron Toliv v6.73,2,1,6,25,1,457,1280,720
-rNHGHc,#0041,Squadron Toliv v6.73,3,-1,4,0,0,841,1280,720
-8vb3BX,#0042,Squadron Potera,0,-1,1,0,0,257,1280,720
-qFLTGD,#0042,Squadron Potera,0,1,6,78,3,381,1280,720
-qFLTGD,#0042,Squadron Potera,1,-1,3,0,0,348,1280,720
-52cp4m,#0042,Squadron Potera,0,-1,3,0,0,296,1280,720
-mB7KIP,#0043,Squadron Dayama,0,-1,4,0,0,448,1280,720
-y8LieZ,#0043,Squadron Dayama,0,1,6,224,4,382,1280,720
-y8LieZ,#0043,Squadron Dayama,1,1,6,365,4,201,1280,720
-y8LieZ,#0043,Squadron Dayama,2,1,6,292,5,255,1280,720
-y8LieZ,#0043,Squadron Dayama,3,-1,3,0,0,307,1280,720
-UZYTqa,#0043,Squadron Dayama,0,1,6,205,6,262,1280,720
-UZYTqa,#0043,Squadron Dayama,1,1,6,115,4,369,1280,720
-UZYTqa,#0043,Squadron Dayama,2,1,6,187,5,248,1280,720
-UZYTqa,#0043,Squadron Dayama,3,1,6,92,4,258,1280,720
-UZYTqa,#0043,Squadron Dayama,4,1,6,351,4,252,1280,720
-UZYTqa,#0043,Squadron Dayama,5,1,6,306,5,424,1280,720
-UZYTqa,#0043,Squadron Dayama,6,1,6,330,5,242,1280,720
-UZYTqa,#0043,Squadron Dayama,7,1,6,298,4,457,1280,720
-UZYTqa,#0043,Squadron Dayama,8,1,6,103,3,325,1280,720
-UZYTqa,#0043,Squadron Dayama,9,-1,5,0,0,521,1280,720
-OdNK8L,#0044,Squadron Wunus,0,-1,2,0,0,309,1280,720
-W4Tm97,#0044,Squadron Wunus,0,-1,4,0,0,375,1280,720
-Js8k6t,#0044,Squadron Wunus,0,-1,3,0,0,341,1280,720
-besUoW,#0045,Squadron Futer,0,-1,4,0,0,311,1280,720
-04rdx7,#0045,Squadron Futer,0,-1,1,0,0,231,1280,720
-yB4ZOA,#0045,Squadron Futer,0,-1,2,0,0,326,1280,720
-XBKWuC,#0046,Squadron Henerth Mk VIII,0,-1,3,0,0,674,1280,720
-h1ODUL,#0046,Squadron Henerth Mk VIII,0,-1,1,0,0,496,1280,720
-jrOxCS,#0046,Squadron Henerth Mk VIII,0,-1,2,0,0,305,1280,720
-TejYyh,#0047,Squadron Futis,0,-1,4,0,0,289,1280,720
-O7wsqX,#0047,Squadron Futis,0,1,6,249,3,293,1280,720
-O7wsqX,#0047,Squadron Futis,1,1,6,195,4,319,1280,720
-O7wsqX,#0047,Squadron Futis,2,1,6,62,3,388,1280,720
-O7wsqX,#0047,Squadron Futis,3,1,6,79,3,437,1280,720
-O7wsqX,#0047,Squadron Futis,4,1,6,290,6,280,1280,720
-O7wsqX,#0047,Squadron Futis,5,-1,3,0,0,435,1280,720
-sGj7wm,#0047,Squadron Futis,0,1,6,151,2,292,1280,720
-sGj7wm,#0047,Squadron Futis,1,1,6,145,3,329,1280,720
-sGj7wm,#0047,Squadron Futis,2,1,6,83,2,360,1280,720
-sGj7wm,#0047,Squadron Futis,3,-1,2,0,0,285,1280,720
-halJbT,#0048,Squadron Yayama,0,1,6,181,3,262,1280,720
-halJbT,#0048,Squadron Yayama,1,1,6,115,2,415,1280,720
-halJbT,#0048,Squadron Yayama,2,1,6,256,4,229,1280,720
-halJbT,#0048,Squadron Yayama,3,1,6,316,5,304,1280,720
-halJbT,#0048,Squadron Yayama,4,1,6,193,3,244,1280,720
-halJbT,#0048,Squadron Yayama,5,1,6,257,6,272,1280,720
-halJbT,#0048,Squadron Yayama,6,1,6,331,6,279,1280,720
-halJbT,#0048,Squadron Yayama,7,1,6,315,5,243,1280,720
-halJbT,#0048,Squadron Yayama,8,1,6,397,5,281,1280,720
-halJbT,#0048,Squadron Yayama,9,1,6,202,3,378,1280,720
-halJbT,#0048,Squadron Yayama,10,-1,1,0,0,334,1280,720
-6gEI7U,#0048,Squadron Yayama,0,1,6,277,6,232,1280,720
-6gEI7U,#0048,Squadron Yayama,1,1,6,371,5,308,1280,720
-6gEI7U,#0048,Squadron Yayama,2,1,6,392,5,235,1280,720
-6gEI7U,#0048,Squadron Yayama,3,1,6,240,4,349,1280,720
-6gEI7U,#0048,Squadron Yayama,4,1,6,536,6,167,1280,720
-6gEI7U,#0048,Squadron Yayama,5,1,6,209,3,350,1280,720
-6gEI7U,#0048,Squadron Yayama,6,1,6,233,5,271,1280,720
-6gEI7U,#0048,Squadron Yayama,7,1,6,276,3,283,1280,720
-6gEI7U,#0048,Squadron Yayama,8,1,6,287,6,288,1280,720
-6gEI7U,#0048,Squadron Yayama,9,1,6,44,3,347,1280,720
-6gEI7U,#0048,Squadron Yayama,10,1,6,106,3,372,1280,720
-6gEI7U,#0048,Squadron Yayama,11,-1,3,0,0,318,1280,720
-b1dQIL,#0048,Squadron Yayama,0,-1,3,0,0,339,1280,720
-BaiNIX,#0049,Squadron Ronus v28.11,0,1,6,213,4,290,1280,720
-BaiNIX,#0049,Squadron Ronus v28.11,1,1,6,183,5,344,1280,720
-BaiNIX,#0049,Squadron Ronus v28.11,2,-1,4,0,0,515,1280,720
-3zZdtM,#0049,Squadron Ronus v28.11,0,1,6,365,5,293,1280,720
-3zZdtM,#0049,Squadron Ronus v28.11,1,1,6,356,6,234,1280,720
-3zZdtM,#0049,Squadron Ronus v28.11,2,1,6,372,5,327,1280,720
-3zZdtM,#0049,Squadron Ronus v28.11,3,1,6,498,5,364,1280,720
-3zZdtM,#0049,Squadron Ronus v28.11,4,1,6,537,6,353,1280,720
-3zZdtM,#0049,Squadron Ronus v28.11,5,1,6,392,6,342,1280,720
-3zZdtM,#0049,Squadron Ronus v28.11,6,1,6,325,5,362,1280,720
-3zZdtM,#0049,Squadron Ronus v28.11,7,1,6,312,6,321,1280,720
-3zZdtM,#0049,Squadron Ronus v28.11,8,1,6,288,3,255,1280,720
-3zZdtM,#0049,Squadron Ronus v28.11,9,1,6,282,4,265,1280,720
-3zZdtM,#0049,Squadron Ronus v28.11,10,1,6,222,4,298,1280,720
-3zZdtM,#0049,Squadron Ronus v28.11,11,1,6,59,1,349,1280,720
-3zZdtM,#0049,Squadron Ronus v28.11,12,1,6,80,2,440,1280,720
-3zZdtM,#0049,Squadron Ronus v28.11,13,1,6,40,2,443,1280,720
-3zZdtM,#0049,Squadron Ronus v28.11,14,1,6,361,6,276,1280,720
-3zZdtM,#0049,Squadron Ronus v28.11,15,1,6,117,3,434,1280,720
-3zZdtM,#0049,Squadron Ronus v28.11,16,1,6,432,4,218,1280,720
-3zZdtM,#0049,Squadron Ronus v28.11,17,1,6,317,5,454,1280,720
-3zZdtM,#0049,Squadron Ronus v28.11,18,-1,5,0,0,661,1280,720
-FYt1EG,#0049,Squadron Ronus v28.11,0,1,6,482,6,219,1280,720
-FYt1EG,#0049,Squadron Ronus v28.11,1,1,6,403,3,293,1280,720
-FYt1EG,#0049,Squadron Ronus v28.11,2,1,6,353,5,270,1280,720
-FYt1EG,#0049,Squadron Ronus v28.11,3,1,6,57,2,460,1280,720
-FYt1EG,#0049,Squadron Ronus v28.11,4,1,6,403,4,416,1280,720
-FYt1EG,#0049,Squadron Ronus v28.11,5,1,6,206,2,370,1280,720
-FYt1EG,#0049,Squadron Ronus v28.11,6,1,6,354,6,321,1280,720
-FYt1EG,#0049,Squadron Ronus v28.11,7,1,6,197,4,418,1280,720
-FYt1EG,#0049,Squadron Ronus v28.11,8,1,6,410,5,274,1280,720
-FYt1EG,#0049,Squadron Ronus v28.11,9,1,6,129,3,357,1280,720
-FYt1EG,#0049,Squadron Ronus v28.11,10,1,6,50,2,984,1280,720
-FYt1EG,#0049,Squadron Ronus v28.11,11,-1,0,0,0,231,1280,720
-Ut044L,#0050,Squadron Dovis v46.22,0,-1,2,0,0,274,1280,720
-qo0J8t,#0050,Squadron Dovis v46.22,0,-1,0,0,0,344,1280,720
-dbIADy,#0050,Squadron Dovis v46.22,0,-1,0,0,0,305,1280,720
-8phkVi,#0051,Squadron Xaturn,0,-1,2,0,0,299,1280,720
-MOqb9H,#0051,Squadron Xaturn,0,-1,0,0,0,293,1280,720
-yK4TpG,#0051,Squadron Xaturn,0,-1,0,0,0,280,1280,720
-pHDoAZ,#0052,Squadron Qustea,0,1,6,217,3,315,1280,720
-pHDoAZ,#0052,Squadron Qustea,1,-1,5,0,0,514,1280,720
-Lkj509,#0052,Squadron Qustea,0,-1,2,0,0,338,1280,720
-bXaSNQ,#0052,Squadron Qustea,0,1,6,146,3,331,1280,720
-bXaSNQ,#0052,Squadron Qustea,1,1,6,247,2,364,1280,720
-bXaSNQ,#0052,Squadron Qustea,2,1,6,20,1,510,1280,720
-bXaSNQ,#0052,Squadron Qustea,3,-1,0,0,0,365,1280,720
-sTOiNj,#0053,Squadron Zostea,0,1,6,201,3,270,1280,720
-sTOiNj,#0053,Squadron Zostea,1,1,6,439,5,209,1280,720
-sTOiNj,#0053,Squadron Zostea,2,1,6,279,5,301,1280,720
-sTOiNj,#0053,Squadron Zostea,3,1,6,139,2,540,1280,720
-sTOiNj,#0053,Squadron Zostea,4,1,6,575,6,179,1280,720
-sTOiNj,#0053,Squadron Zostea,5,1,6,375,5,286,1280,720
-sTOiNj,#0053,Squadron Zostea,6,1,6,380,6,263,1280,720
-sTOiNj,#0053,Squadron Zostea,7,1,6,502,6,289,1280,720
-sTOiNj,#0053,Squadron Zostea,8,1,6,256,4,368,1280,720
-sTOiNj,#0053,Squadron Zostea,9,1,6,45,1,646,1280,720
-sTOiNj,#0053,Squadron Zostea,10,1,6,292,4,337,1280,720
-sTOiNj,#0053,Squadron Zostea,11,1,6,228,4,287,1280,720
-sTOiNj,#0053,Squadron Zostea,12,1,6,288,5,545,1280,720
-sTOiNj,#0053,Squadron Zostea,13,1,6,216,5,308,1280,720
-sTOiNj,#0053,Squadron Zostea,14,1,6,304,5,288,1280,720
-sTOiNj,#0053,Squadron Zostea,15,1,6,167,4,393,1280,720
-sTOiNj,#0053,Squadron Zostea,16,1,6,195,4,220,1280,720
-sTOiNj,#0053,Squadron Zostea,17,1,6,427,6,224,1280,720
-sTOiNj,#0053,Squadron Zostea,18,1,6,297,2,310,1280,720
-sTOiNj,#0053,Squadron Zostea,19,-1,4,0,0,609,1280,720
-Ei35Z8,#0053,Squadron Zostea,0,1,6,356,3,376,1280,720
-Ei35Z8,#0053,Squadron Zostea,1,1,6,396,5,284,1280,720
-Ei35Z8,#0053,Squadron Zostea,2,1,6,239,5,298,1280,720
-Ei35Z8,#0053,Squadron Zostea,3,1,6,276,5,291,1280,720
-Ei35Z8,#0053,Squadron Zostea,4,1,6,380,5,266,1280,720
-Ei35Z8,#0053,Squadron Zostea,5,1,6,216,4,296,1280,720
-Ei35Z8,#0053,Squadron Zostea,6,1,6,370,5,274,1280,720
-Ei35Z8,#0053,Squadron Zostea,7,1,6,389,6,228,1280,720
-Ei35Z8,#0053,Squadron Zostea,8,1,6,197,3,399,1280,720
-Ei35Z8,#0053,Squadron Zostea,9,1,6,187,4,330,1280,720
-Ei35Z8,#0053,Squadron Zostea,10,1,6,237,5,312,1280,720
-Ei35Z8,#0053,Squadron Zostea,11,1,6,158,4,317,1280,720
-Ei35Z8,#0053,Squadron Zostea,12,1,6,213,5,309,1280,720
-Ei35Z8,#0053,Squadron Zostea,13,1,6,190,3,359,1280,720
-Ei35Z8,#0053,Squadron Zostea,14,1,6,274,4,299,1280,720
-Ei35Z8,#0053,Squadron Zostea,15,-1,3,0,0,490,1280,720
-eyFcmh,#0053,Squadron Zostea,0,1,6,321,5,247,1280,720
-eyFcmh,#0053,Squadron Zostea,1,1,6,374,5,259,1280,720
-eyFcmh,#0053,Squadron Zostea,2,1,6,134,4,372,1280,720
-eyFcmh,#0053,Squadron Zostea,3,1,6,247,3,473,1280,720
-eyFcmh,#0053,Squadron Zostea,4,1,6,472,5,198,1280,720
-eyFcmh,#0053,Squadron Zostea,5,1,6,343,4,360,1280,720
-eyFcmh,#0053,Squadron Zostea,6,1,6,283,4,298,1280,720
-eyFcmh,#0053,Squadron Zostea,7,1,6,382,6,247,1280,720
-eyFcmh,#0053,Squadron Zostea,8,1,6,320,5,277,1280,720
-eyFcmh,#0053,Squadron Zostea,9,1,6,32,1,401,1280,720
-eyFcmh,#0053,Squadron Zostea,10,1,6,149,3,479,1280,720
-eyFcmh,#0053,Squadron Zostea,11,1,6,122,1,352,1280,720
-eyFcmh,#0053,Squadron Zostea,12,1,6,309,5,276,1280,720
-eyFcmh,#0053,Squadron Zostea,13,1,6,193,3,391,1280,720
-eyFcmh,#0053,Squadron Zostea,14,-1,4,0,0,406,1280,720
+EbCPDo,#0001,Squadron Gaphus,0,1,6,183,4,218,1280,720
+EbCPDo,#0001,Squadron Gaphus,1,1,6,306,5,229,1280,720
+EbCPDo,#0001,Squadron Gaphus,2,1,6,191,5,261,1280,720
+EbCPDo,#0001,Squadron Gaphus,3,1,6,120,3,484,1280,720
+EbCPDo,#0001,Squadron Gaphus,4,1,6,242,5,229,1280,720
+EbCPDo,#0001,Squadron Gaphus,5,1,6,356,5,284,1280,720
+EbCPDo,#0001,Squadron Gaphus,6,1,6,158,4,269,1280,720
+EbCPDo,#0001,Squadron Gaphus,7,1,6,181,4,244,1280,720
+EbCPDo,#0001,Squadron Gaphus,8,1,6,115,3,418,1280,720
+EbCPDo,#0001,Squadron Gaphus,9,1,6,232,4,269,1280,720
+EbCPDo,#0001,Squadron Gaphus,10,-1,4,0,0,444,1280,720
+oxfEHk,#0001,Squadron Gaphus,0,1,6,390,5,256,1280,720
+oxfEHk,#0001,Squadron Gaphus,1,1,6,221,3,279,1280,720
+oxfEHk,#0001,Squadron Gaphus,2,-1,4,0,0,326,1280,720
+DA2T7e,#0001,Squadron Gaphus,0,1,6,58,2,423,1280,720
+DA2T7e,#0001,Squadron Gaphus,1,1,6,397,6,177,1280,720
+DA2T7e,#0001,Squadron Gaphus,2,1,6,319,4,230,1280,720
+DA2T7e,#0001,Squadron Gaphus,3,1,6,247,5,278,1280,720
+DA2T7e,#0001,Squadron Gaphus,4,1,6,244,3,192,1280,720
+DA2T7e,#0001,Squadron Gaphus,5,1,6,198,3,271,1280,720
+DA2T7e,#0001,Squadron Gaphus,6,1,6,339,5,275,1280,720
+DA2T7e,#0001,Squadron Gaphus,7,1,6,297,5,292,1280,720
+DA2T7e,#0001,Squadron Gaphus,8,1,6,239,6,270,1280,720
+DA2T7e,#0001,Squadron Gaphus,9,-1,2,0,0,370,1280,720
+tlAgNL,#0002,Squadron Nonia,0,1,6,272,3,397,1280,720
+tlAgNL,#0002,Squadron Nonia,1,1,6,428,5,255,1280,720
+tlAgNL,#0002,Squadron Nonia,2,1,6,167,2,396,1280,720
+tlAgNL,#0002,Squadron Nonia,3,1,6,219,4,426,1280,720
+tlAgNL,#0002,Squadron Nonia,4,1,6,279,6,237,1280,720
+tlAgNL,#0002,Squadron Nonia,5,1,6,400,5,267,1280,720
+tlAgNL,#0002,Squadron Nonia,6,1,6,268,4,430,1280,720
+tlAgNL,#0002,Squadron Nonia,7,-1,4,0,0,457,1280,720
+fYfnyI,#0002,Squadron Nonia,0,1,6,217,4,382,1280,720
+fYfnyI,#0002,Squadron Nonia,1,1,6,292,6,353,1280,720
+fYfnyI,#0002,Squadron Nonia,2,1,6,145,1,453,1280,720
+fYfnyI,#0002,Squadron Nonia,3,1,6,223,4,367,1280,720
+fYfnyI,#0002,Squadron Nonia,4,1,6,300,6,275,1280,720
+fYfnyI,#0002,Squadron Nonia,5,1,6,192,4,370,1280,720
+fYfnyI,#0002,Squadron Nonia,6,1,6,331,5,284,1280,720
+fYfnyI,#0002,Squadron Nonia,7,1,6,212,4,377,1280,720
+fYfnyI,#0002,Squadron Nonia,8,1,6,217,2,404,1280,720
+fYfnyI,#0002,Squadron Nonia,9,1,6,19,3,426,1280,720
+fYfnyI,#0002,Squadron Nonia,10,1,6,76,1,1396,1280,720
+fYfnyI,#0002,Squadron Nonia,11,-1,3,0,0,328,1280,720
+d9WoWK,#0002,Squadron Nonia,0,1,6,206,3,399,1280,720
+d9WoWK,#0002,Squadron Nonia,1,1,6,288,6,287,1280,720
+d9WoWK,#0002,Squadron Nonia,2,1,6,229,4,328,1280,720
+d9WoWK,#0002,Squadron Nonia,3,1,6,116,3,424,1280,720
+d9WoWK,#0002,Squadron Nonia,4,1,6,280,5,250,1280,720
+d9WoWK,#0002,Squadron Nonia,5,1,6,230,5,353,1280,720
+d9WoWK,#0002,Squadron Nonia,6,1,6,429,6,412,1280,720
+d9WoWK,#0002,Squadron Nonia,7,1,6,405,5,385,1280,720
+d9WoWK,#0002,Squadron Nonia,8,1,6,188,3,671,1280,720
+d9WoWK,#0002,Squadron Nonia,9,1,6,102,3,387,1280,720
+d9WoWK,#0002,Squadron Nonia,10,-1,2,0,0,411,1280,720
+zZl68z,#0003,Squadron Tubos,0,1,6,177,3,306,1280,720
+zZl68z,#0003,Squadron Tubos,1,1,6,410,5,254,1280,720
+zZl68z,#0003,Squadron Tubos,2,1,6,244,5,312,1280,720
+zZl68z,#0003,Squadron Tubos,3,-1,3,0,0,317,1280,720
+ls8S8P,#0003,Squadron Tubos,0,1,6,194,5,317,1280,720
+ls8S8P,#0003,Squadron Tubos,1,-1,5,0,0,753,1280,720
+f8oZNK,#0003,Squadron Tubos,0,-1,5,0,0,607,1280,720
+uGjcWT,#0004,Squadron Pecury,0,-1,4,0,0,354,1280,720
+Cz9KBR,#0004,Squadron Pecury,0,-1,3,0,0,253,1280,720
+Ysf4GG,#0004,Squadron Pecury,0,-1,0,0,0,265,1280,720
+LsDV8t,#0005,Squadron Cotania,0,1,6,62,2,350,1280,720
+LsDV8t,#0005,Squadron Cotania,1,1,6,265,4,304,1280,720
+LsDV8t,#0005,Squadron Cotania,2,-1,2,0,0,382,1280,720
+KCnXpm,#0005,Squadron Cotania,0,-1,2,0,0,220,1280,720
+7BQQ5e,#0005,Squadron Cotania,0,-1,1,0,0,303,1280,720
+mh80iu,#0006,Squadron Sophus,0,1,6,86,1,391,1280,720
+mh80iu,#0006,Squadron Sophus,1,1,6,262,4,316,1280,720
+mh80iu,#0006,Squadron Sophus,2,1,6,158,4,225,1280,720
+mh80iu,#0006,Squadron Sophus,3,-1,2,0,0,390,1280,720
+FjZSUe,#0006,Squadron Sophus,0,-1,2,0,0,270,1280,720
+x52Y9y,#0006,Squadron Sophus,0,1,6,235,6,270,1280,720
+x52Y9y,#0006,Squadron Sophus,1,1,6,367,5,188,1280,720
+x52Y9y,#0006,Squadron Sophus,2,1,6,171,3,244,1280,720
+x52Y9y,#0006,Squadron Sophus,3,1,6,50,4,467,1280,720
+x52Y9y,#0006,Squadron Sophus,4,1,6,326,5,227,1280,720
+x52Y9y,#0006,Squadron Sophus,5,1,6,85,2,413,1280,720
+x52Y9y,#0006,Squadron Sophus,6,-1,5,0,0,409,1280,720
+2DcSin,#0007,Squadron Nostea,0,1,6,49,2,485,1280,720
+2DcSin,#0007,Squadron Nostea,1,1,6,358,5,348,1280,720
+2DcSin,#0007,Squadron Nostea,2,1,6,332,5,431,1280,720
+2DcSin,#0007,Squadron Nostea,3,1,6,247,5,694,1280,720
+2DcSin,#0007,Squadron Nostea,4,1,6,459,5,217,1280,720
+2DcSin,#0007,Squadron Nostea,5,1,6,71,1,592,1280,720
+2DcSin,#0007,Squadron Nostea,6,1,6,423,6,363,1280,720
+2DcSin,#0007,Squadron Nostea,7,-1,5,0,0,476,1280,720
+hf2Sm9,#0007,Squadron Nostea,0,-1,3,0,0,426,1280,720
+z9rJ12,#0007,Squadron Nostea,0,1,6,403,6,253,1280,720
+z9rJ12,#0007,Squadron Nostea,1,1,6,100,2,724,1280,720
+z9rJ12,#0007,Squadron Nostea,2,1,6,124,2,325,1280,720
+z9rJ12,#0007,Squadron Nostea,3,1,6,157,2,466,1280,720
+z9rJ12,#0007,Squadron Nostea,4,1,6,234,5,293,1280,720
+z9rJ12,#0007,Squadron Nostea,5,1,6,298,4,693,1280,720
+z9rJ12,#0007,Squadron Nostea,6,1,6,304,3,447,1280,720
+z9rJ12,#0007,Squadron Nostea,7,1,6,128,2,441,1280,720
+z9rJ12,#0007,Squadron Nostea,8,1,6,237,4,422,1280,720
+z9rJ12,#0007,Squadron Nostea,9,-1,2,0,0,499,1280,720
+iDYDyS,#0008,Squadron Tepra,0,1,6,22,1,485,1280,720
+iDYDyS,#0008,Squadron Tepra,1,-1,4,0,0,621,1280,720
+ieMd8m,#0008,Squadron Tepra,0,-1,4,0,0,435,1280,720
+MNmVRu,#0008,Squadron Tepra,0,1,6,88,2,311,1280,720
+MNmVRu,#0008,Squadron Tepra,1,1,6,401,6,342,1280,720
+MNmVRu,#0008,Squadron Tepra,2,-1,5,0,0,957,1280,720
+ZAXkB8,#0009,Squadron Relia v12.42,0,1,6,225,5,349,1280,720
+ZAXkB8,#0009,Squadron Relia v12.42,1,-1,3,0,0,362,1280,720
+sl4rBd,#0009,Squadron Relia v12.42,0,-1,2,0,0,249,1280,720
+fLMVIY,#0009,Squadron Relia v12.42,0,-1,5,0,0,356,1280,720
+bp020J,#0010,Squadron Xocury,0,-1,1,0,0,282,1280,720
+KrBUD7,#0010,Squadron Xocury,0,-1,0,0,0,224,1280,720
+ZqoK5K,#0010,Squadron Xocury,0,-1,2,0,0,310,1280,720
+cWwyL0,#0011,Squadron Wuwei v12.30,0,1,6,73,2,347,1280,720
+cWwyL0,#0011,Squadron Wuwei v12.30,1,1,6,58,2,501,1280,720
+cWwyL0,#0011,Squadron Wuwei v12.30,2,1,6,187,4,285,1280,720
+cWwyL0,#0011,Squadron Wuwei v12.30,3,1,6,54,3,295,1280,720
+cWwyL0,#0011,Squadron Wuwei v12.30,4,-1,2,0,0,570,1280,720
+QczGd3,#0011,Squadron Wuwei v12.30,0,1,6,93,3,485,1280,720
+QczGd3,#0011,Squadron Wuwei v12.30,1,1,6,171,3,301,1280,720
+QczGd3,#0011,Squadron Wuwei v12.30,2,-1,2,0,0,228,1280,720
+X0QImr,#0011,Squadron Wuwei v12.30,0,-1,2,0,0,280,1280,720
+0LipO5,#0012,Squadron Yutera Mk LXXXIV,0,-1,2,0,0,262,1280,720
+NDKTdW,#0012,Squadron Yutera Mk LXXXIV,0,-1,0,0,0,248,1280,720
+URIjHK,#0012,Squadron Yutera Mk LXXXIV,0,-1,2,0,0,392,1280,720
+8mAJ0L,#0013,Squadron Tewei v11.69,0,1,6,432,5,256,1280,720
+8mAJ0L,#0013,Squadron Tewei v11.69,1,1,6,397,5,279,1280,720
+8mAJ0L,#0013,Squadron Tewei v11.69,2,1,6,302,5,313,1280,720
+8mAJ0L,#0013,Squadron Tewei v11.69,3,1,6,197,4,506,1280,720
+8mAJ0L,#0013,Squadron Tewei v11.69,4,1,6,642,6,178,1280,720
+8mAJ0L,#0013,Squadron Tewei v11.69,5,1,6,472,5,280,1280,720
+8mAJ0L,#0013,Squadron Tewei v11.69,6,1,6,458,6,249,1280,720
+8mAJ0L,#0013,Squadron Tewei v11.69,7,1,6,395,4,270,1280,720
+8mAJ0L,#0013,Squadron Tewei v11.69,8,1,6,427,5,319,1280,720
+8mAJ0L,#0013,Squadron Tewei v11.69,9,1,6,231,3,311,1280,720
+8mAJ0L,#0013,Squadron Tewei v11.69,10,1,6,613,6,211,1280,720
+8mAJ0L,#0013,Squadron Tewei v11.69,11,1,6,15,2,376,1280,720
+8mAJ0L,#0013,Squadron Tewei v11.69,12,1,6,245,3,413,1280,720
+8mAJ0L,#0013,Squadron Tewei v11.69,13,1,6,428,5,621,1280,720
+8mAJ0L,#0013,Squadron Tewei v11.69,14,-1,4,0,0,260,1280,720
+ld500l,#0013,Squadron Tewei v11.69,0,1,6,249,4,319,1280,720
+ld500l,#0013,Squadron Tewei v11.69,1,1,6,447,6,182,1280,720
+ld500l,#0013,Squadron Tewei v11.69,2,1,6,311,3,286,1280,720
+ld500l,#0013,Squadron Tewei v11.69,3,1,6,479,6,339,1280,720
+ld500l,#0013,Squadron Tewei v11.69,4,1,6,478,5,278,1280,720
+ld500l,#0013,Squadron Tewei v11.69,5,1,6,347,4,302,1280,720
+ld500l,#0013,Squadron Tewei v11.69,6,1,6,190,3,368,1280,720
+ld500l,#0013,Squadron Tewei v11.69,7,1,6,423,5,239,1280,720
+ld500l,#0013,Squadron Tewei v11.69,8,1,6,355,3,271,1280,720
+ld500l,#0013,Squadron Tewei v11.69,9,1,6,306,4,276,1280,720
+ld500l,#0013,Squadron Tewei v11.69,10,1,6,354,4,315,1280,720
+ld500l,#0013,Squadron Tewei v11.69,11,1,6,398,4,281,1280,720
+ld500l,#0013,Squadron Tewei v11.69,12,1,6,434,6,275,1280,720
+ld500l,#0013,Squadron Tewei v11.69,13,-1,2,0,0,431,1280,720
+y4Nys4,#0013,Squadron Tewei v11.69,0,1,6,406,5,231,1280,720
+y4Nys4,#0013,Squadron Tewei v11.69,1,1,6,411,6,214,1280,720
+y4Nys4,#0013,Squadron Tewei v11.69,2,1,6,438,6,490,1280,720
+y4Nys4,#0013,Squadron Tewei v11.69,3,1,6,181,4,431,1280,720
+y4Nys4,#0013,Squadron Tewei v11.69,4,1,6,452,5,205,1280,720
+y4Nys4,#0013,Squadron Tewei v11.69,5,1,6,396,4,288,1280,720
+y4Nys4,#0013,Squadron Tewei v11.69,6,1,6,339,4,277,1280,720
+y4Nys4,#0013,Squadron Tewei v11.69,7,1,6,348,5,282,1280,720
+y4Nys4,#0013,Squadron Tewei v11.69,8,1,6,409,5,352,1280,720
+y4Nys4,#0013,Squadron Tewei v11.69,9,-1,5,0,0,991,1280,720
+YfHZpr,#0014,Squadron Qewei Mk XCV,0,-1,4,0,0,305,1280,720
+Fjbl5A,#0014,Squadron Qewei Mk XCV,0,-1,3,0,0,317,1280,720
+drqPeT,#0014,Squadron Qewei Mk XCV,0,1,6,10,1,333,1280,720
+drqPeT,#0014,Squadron Qewei Mk XCV,1,1,6,60,2,434,1280,720
+drqPeT,#0014,Squadron Qewei Mk XCV,2,1,6,186,4,279,1280,720
+drqPeT,#0014,Squadron Qewei Mk XCV,3,-1,3,0,0,346,1280,720
+1w4Wxl,#0015,Squadron Honov,0,1,6,126,2,441,1280,720
+1w4Wxl,#0015,Squadron Honov,1,1,6,427,6,245,1280,720
+1w4Wxl,#0015,Squadron Honov,2,1,6,315,5,318,1280,720
+1w4Wxl,#0015,Squadron Honov,3,1,6,269,3,470,1280,720
+1w4Wxl,#0015,Squadron Honov,4,1,6,476,6,331,1280,720
+1w4Wxl,#0015,Squadron Honov,5,1,6,200,3,325,1280,720
+1w4Wxl,#0015,Squadron Honov,6,1,6,271,5,323,1280,720
+1w4Wxl,#0015,Squadron Honov,7,1,6,203,5,306,1280,720
+1w4Wxl,#0015,Squadron Honov,8,1,6,234,4,395,1280,720
+1w4Wxl,#0015,Squadron Honov,9,-1,5,0,0,876,1280,720
+auSeS6,#0015,Squadron Honov,0,1,6,1,1,495,1280,720
+auSeS6,#0015,Squadron Honov,1,1,6,184,4,533,1280,720
+auSeS6,#0015,Squadron Honov,2,1,6,96,2,494,1280,720
+auSeS6,#0015,Squadron Honov,3,1,6,147,2,433,1280,720
+auSeS6,#0015,Squadron Honov,4,1,6,226,4,292,1280,720
+auSeS6,#0015,Squadron Honov,5,1,6,202,3,394,1280,720
+auSeS6,#0015,Squadron Honov,6,1,6,216,4,315,1280,720
+auSeS6,#0015,Squadron Honov,7,1,6,304,4,341,1280,720
+auSeS6,#0015,Squadron Honov,8,1,6,191,3,323,1280,720
+auSeS6,#0015,Squadron Honov,9,1,6,161,5,318,1280,720
+auSeS6,#0015,Squadron Honov,10,-1,4,0,0,556,1280,720
+jNZRl1,#0015,Squadron Honov,0,1,6,50,2,399,1280,720
+jNZRl1,#0015,Squadron Honov,1,1,6,536,6,260,1280,720
+jNZRl1,#0015,Squadron Honov,2,1,6,346,5,242,1280,720
+jNZRl1,#0015,Squadron Honov,3,1,6,74,2,599,1280,720
+jNZRl1,#0015,Squadron Honov,4,1,6,347,5,305,1280,720
+jNZRl1,#0015,Squadron Honov,5,1,6,319,6,253,1280,720
+jNZRl1,#0015,Squadron Honov,6,1,6,379,6,284,1280,720
+jNZRl1,#0015,Squadron Honov,7,-1,4,0,0,507,1280,720
+Vc54Zm,#0016,Squadron Purilia Mk XXXV,0,-1,3,0,0,344,1280,720
+ADycJi,#0016,Squadron Purilia Mk XXXV,0,1,6,292,4,347,1280,720
+ADycJi,#0016,Squadron Purilia Mk XXXV,1,-1,4,0,0,360,1280,720
+nqcG9y,#0016,Squadron Purilia Mk XXXV,0,1,6,92,5,283,1280,720
+nqcG9y,#0016,Squadron Purilia Mk XXXV,1,1,6,120,3,434,1280,720
+nqcG9y,#0016,Squadron Purilia Mk XXXV,2,-1,1,0,0,285,1280,720
+saiLFo,#0017,Squadron Wonus,0,1,6,434,6,350,1280,720
+saiLFo,#0017,Squadron Wonus,1,1,6,504,6,295,1280,720
+saiLFo,#0017,Squadron Wonus,2,1,6,427,4,290,1280,720
+saiLFo,#0017,Squadron Wonus,3,1,6,214,3,345,1280,720
+saiLFo,#0017,Squadron Wonus,4,1,6,503,6,445,1280,720
+saiLFo,#0017,Squadron Wonus,5,1,6,92,2,465,1280,720
+saiLFo,#0017,Squadron Wonus,6,1,6,464,5,332,1280,720
+saiLFo,#0017,Squadron Wonus,7,1,6,400,5,273,1280,720
+saiLFo,#0017,Squadron Wonus,8,1,6,434,5,360,1280,720
+saiLFo,#0017,Squadron Wonus,9,1,6,244,6,290,1280,720
+saiLFo,#0017,Squadron Wonus,10,1,6,204,4,459,1280,720
+saiLFo,#0017,Squadron Wonus,11,1,6,348,4,253,1280,720
+saiLFo,#0017,Squadron Wonus,12,-1,1,0,0,390,1280,720
+1IvpOh,#0017,Squadron Wonus,0,1,6,249,3,515,1280,720
+1IvpOh,#0017,Squadron Wonus,1,1,6,447,5,290,1280,720
+1IvpOh,#0017,Squadron Wonus,2,1,6,470,5,359,1280,720
+1IvpOh,#0017,Squadron Wonus,3,1,6,333,6,351,1280,720
+1IvpOh,#0017,Squadron Wonus,4,1,6,573,6,254,1280,720
+1IvpOh,#0017,Squadron Wonus,5,1,6,543,5,294,1280,720
+1IvpOh,#0017,Squadron Wonus,6,1,6,490,6,348,1280,720
+1IvpOh,#0017,Squadron Wonus,7,1,6,288,4,460,1280,720
+1IvpOh,#0017,Squadron Wonus,8,1,6,228,4,295,1280,720
+1IvpOh,#0017,Squadron Wonus,9,1,6,317,5,341,1280,720
+1IvpOh,#0017,Squadron Wonus,10,-1,4,0,0,409,1280,720
+oUmbU4,#0017,Squadron Wonus,0,-1,1,0,0,425,1280,720
+n45KdH,#0018,Squadron Buwei,0,-1,1,0,0,337,1280,720
+K6gssu,#0018,Squadron Buwei,0,-1,5,0,0,419,1280,720
+nfXjA9,#0018,Squadron Buwei,0,-1,4,0,0,415,1280,720
+m1Z1RR,#0019,Squadron Iavis v40.72,0,1,6,271,2,418,1280,720
+m1Z1RR,#0019,Squadron Iavis v40.72,1,1,6,546,5,219,1280,720
+m1Z1RR,#0019,Squadron Iavis v40.72,2,1,6,453,4,175,1280,720
+m1Z1RR,#0019,Squadron Iavis v40.72,3,1,6,93,2,472,1280,720
+m1Z1RR,#0019,Squadron Iavis v40.72,4,1,6,509,6,190,1280,720
+m1Z1RR,#0019,Squadron Iavis v40.72,5,1,6,421,5,269,1280,720
+m1Z1RR,#0019,Squadron Iavis v40.72,6,1,6,522,5,244,1280,720
+m1Z1RR,#0019,Squadron Iavis v40.72,7,1,6,297,5,257,1280,720
+m1Z1RR,#0019,Squadron Iavis v40.72,8,1,6,383,5,220,1280,720
+m1Z1RR,#0019,Squadron Iavis v40.72,9,1,6,304,4,273,1280,720
+m1Z1RR,#0019,Squadron Iavis v40.72,10,1,6,110,3,477,1280,720
+m1Z1RR,#0019,Squadron Iavis v40.72,11,1,6,110,2,673,1280,720
+m1Z1RR,#0019,Squadron Iavis v40.72,12,1,6,276,6,291,1280,720
+m1Z1RR,#0019,Squadron Iavis v40.72,13,1,6,230,2,390,1280,720
+m1Z1RR,#0019,Squadron Iavis v40.72,14,1,6,80,1,367,1280,720
+m1Z1RR,#0019,Squadron Iavis v40.72,15,1,6,290,4,352,1280,720
+m1Z1RR,#0019,Squadron Iavis v40.72,16,1,6,428,4,268,1280,720
+m1Z1RR,#0019,Squadron Iavis v40.72,17,1,6,422,5,226,1280,720
+m1Z1RR,#0019,Squadron Iavis v40.72,18,1,6,174,3,306,1280,720
+m1Z1RR,#0019,Squadron Iavis v40.72,19,1,6,12,1,698,1280,720
+m1Z1RR,#0019,Squadron Iavis v40.72,20,1,6,422,5,325,1280,720
+m1Z1RR,#0019,Squadron Iavis v40.72,21,1,6,337,5,281,1280,720
+m1Z1RR,#0019,Squadron Iavis v40.72,22,1,6,431,5,265,1280,720
+m1Z1RR,#0019,Squadron Iavis v40.72,23,1,6,400,4,234,1280,720
+m1Z1RR,#0019,Squadron Iavis v40.72,24,1,6,255,3,401,1280,720
+m1Z1RR,#0019,Squadron Iavis v40.72,25,1,6,334,3,320,1280,720
+m1Z1RR,#0019,Squadron Iavis v40.72,26,1,6,461,6,195,1280,720
+m1Z1RR,#0019,Squadron Iavis v40.72,27,1,6,254,3,348,1280,720
+m1Z1RR,#0019,Squadron Iavis v40.72,28,1,6,186,3,413,1280,720
+m1Z1RR,#0019,Squadron Iavis v40.72,29,-1,4,0,0,382,1280,720
+KimBeG,#0019,Squadron Iavis v40.72,0,1,6,605,6,234,1280,720
+KimBeG,#0019,Squadron Iavis v40.72,1,1,6,521,5,221,1280,720
+KimBeG,#0019,Squadron Iavis v40.72,2,1,6,412,3,266,1280,720
+KimBeG,#0019,Squadron Iavis v40.72,3,1,6,282,4,295,1280,720
+KimBeG,#0019,Squadron Iavis v40.72,4,1,6,540,4,209,1280,720
+KimBeG,#0019,Squadron Iavis v40.72,5,1,6,455,5,204,1280,720
+KimBeG,#0019,Squadron Iavis v40.72,6,1,6,431,4,374,1280,720
+KimBeG,#0019,Squadron Iavis v40.72,7,1,6,365,5,253,1280,720
+KimBeG,#0019,Squadron Iavis v40.72,8,1,6,463,5,209,1280,720
+KimBeG,#0019,Squadron Iavis v40.72,9,1,6,337,5,283,1280,720
+KimBeG,#0019,Squadron Iavis v40.72,10,1,6,499,6,246,1280,720
+KimBeG,#0019,Squadron Iavis v40.72,11,1,6,212,3,343,1280,720
+KimBeG,#0019,Squadron Iavis v40.72,12,1,6,339,4,319,1280,720
+KimBeG,#0019,Squadron Iavis v40.72,13,1,6,467,4,233,1280,720
+KimBeG,#0019,Squadron Iavis v40.72,14,-1,4,0,0,378,1280,720
+5FHKG4,#0019,Squadron Iavis v40.72,0,1,6,348,3,304,1280,720
+5FHKG4,#0019,Squadron Iavis v40.72,1,1,6,295,3,290,1280,720
+5FHKG4,#0019,Squadron Iavis v40.72,2,1,6,444,5,262,1280,720
+5FHKG4,#0019,Squadron Iavis v40.72,3,-1,3,0,0,509,1280,720
+vpOTOu,#0020,Squadron Humia,0,1,6,134,3,304,1280,720
+vpOTOu,#0020,Squadron Humia,1,1,6,234,5,285,1280,720
+vpOTOu,#0020,Squadron Humia,2,1,6,116,4,299,1280,720
+vpOTOu,#0020,Squadron Humia,3,-1,4,0,0,660,1280,720
+7kTTTp,#0020,Squadron Humia,0,1,6,76,1,367,1280,720
+7kTTTp,#0020,Squadron Humia,1,1,6,229,3,407,1280,720
+7kTTTp,#0020,Squadron Humia,2,-1,2,0,0,419,1280,720
+Gpkxha,#0020,Squadron Humia,0,1,6,337,5,198,1280,720
+Gpkxha,#0020,Squadron Humia,1,1,6,175,4,378,1280,720
+Gpkxha,#0020,Squadron Humia,2,1,6,143,3,558,1280,720
+Gpkxha,#0020,Squadron Humia,3,-1,5,0,0,677,1280,720
+fan9Wv,#0021,Squadron Selea,0,1,6,112,2,371,1280,720
+fan9Wv,#0021,Squadron Selea,1,1,6,223,4,290,1280,720
+fan9Wv,#0021,Squadron Selea,2,1,6,343,4,208,1280,720
+fan9Wv,#0021,Squadron Selea,3,1,6,313,4,300,1280,720
+fan9Wv,#0021,Squadron Selea,4,1,6,182,4,395,1280,720
+fan9Wv,#0021,Squadron Selea,5,1,6,214,3,613,1280,720
+fan9Wv,#0021,Squadron Selea,6,1,6,460,5,429,1280,720
+fan9Wv,#0021,Squadron Selea,7,1,6,275,6,265,1280,720
+fan9Wv,#0021,Squadron Selea,8,1,6,257,3,551,1280,720
+fan9Wv,#0021,Squadron Selea,9,-1,2,0,0,371,1280,720
+Bhn6jM,#0021,Squadron Selea,0,-1,3,0,0,500,1280,720
+eJ6Rb6,#0021,Squadron Selea,0,1,6,154,2,367,1280,720
+eJ6Rb6,#0021,Squadron Selea,1,1,6,308,3,268,1280,720
+eJ6Rb6,#0021,Squadron Selea,2,1,6,25,1,340,1280,720
+eJ6Rb6,#0021,Squadron Selea,3,1,6,42,1,1234,1280,720
+eJ6Rb6,#0021,Squadron Selea,4,1,6,425,6,274,1280,720
+eJ6Rb6,#0021,Squadron Selea,5,1,6,206,2,333,1280,720
+eJ6Rb6,#0021,Squadron Selea,6,1,6,208,3,411,1280,720
+eJ6Rb6,#0021,Squadron Selea,7,1,6,479,6,241,1280,720
+eJ6Rb6,#0021,Squadron Selea,8,1,6,121,1,961,1280,720
+eJ6Rb6,#0021,Squadron Selea,9,1,6,205,5,502,1280,720
+eJ6Rb6,#0021,Squadron Selea,10,1,6,109,3,394,1280,720
+eJ6Rb6,#0021,Squadron Selea,11,1,6,247,3,359,1280,720
+eJ6Rb6,#0021,Squadron Selea,12,-1,4,0,0,586,1280,720
+HRUKdv,#0022,Squadron Yocarro Mk XLVII,0,1,6,329,4,284,1280,720
+HRUKdv,#0022,Squadron Yocarro Mk XLVII,1,1,6,228,4,262,1280,720
+HRUKdv,#0022,Squadron Yocarro Mk XLVII,2,1,6,108,3,529,1280,720
+HRUKdv,#0022,Squadron Yocarro Mk XLVII,3,1,6,198,5,274,1280,720
+HRUKdv,#0022,Squadron Yocarro Mk XLVII,4,1,6,252,4,265,1280,720
+HRUKdv,#0022,Squadron Yocarro Mk XLVII,5,1,6,344,6,241,1280,720
+HRUKdv,#0022,Squadron Yocarro Mk XLVII,6,1,6,228,4,398,1280,720
+HRUKdv,#0022,Squadron Yocarro Mk XLVII,7,1,6,212,3,254,1280,720
+HRUKdv,#0022,Squadron Yocarro Mk XLVII,8,1,6,168,3,286,1280,720
+HRUKdv,#0022,Squadron Yocarro Mk XLVII,9,1,6,51,2,497,1280,720
+HRUKdv,#0022,Squadron Yocarro Mk XLVII,10,1,6,219,3,318,1280,720
+HRUKdv,#0022,Squadron Yocarro Mk XLVII,11,1,6,96,2,502,1280,720
+HRUKdv,#0022,Squadron Yocarro Mk XLVII,12,1,6,96,3,418,1280,720
+HRUKdv,#0022,Squadron Yocarro Mk XLVII,13,1,6,242,5,278,1280,720
+HRUKdv,#0022,Squadron Yocarro Mk XLVII,14,1,6,175,3,316,1280,720
+HRUKdv,#0022,Squadron Yocarro Mk XLVII,15,1,6,245,4,289,1280,720
+HRUKdv,#0022,Squadron Yocarro Mk XLVII,16,1,6,396,5,187,1280,720
+HRUKdv,#0022,Squadron Yocarro Mk XLVII,17,1,6,289,5,244,1280,720
+HRUKdv,#0022,Squadron Yocarro Mk XLVII,18,1,6,229,2,399,1280,720
+HRUKdv,#0022,Squadron Yocarro Mk XLVII,19,-1,2,0,0,272,1280,720
+2t8QQH,#0022,Squadron Yocarro Mk XLVII,0,1,6,189,4,281,1280,720
+2t8QQH,#0022,Squadron Yocarro Mk XLVII,1,1,6,242,4,256,1280,720
+2t8QQH,#0022,Squadron Yocarro Mk XLVII,2,1,6,386,5,274,1280,720
+2t8QQH,#0022,Squadron Yocarro Mk XLVII,3,-1,1,0,0,335,1280,720
+oD0tAI,#0022,Squadron Yocarro Mk XLVII,0,1,6,94,1,590,1280,720
+oD0tAI,#0022,Squadron Yocarro Mk XLVII,1,1,6,344,4,240,1280,720
+oD0tAI,#0022,Squadron Yocarro Mk XLVII,2,1,6,192,5,229,1280,720
+oD0tAI,#0022,Squadron Yocarro Mk XLVII,3,-1,3,0,0,440,1280,720
+XDwM0d,#0023,Squadron Manope Mk XXXVII,0,-1,2,0,0,410,1280,720
+O11hGl,#0023,Squadron Manope Mk XXXVII,0,1,6,216,4,301,1280,720
+O11hGl,#0023,Squadron Manope Mk XXXVII,1,1,6,156,5,252,1280,720
+O11hGl,#0023,Squadron Manope Mk XXXVII,2,-1,4,0,0,360,1280,720
+XUs14s,#0023,Squadron Manope Mk XXXVII,0,1,6,138,3,284,1280,720
+XUs14s,#0023,Squadron Manope Mk XXXVII,1,1,6,58,2,357,1280,720
+XUs14s,#0023,Squadron Manope Mk XXXVII,2,1,6,294,6,233,1280,720
+XUs14s,#0023,Squadron Manope Mk XXXVII,3,-1,2,0,0,454,1280,720
+IjZndh,#0024,Squadron Wehines Mk L,0,1,6,108,3,408,1280,720
+IjZndh,#0024,Squadron Wehines Mk L,1,1,6,209,3,351,1280,720
+IjZndh,#0024,Squadron Wehines Mk L,2,1,6,257,6,379,1280,720
+IjZndh,#0024,Squadron Wehines Mk L,3,-1,4,0,0,413,1280,720
+9FQwaV,#0024,Squadron Wehines Mk L,0,1,6,355,5,283,1280,720
+9FQwaV,#0024,Squadron Wehines Mk L,1,1,6,196,5,315,1280,720
+9FQwaV,#0024,Squadron Wehines Mk L,2,1,6,189,3,393,1280,720
+9FQwaV,#0024,Squadron Wehines Mk L,3,1,6,236,4,738,1280,720
+9FQwaV,#0024,Squadron Wehines Mk L,4,1,6,262,5,295,1280,720
+9FQwaV,#0024,Squadron Wehines Mk L,5,1,6,60,1,597,1280,720
+9FQwaV,#0024,Squadron Wehines Mk L,6,1,6,465,6,330,1280,720
+9FQwaV,#0024,Squadron Wehines Mk L,7,1,6,210,5,403,1280,720
+9FQwaV,#0024,Squadron Wehines Mk L,8,1,6,148,5,351,1280,720
+9FQwaV,#0024,Squadron Wehines Mk L,9,1,6,2,1,416,1280,720
+9FQwaV,#0024,Squadron Wehines Mk L,10,1,6,224,3,494,1280,720
+9FQwaV,#0024,Squadron Wehines Mk L,11,-1,4,0,0,345,1280,720
+PVlxmx,#0024,Squadron Wehines Mk L,0,1,6,151,3,409,1280,720
+PVlxmx,#0024,Squadron Wehines Mk L,1,1,6,281,5,443,1280,720
+PVlxmx,#0024,Squadron Wehines Mk L,2,1,6,146,2,319,1280,720
+PVlxmx,#0024,Squadron Wehines Mk L,3,1,6,33,2,617,1280,720
+PVlxmx,#0024,Squadron Wehines Mk L,4,1,6,374,5,385,1280,720
+PVlxmx,#0024,Squadron Wehines Mk L,5,1,6,126,3,453,1280,720
+PVlxmx,#0024,Squadron Wehines Mk L,6,1,6,417,6,320,1280,720
+PVlxmx,#0024,Squadron Wehines Mk L,7,1,6,15,1,503,1280,720
+PVlxmx,#0024,Squadron Wehines Mk L,8,1,6,87,2,480,1280,720
+PVlxmx,#0024,Squadron Wehines Mk L,9,-1,4,0,0,808,1280,720
+pmhFwq,#0025,Squadron Iapra,0,1,6,21,1,606,1280,720
+pmhFwq,#0025,Squadron Iapra,1,1,6,56,1,1252,1280,720
+pmhFwq,#0025,Squadron Iapra,2,-1,5,0,0,556,1280,720
+sxiCOs,#0025,Squadron Iapra,0,-1,3,0,0,275,1280,720
+hdf1JG,#0025,Squadron Iapra,0,1,6,98,4,338,1280,720
+hdf1JG,#0025,Squadron Iapra,1,1,6,129,2,485,1280,720
+hdf1JG,#0025,Squadron Iapra,2,1,6,243,5,233,1280,720
+hdf1JG,#0025,Squadron Iapra,3,-1,4,0,0,536,1280,720
+9vTTIq,#0026,Squadron Jolea,0,1,6,159,3,273,1280,720
+9vTTIq,#0026,Squadron Jolea,1,1,6,131,5,258,1280,720
+9vTTIq,#0026,Squadron Jolea,2,1,6,167,5,263,1280,720
+9vTTIq,#0026,Squadron Jolea,3,1,6,17,1,2090,1280,720
+9vTTIq,#0026,Squadron Jolea,4,1,6,129,2,302,1280,720
+9vTTIq,#0026,Squadron Jolea,5,1,6,213,6,230,1280,720
+9vTTIq,#0026,Squadron Jolea,6,1,6,338,5,275,1280,720
+9vTTIq,#0026,Squadron Jolea,7,1,6,242,6,254,1280,720
+9vTTIq,#0026,Squadron Jolea,8,1,6,296,4,548,1280,720
+9vTTIq,#0026,Squadron Jolea,9,1,6,137,4,581,1280,720
+9vTTIq,#0026,Squadron Jolea,10,-1,2,0,0,448,1280,720
+JrcHn5,#0026,Squadron Jolea,0,1,6,109,2,683,1280,720
+JrcHn5,#0026,Squadron Jolea,1,1,6,82,2,411,1280,720
+JrcHn5,#0026,Squadron Jolea,2,1,6,116,3,331,1280,720
+JrcHn5,#0026,Squadron Jolea,3,1,6,87,2,1089,1280,720
+JrcHn5,#0026,Squadron Jolea,4,1,6,22,1,1433,1280,720
+JrcHn5,#0026,Squadron Jolea,5,1,6,160,2,372,1280,720
+JrcHn5,#0026,Squadron Jolea,6,1,6,173,4,332,1280,720
+JrcHn5,#0026,Squadron Jolea,7,1,6,203,3,376,1280,720
+JrcHn5,#0026,Squadron Jolea,8,1,6,340,4,298,1280,720
+JrcHn5,#0026,Squadron Jolea,9,1,6,86,2,390,1280,720
+JrcHn5,#0026,Squadron Jolea,10,-1,2,0,0,353,1280,720
+h3PkK5,#0026,Squadron Jolea,0,-1,4,0,0,342,1280,720
+oljlNV,#0027,Squadron Yutania,0,-1,5,0,0,443,1280,720
+oObTCc,#0027,Squadron Yutania,0,-1,5,0,0,886,1280,720
+bu4vVe,#0027,Squadron Yutania,0,1,6,370,6,195,1280,720
+bu4vVe,#0027,Squadron Yutania,1,1,6,269,4,290,1280,720
+bu4vVe,#0027,Squadron Yutania,2,1,6,219,4,331,1280,720
+bu4vVe,#0027,Squadron Yutania,3,1,6,148,2,830,1280,720
+bu4vVe,#0027,Squadron Yutania,4,1,6,194,5,304,1280,720
+bu4vVe,#0027,Squadron Yutania,5,1,6,81,2,384,1280,720
+bu4vVe,#0027,Squadron Yutania,6,1,6,160,3,346,1280,720
+bu4vVe,#0027,Squadron Yutania,7,1,6,374,5,195,1280,720
+bu4vVe,#0027,Squadron Yutania,8,-1,3,0,0,257,1280,720
+tnroSI,#0028,Squadron Senus Mk XLIX,0,1,6,165,3,341,1280,720
+tnroSI,#0028,Squadron Senus Mk XLIX,1,1,6,347,4,231,1280,720
+tnroSI,#0028,Squadron Senus Mk XLIX,2,1,6,274,4,272,1280,720
+tnroSI,#0028,Squadron Senus Mk XLIX,3,1,6,256,5,298,1280,720
+tnroSI,#0028,Squadron Senus Mk XLIX,4,1,6,359,3,145,1280,720
+tnroSI,#0028,Squadron Senus Mk XLIX,5,1,6,150,2,502,1280,720
+tnroSI,#0028,Squadron Senus Mk XLIX,6,1,6,374,5,245,1280,720
+tnroSI,#0028,Squadron Senus Mk XLIX,7,1,6,364,5,249,1280,720
+tnroSI,#0028,Squadron Senus Mk XLIX,8,1,6,441,5,370,1280,720
+tnroSI,#0028,Squadron Senus Mk XLIX,9,1,6,244,4,306,1280,720
+tnroSI,#0028,Squadron Senus Mk XLIX,10,1,6,192,6,296,1280,720
+tnroSI,#0028,Squadron Senus Mk XLIX,11,1,6,121,2,532,1280,720
+tnroSI,#0028,Squadron Senus Mk XLIX,12,-1,2,0,0,699,1280,720
+eFBfUN,#0028,Squadron Senus Mk XLIX,0,-1,3,0,0,355,1280,720
+r8feqp,#0028,Squadron Senus Mk XLIX,0,1,6,87,3,276,1280,720
+r8feqp,#0028,Squadron Senus Mk XLIX,1,1,6,293,4,309,1280,720
+r8feqp,#0028,Squadron Senus Mk XLIX,2,1,6,199,3,276,1280,720
+r8feqp,#0028,Squadron Senus Mk XLIX,3,1,6,295,5,325,1280,720
+r8feqp,#0028,Squadron Senus Mk XLIX,4,1,6,421,5,179,1280,720
+r8feqp,#0028,Squadron Senus Mk XLIX,5,1,6,423,6,202,1280,720
+r8feqp,#0028,Squadron Senus Mk XLIX,6,1,6,379,5,224,1280,720
+r8feqp,#0028,Squadron Senus Mk XLIX,7,1,6,248,6,232,1280,720
+r8feqp,#0028,Squadron Senus Mk XLIX,8,1,6,83,1,467,1280,720
+r8feqp,#0028,Squadron Senus Mk XLIX,9,1,6,181,3,495,1280,720
+r8feqp,#0028,Squadron Senus Mk XLIX,10,1,6,314,4,294,1280,720
+r8feqp,#0028,Squadron Senus Mk XLIX,11,1,6,89,1,523,1280,720
+r8feqp,#0028,Squadron Senus Mk XLIX,12,-1,5,0,0,1051,1280,720
+EKIZ3y,#0029,Squadron Nehiri,0,-1,5,0,0,629,1280,720
+rxLR9k,#0029,Squadron Nehiri,0,-1,3,0,0,283,1280,720
+N4Wa9p,#0029,Squadron Nehiri,0,-1,2,0,0,275,1280,720
+4S14KP,#0030,Squadron Yenus,0,1,6,350,5,346,1280,720
+4S14KP,#0030,Squadron Yenus,1,1,6,580,6,211,1280,720
+4S14KP,#0030,Squadron Yenus,2,1,6,526,5,287,1280,720
+4S14KP,#0030,Squadron Yenus,3,1,6,260,6,380,1280,720
+4S14KP,#0030,Squadron Yenus,4,1,6,370,5,258,1280,720
+4S14KP,#0030,Squadron Yenus,5,1,6,442,6,302,1280,720
+4S14KP,#0030,Squadron Yenus,6,1,6,543,6,260,1280,720
+4S14KP,#0030,Squadron Yenus,7,1,6,307,3,362,1280,720
+4S14KP,#0030,Squadron Yenus,8,1,6,540,6,259,1280,720
+4S14KP,#0030,Squadron Yenus,9,1,6,462,6,297,1280,720
+4S14KP,#0030,Squadron Yenus,10,1,6,372,5,310,1280,720
+4S14KP,#0030,Squadron Yenus,11,1,6,258,5,300,1280,720
+4S14KP,#0030,Squadron Yenus,12,1,6,446,6,380,1280,720
+4S14KP,#0030,Squadron Yenus,13,1,6,286,6,275,1280,720
+4S14KP,#0030,Squadron Yenus,14,1,6,402,5,397,1280,720
+4S14KP,#0030,Squadron Yenus,15,1,6,274,5,305,1280,720
+4S14KP,#0030,Squadron Yenus,16,1,6,598,6,195,1280,720
+4S14KP,#0030,Squadron Yenus,17,1,6,465,6,290,1280,720
+4S14KP,#0030,Squadron Yenus,18,1,6,112,2,526,1280,720
+4S14KP,#0030,Squadron Yenus,19,1,6,14,2,565,1280,720
+4S14KP,#0030,Squadron Yenus,20,1,6,252,4,342,1280,720
+4S14KP,#0030,Squadron Yenus,21,-1,2,0,0,417,1280,720
+CpnKXg,#0030,Squadron Yenus,0,1,6,323,4,317,1280,720
+CpnKXg,#0030,Squadron Yenus,1,1,6,602,6,231,1280,720
+CpnKXg,#0030,Squadron Yenus,2,1,6,129,2,438,1280,720
+CpnKXg,#0030,Squadron Yenus,3,1,6,220,3,401,1280,720
+CpnKXg,#0030,Squadron Yenus,4,1,6,591,6,249,1280,720
+CpnKXg,#0030,Squadron Yenus,5,1,6,239,4,353,1280,720
+CpnKXg,#0030,Squadron Yenus,6,1,6,498,6,209,1280,720
+CpnKXg,#0030,Squadron Yenus,7,1,6,354,6,289,1280,720
+CpnKXg,#0030,Squadron Yenus,8,1,6,238,5,324,1280,720
+CpnKXg,#0030,Squadron Yenus,9,1,6,504,6,297,1280,720
+CpnKXg,#0030,Squadron Yenus,10,1,6,352,6,300,1280,720
+CpnKXg,#0030,Squadron Yenus,11,1,6,261,3,338,1280,720
+CpnKXg,#0030,Squadron Yenus,12,1,6,245,3,442,1280,720
+CpnKXg,#0030,Squadron Yenus,13,1,6,427,4,256,1280,720
+CpnKXg,#0030,Squadron Yenus,14,1,6,370,5,275,1280,720
+CpnKXg,#0030,Squadron Yenus,15,1,6,369,4,322,1280,720
+CpnKXg,#0030,Squadron Yenus,16,1,6,435,4,251,1280,720
+CpnKXg,#0030,Squadron Yenus,17,1,6,400,6,230,1280,720
+CpnKXg,#0030,Squadron Yenus,18,1,6,408,5,299,1280,720
+CpnKXg,#0030,Squadron Yenus,19,-1,2,0,0,372,1280,720
+fRhrvF,#0030,Squadron Yenus,0,1,6,300,6,343,1280,720
+fRhrvF,#0030,Squadron Yenus,1,1,6,432,4,292,1280,720
+fRhrvF,#0030,Squadron Yenus,2,1,6,372,5,282,1280,720
+fRhrvF,#0030,Squadron Yenus,3,1,6,393,6,359,1280,720
+fRhrvF,#0030,Squadron Yenus,4,1,6,528,5,221,1280,720
+fRhrvF,#0030,Squadron Yenus,5,1,6,375,4,358,1280,720
+fRhrvF,#0030,Squadron Yenus,6,1,6,344,6,300,1280,720
+fRhrvF,#0030,Squadron Yenus,7,1,6,443,5,342,1280,720
+fRhrvF,#0030,Squadron Yenus,8,1,6,380,6,248,1280,720
+fRhrvF,#0030,Squadron Yenus,9,1,6,416,6,320,1280,720
+fRhrvF,#0030,Squadron Yenus,10,1,6,402,5,272,1280,720
+fRhrvF,#0030,Squadron Yenus,11,1,6,471,6,320,1280,720
+fRhrvF,#0030,Squadron Yenus,12,1,6,321,5,331,1280,720
+fRhrvF,#0030,Squadron Yenus,13,1,6,368,4,292,1280,720
+fRhrvF,#0030,Squadron Yenus,14,1,6,408,5,207,1280,720
+fRhrvF,#0030,Squadron Yenus,15,1,6,409,5,331,1280,720
+fRhrvF,#0030,Squadron Yenus,16,1,6,626,6,223,1280,720
+fRhrvF,#0030,Squadron Yenus,17,1,6,470,5,304,1280,720
+fRhrvF,#0030,Squadron Yenus,18,1,6,287,5,331,1280,720
+fRhrvF,#0030,Squadron Yenus,19,1,6,149,4,388,1280,720
+fRhrvF,#0030,Squadron Yenus,20,1,6,48,3,435,1280,720
+fRhrvF,#0030,Squadron Yenus,21,1,6,191,4,324,1280,720
+fRhrvF,#0030,Squadron Yenus,22,1,6,587,6,269,1280,720
+fRhrvF,#0030,Squadron Yenus,23,1,6,346,4,283,1280,720
+fRhrvF,#0030,Squadron Yenus,24,1,6,352,4,368,1280,720
+fRhrvF,#0030,Squadron Yenus,25,1,6,338,5,294,1280,720
+fRhrvF,#0030,Squadron Yenus,26,1,6,440,5,237,1280,720
+fRhrvF,#0030,Squadron Yenus,27,1,6,350,5,286,1280,720
+fRhrvF,#0030,Squadron Yenus,28,1,6,195,3,413,1280,720
+fRhrvF,#0030,Squadron Yenus,29,1,6,191,4,372,1280,720
+fRhrvF,#0030,Squadron Yenus,30,-1,3,0,0,329,1280,720
+R7T06i,#0031,Squadron Ianov,0,1,6,444,5,223,1280,720
+R7T06i,#0031,Squadron Ianov,1,1,6,445,5,226,1280,720
+R7T06i,#0031,Squadron Ianov,2,1,6,427,6,247,1280,720
+R7T06i,#0031,Squadron Ianov,3,1,6,270,4,279,1280,720
+R7T06i,#0031,Squadron Ianov,4,1,6,535,5,172,1280,720
+R7T06i,#0031,Squadron Ianov,5,1,6,401,5,324,1280,720
+R7T06i,#0031,Squadron Ianov,6,1,6,494,6,210,1280,720
+R7T06i,#0031,Squadron Ianov,7,1,6,407,5,267,1280,720
+R7T06i,#0031,Squadron Ianov,8,1,6,378,6,377,1280,720
+R7T06i,#0031,Squadron Ianov,9,1,6,483,6,230,1280,720
+R7T06i,#0031,Squadron Ianov,10,1,6,303,4,289,1280,720
+R7T06i,#0031,Squadron Ianov,11,1,6,332,5,285,1280,720
+R7T06i,#0031,Squadron Ianov,12,1,6,247,3,286,1280,720
+R7T06i,#0031,Squadron Ianov,13,1,6,288,3,256,1280,720
+R7T06i,#0031,Squadron Ianov,14,1,6,177,2,294,1280,720
+R7T06i,#0031,Squadron Ianov,15,1,6,326,4,299,1280,720
+R7T06i,#0031,Squadron Ianov,16,1,6,546,6,191,1280,720
+R7T06i,#0031,Squadron Ianov,17,1,6,328,5,228,1280,720
+R7T06i,#0031,Squadron Ianov,18,1,6,208,4,363,1280,720
+R7T06i,#0031,Squadron Ianov,19,-1,4,0,0,371,1280,720
+ZhuuBQ,#0031,Squadron Ianov,0,1,6,435,6,221,1280,720
+ZhuuBQ,#0031,Squadron Ianov,1,1,6,89,3,363,1280,720
+ZhuuBQ,#0031,Squadron Ianov,2,1,6,347,4,325,1280,720
+ZhuuBQ,#0031,Squadron Ianov,3,-1,4,0,0,572,1280,720
+yhRPXe,#0031,Squadron Ianov,0,1,6,286,4,291,1280,720
+yhRPXe,#0031,Squadron Ianov,1,1,6,556,6,177,1280,720
+yhRPXe,#0031,Squadron Ianov,2,1,6,378,4,209,1280,720
+yhRPXe,#0031,Squadron Ianov,3,1,6,55,1,647,1280,720
+yhRPXe,#0031,Squadron Ianov,4,1,6,506,5,163,1280,720
+yhRPXe,#0031,Squadron Ianov,5,1,6,325,5,254,1280,720
+yhRPXe,#0031,Squadron Ianov,6,1,6,380,4,318,1280,720
+yhRPXe,#0031,Squadron Ianov,7,1,6,381,5,312,1280,720
+yhRPXe,#0031,Squadron Ianov,8,1,6,352,4,285,1280,720
+yhRPXe,#0031,Squadron Ianov,9,1,6,422,6,300,1280,720
+yhRPXe,#0031,Squadron Ianov,10,1,6,349,5,292,1280,720
+yhRPXe,#0031,Squadron Ianov,11,1,6,275,4,282,1280,720
+yhRPXe,#0031,Squadron Ianov,12,1,6,435,5,276,1280,720
+yhRPXe,#0031,Squadron Ianov,13,1,6,251,5,282,1280,720
+yhRPXe,#0031,Squadron Ianov,14,1,6,409,5,211,1280,720
+yhRPXe,#0031,Squadron Ianov,15,1,6,518,5,194,1280,720
+yhRPXe,#0031,Squadron Ianov,16,1,6,491,5,198,1280,720
+yhRPXe,#0031,Squadron Ianov,17,1,6,353,5,282,1280,720
+yhRPXe,#0031,Squadron Ianov,18,1,6,444,6,243,1280,720
+yhRPXe,#0031,Squadron Ianov,19,-1,3,0,0,383,1280,720
+p9ks0x,#0032,Squadron Later,0,1,6,335,3,395,1280,720
+p9ks0x,#0032,Squadron Later,1,1,6,187,4,290,1280,720
+p9ks0x,#0032,Squadron Later,2,1,6,273,5,298,1280,720
+p9ks0x,#0032,Squadron Later,3,1,6,117,5,400,1280,720
+p9ks0x,#0032,Squadron Later,4,1,6,229,3,305,1280,720
+p9ks0x,#0032,Squadron Later,5,-1,4,0,0,556,1280,720
+ba27gE,#0032,Squadron Later,0,-1,3,0,0,290,1280,720
+doxwPS,#0032,Squadron Later,0,1,6,83,3,317,1280,720
+doxwPS,#0032,Squadron Later,1,1,6,199,3,481,1280,720
+doxwPS,#0032,Squadron Later,2,1,6,126,2,383,1280,720
+doxwPS,#0032,Squadron Later,3,1,6,37,2,496,1280,720
+doxwPS,#0032,Squadron Later,4,1,6,270,5,221,1280,720
+doxwPS,#0032,Squadron Later,5,1,6,79,2,654,1280,720
+doxwPS,#0032,Squadron Later,6,1,6,199,4,364,1280,720
+doxwPS,#0032,Squadron Later,7,-1,2,0,0,357,1280,720
+dYLB43,#0033,Squadron Lacarro,0,-1,2,0,0,308,1280,720
+O5VCop,#0033,Squadron Lacarro,0,-1,1,0,0,276,1280,720
+Jp6kkz,#0033,Squadron Lacarro,0,1,6,118,5,279,1280,720
+Jp6kkz,#0033,Squadron Lacarro,1,-1,4,0,0,678,1280,720
+yxjrss,#0034,Squadron Pucury v46.28,0,1,6,155,4,306,1280,720
+yxjrss,#0034,Squadron Pucury v46.28,1,1,6,189,3,454,1280,720
+yxjrss,#0034,Squadron Pucury v46.28,2,1,6,35,1,471,1280,720
+yxjrss,#0034,Squadron Pucury v46.28,3,-1,4,0,0,413,1280,720
+v3FgTp,#0034,Squadron Pucury v46.28,0,-1,4,0,0,549,1280,720
+FinwIg,#0034,Squadron Pucury v46.28,0,1,6,101,3,412,1280,720
+FinwIg,#0034,Squadron Pucury v46.28,1,-1,3,0,0,341,1280,720
+kBDA9k,#0035,Squadron Haruta Mk XLIX,0,1,6,204,2,540,1280,720
+kBDA9k,#0035,Squadron Haruta Mk XLIX,1,1,6,595,6,268,1280,720
+kBDA9k,#0035,Squadron Haruta Mk XLIX,2,1,6,78,1,402,1280,720
+kBDA9k,#0035,Squadron Haruta Mk XLIX,3,1,6,160,3,397,1280,720
+kBDA9k,#0035,Squadron Haruta Mk XLIX,4,1,6,539,6,190,1280,720
+kBDA9k,#0035,Squadron Haruta Mk XLIX,5,1,6,125,3,303,1280,720
+kBDA9k,#0035,Squadron Haruta Mk XLIX,6,1,6,467,5,202,1280,720
+kBDA9k,#0035,Squadron Haruta Mk XLIX,7,1,6,368,6,241,1280,720
+kBDA9k,#0035,Squadron Haruta Mk XLIX,8,1,6,268,3,296,1280,720
+kBDA9k,#0035,Squadron Haruta Mk XLIX,9,1,6,397,4,289,1280,720
+kBDA9k,#0035,Squadron Haruta Mk XLIX,10,1,6,391,5,256,1280,720
+kBDA9k,#0035,Squadron Haruta Mk XLIX,11,1,6,85,1,657,1280,720
+kBDA9k,#0035,Squadron Haruta Mk XLIX,12,1,6,373,5,365,1280,720
+kBDA9k,#0035,Squadron Haruta Mk XLIX,13,1,6,211,3,300,1280,720
+kBDA9k,#0035,Squadron Haruta Mk XLIX,14,1,6,409,5,251,1280,720
+kBDA9k,#0035,Squadron Haruta Mk XLIX,15,1,6,378,5,310,1280,720
+kBDA9k,#0035,Squadron Haruta Mk XLIX,16,1,6,330,5,206,1280,720
+kBDA9k,#0035,Squadron Haruta Mk XLIX,17,1,6,309,5,233,1280,720
+kBDA9k,#0035,Squadron Haruta Mk XLIX,18,1,6,311,4,600,1280,720
+kBDA9k,#0035,Squadron Haruta Mk XLIX,19,-1,2,0,0,286,1280,720
+7P5rIG,#0035,Squadron Haruta Mk XLIX,0,1,6,354,6,321,1280,720
+7P5rIG,#0035,Squadron Haruta Mk XLIX,1,1,6,468,4,239,1280,720
+7P5rIG,#0035,Squadron Haruta Mk XLIX,2,1,6,187,4,283,1280,720
+7P5rIG,#0035,Squadron Haruta Mk XLIX,3,-1,3,0,0,702,1280,720
+XK31rw,#0035,Squadron Haruta Mk XLIX,0,1,6,231,3,270,1280,720
+XK31rw,#0035,Squadron Haruta Mk XLIX,1,1,6,577,5,167,1280,720
+XK31rw,#0035,Squadron Haruta Mk XLIX,2,1,6,395,4,254,1280,720
+XK31rw,#0035,Squadron Haruta Mk XLIX,3,1,6,263,3,346,1280,720
+XK31rw,#0035,Squadron Haruta Mk XLIX,4,1,6,347,4,262,1280,720
+XK31rw,#0035,Squadron Haruta Mk XLIX,5,1,6,394,6,283,1280,720
+XK31rw,#0035,Squadron Haruta Mk XLIX,6,1,6,519,6,295,1280,720
+XK31rw,#0035,Squadron Haruta Mk XLIX,7,1,6,277,3,296,1280,720
+XK31rw,#0035,Squadron Haruta Mk XLIX,8,1,6,251,3,315,1280,720
+XK31rw,#0035,Squadron Haruta Mk XLIX,9,1,6,323,4,283,1280,720
+XK31rw,#0035,Squadron Haruta Mk XLIX,10,1,6,250,4,351,1280,720
+XK31rw,#0035,Squadron Haruta Mk XLIX,11,1,6,274,4,229,1280,720
+XK31rw,#0035,Squadron Haruta Mk XLIX,12,1,6,165,2,436,1280,720
+XK31rw,#0035,Squadron Haruta Mk XLIX,13,1,6,384,4,230,1280,720
+XK31rw,#0035,Squadron Haruta Mk XLIX,14,1,6,243,3,317,1280,720
+XK31rw,#0035,Squadron Haruta Mk XLIX,15,1,6,494,6,275,1280,720
+XK31rw,#0035,Squadron Haruta Mk XLIX,16,1,6,405,5,322,1280,720
+XK31rw,#0035,Squadron Haruta Mk XLIX,17,-1,4,0,0,450,1280,720
+nPqvAC,#0036,Squadron Tenia,0,1,6,291,4,350,1280,720
+nPqvAC,#0036,Squadron Tenia,1,1,6,182,3,393,1280,720
+nPqvAC,#0036,Squadron Tenia,2,1,6,222,4,580,1280,720
+nPqvAC,#0036,Squadron Tenia,3,1,6,233,4,470,1280,720
+nPqvAC,#0036,Squadron Tenia,4,1,6,293,5,281,1280,720
+nPqvAC,#0036,Squadron Tenia,5,1,6,277,5,403,1280,720
+nPqvAC,#0036,Squadron Tenia,6,-1,4,0,0,952,1280,720
+RGJ9z4,#0036,Squadron Tenia,0,1,6,341,5,251,1280,720
+RGJ9z4,#0036,Squadron Tenia,1,1,6,404,5,341,1280,720
+RGJ9z4,#0036,Squadron Tenia,2,1,6,93,1,483,1280,720
+RGJ9z4,#0036,Squadron Tenia,3,1,6,124,3,588,1280,720
+RGJ9z4,#0036,Squadron Tenia,4,1,6,259,3,572,1280,720
+RGJ9z4,#0036,Squadron Tenia,5,1,6,300,4,349,1280,720
+RGJ9z4,#0036,Squadron Tenia,6,1,6,346,4,435,1280,720
+RGJ9z4,#0036,Squadron Tenia,7,1,6,220,3,699,1280,720
+RGJ9z4,#0036,Squadron Tenia,8,1,6,317,4,557,1280,720
+RGJ9z4,#0036,Squadron Tenia,9,1,6,355,5,531,1280,720
+RGJ9z4,#0036,Squadron Tenia,10,1,6,316,5,346,1280,720
+RGJ9z4,#0036,Squadron Tenia,11,1,6,156,5,386,1280,720
+RGJ9z4,#0036,Squadron Tenia,12,1,6,252,4,410,1280,720
+RGJ9z4,#0036,Squadron Tenia,13,1,6,240,4,686,1280,720
+RGJ9z4,#0036,Squadron Tenia,14,1,6,218,2,437,1280,720
+RGJ9z4,#0036,Squadron Tenia,15,1,6,165,3,381,1280,720
+RGJ9z4,#0036,Squadron Tenia,16,1,6,449,5,217,1280,720
+RGJ9z4,#0036,Squadron Tenia,17,1,6,237,4,332,1280,720
+RGJ9z4,#0036,Squadron Tenia,18,1,6,172,3,373,1280,720
+RGJ9z4,#0036,Squadron Tenia,19,1,6,134,4,569,1280,720
+RGJ9z4,#0036,Squadron Tenia,20,-1,0,0,0,223,1280,720
+K6esYG,#0036,Squadron Tenia,0,1,6,362,4,281,1280,720
+K6esYG,#0036,Squadron Tenia,1,1,6,377,5,340,1280,720
+K6esYG,#0036,Squadron Tenia,2,1,6,92,2,530,1280,720
+K6esYG,#0036,Squadron Tenia,3,1,6,233,5,338,1280,720
+K6esYG,#0036,Squadron Tenia,4,1,6,489,6,246,1280,720
+K6esYG,#0036,Squadron Tenia,5,1,6,147,3,554,1280,720
+K6esYG,#0036,Squadron Tenia,6,1,6,447,6,287,1280,720
+K6esYG,#0036,Squadron Tenia,7,-1,3,0,0,773,1280,720
+O3EQWA,#0037,Squadron Decarro,0,1,6,320,6,296,1280,720
+O3EQWA,#0037,Squadron Decarro,1,1,6,532,6,285,1280,720
+O3EQWA,#0037,Squadron Decarro,2,1,6,367,6,251,1280,720
+O3EQWA,#0037,Squadron Decarro,3,1,6,487,5,401,1280,720
+O3EQWA,#0037,Squadron Decarro,4,1,6,482,5,204,1280,720
+O3EQWA,#0037,Squadron Decarro,5,1,6,261,4,621,1280,720
+O3EQWA,#0037,Squadron Decarro,6,1,6,296,4,379,1280,720
+O3EQWA,#0037,Squadron Decarro,7,1,6,264,4,268,1280,720
+O3EQWA,#0037,Squadron Decarro,8,1,6,459,5,217,1280,720
+O3EQWA,#0037,Squadron Decarro,9,1,6,264,4,300,1280,720
+O3EQWA,#0037,Squadron Decarro,10,1,6,364,4,380,1280,720
+O3EQWA,#0037,Squadron Decarro,11,1,6,217,5,319,1280,720
+O3EQWA,#0037,Squadron Decarro,12,1,6,264,3,401,1280,720
+O3EQWA,#0037,Squadron Decarro,13,1,6,386,4,256,1280,720
+O3EQWA,#0037,Squadron Decarro,14,-1,4,0,0,294,1280,720
+D0sANB,#0037,Squadron Decarro,0,1,6,335,5,245,1280,720
+D0sANB,#0037,Squadron Decarro,1,1,6,378,5,280,1280,720
+D0sANB,#0037,Squadron Decarro,2,1,6,467,6,205,1280,720
+D0sANB,#0037,Squadron Decarro,3,1,6,213,4,526,1280,720
+D0sANB,#0037,Squadron Decarro,4,1,6,447,6,198,1280,720
+D0sANB,#0037,Squadron Decarro,5,1,6,351,3,387,1280,720
+D0sANB,#0037,Squadron Decarro,6,1,6,469,6,260,1280,720
+D0sANB,#0037,Squadron Decarro,7,1,6,292,5,332,1280,720
+D0sANB,#0037,Squadron Decarro,8,1,6,417,5,348,1280,720
+D0sANB,#0037,Squadron Decarro,9,1,6,344,5,254,1280,720
+D0sANB,#0037,Squadron Decarro,10,1,6,244,4,518,1280,720
+D0sANB,#0037,Squadron Decarro,11,1,6,161,3,372,1280,720
+D0sANB,#0037,Squadron Decarro,12,1,6,77,3,737,1280,720
+D0sANB,#0037,Squadron Decarro,13,-1,2,0,0,287,1280,720
+jsQb1c,#0037,Squadron Decarro,0,1,6,195,4,306,1280,720
+jsQb1c,#0037,Squadron Decarro,1,1,6,389,5,212,1280,720
+jsQb1c,#0037,Squadron Decarro,2,1,6,421,4,227,1280,720
+jsQb1c,#0037,Squadron Decarro,3,-1,3,0,0,529,1280,720
+vEnP4T,#0038,Squadron Selia,0,-1,2,0,0,282,1280,720
+oh75Us,#0038,Squadron Selia,0,-1,4,0,0,388,1280,720
+kcGF04,#0038,Squadron Selia,0,1,6,174,6,297,1280,720
+kcGF04,#0038,Squadron Selia,1,1,6,236,3,282,1280,720
+kcGF04,#0038,Squadron Selia,2,-1,3,0,0,407,1280,720
+IpllAp,#0039,Squadron Cuvis,0,1,6,184,4,385,1280,720
+IpllAp,#0039,Squadron Cuvis,1,1,6,366,6,229,1280,720
+IpllAp,#0039,Squadron Cuvis,2,1,6,204,4,262,1280,720
+IpllAp,#0039,Squadron Cuvis,3,-1,1,0,0,284,1280,720
+MotH80,#0039,Squadron Cuvis,0,1,6,102,3,263,1280,720
+MotH80,#0039,Squadron Cuvis,1,1,6,143,2,395,1280,720
+MotH80,#0039,Squadron Cuvis,2,-1,4,0,0,395,1280,720
+IXmIsu,#0039,Squadron Cuvis,0,1,6,223,4,230,1280,720
+IXmIsu,#0039,Squadron Cuvis,1,-1,4,0,0,367,1280,720
+kYlOiH,#0040,Squadron Wuter Mk XVII,0,1,6,113,3,356,1280,720
+kYlOiH,#0040,Squadron Wuter Mk XVII,1,1,6,93,1,421,1280,720
+kYlOiH,#0040,Squadron Wuter Mk XVII,2,1,6,156,3,297,1280,720
+kYlOiH,#0040,Squadron Wuter Mk XVII,3,1,6,55,1,411,1280,720
+kYlOiH,#0040,Squadron Wuter Mk XVII,4,1,6,313,6,169,1280,720
+kYlOiH,#0040,Squadron Wuter Mk XVII,5,1,6,121,2,333,1280,720
+kYlOiH,#0040,Squadron Wuter Mk XVII,6,1,6,266,5,224,1280,720
+kYlOiH,#0040,Squadron Wuter Mk XVII,7,-1,3,0,0,292,1280,720
+6R0Z0G,#0040,Squadron Wuter Mk XVII,0,-1,5,0,0,1028,1280,720
+2qp8x8,#0040,Squadron Wuter Mk XVII,0,1,6,147,4,212,1280,720
+2qp8x8,#0040,Squadron Wuter Mk XVII,1,1,6,259,5,200,1280,720
+2qp8x8,#0040,Squadron Wuter Mk XVII,2,1,6,232,4,212,1280,720
+2qp8x8,#0040,Squadron Wuter Mk XVII,3,-1,0,0,0,229,1280,720
+9jvgrv,#0041,Squadron Toliv v6.73,0,1,6,28,1,435,1280,720
+9jvgrv,#0041,Squadron Toliv v6.73,1,1,6,315,4,391,1280,720
+9jvgrv,#0041,Squadron Toliv v6.73,2,-1,5,0,0,1127,1280,720
+TSvp48,#0041,Squadron Toliv v6.73,0,-1,2,0,0,348,1280,720
+yN654P,#0041,Squadron Toliv v6.73,0,1,6,62,1,627,1280,720
+yN654P,#0041,Squadron Toliv v6.73,1,1,6,60,3,491,1280,720
+yN654P,#0041,Squadron Toliv v6.73,2,1,6,58,1,1701,1280,720
+yN654P,#0041,Squadron Toliv v6.73,3,1,6,211,3,401,1280,720
+yN654P,#0041,Squadron Toliv v6.73,4,-1,4,0,0,481,1280,720
+ZoNH5t,#0042,Squadron Potera,0,-1,2,0,0,318,1280,720
+ZO1R7h,#0042,Squadron Potera,0,1,6,105,4,260,1280,720
+ZO1R7h,#0042,Squadron Potera,1,1,6,140,5,314,1280,720
+ZO1R7h,#0042,Squadron Potera,2,-1,3,0,0,694,1280,720
+dPybjJ,#0042,Squadron Potera,0,-1,2,0,0,242,1280,720
+yePQTN,#0043,Squadron Dayama,0,1,6,161,4,275,1280,720
+yePQTN,#0043,Squadron Dayama,1,1,6,301,5,266,1280,720
+yePQTN,#0043,Squadron Dayama,2,1,6,112,2,360,1280,720
+yePQTN,#0043,Squadron Dayama,3,1,6,174,4,667,1280,720
+yePQTN,#0043,Squadron Dayama,4,1,6,293,4,250,1280,720
+yePQTN,#0043,Squadron Dayama,5,-1,2,0,0,370,1280,720
+07Byb6,#0043,Squadron Dayama,0,1,6,252,5,327,1280,720
+07Byb6,#0043,Squadron Dayama,1,1,6,346,4,183,1280,720
+07Byb6,#0043,Squadron Dayama,2,1,6,123,3,349,1280,720
+07Byb6,#0043,Squadron Dayama,3,-1,4,0,0,404,1280,720
+bue6VC,#0043,Squadron Dayama,0,1,6,30,1,437,1280,720
+bue6VC,#0043,Squadron Dayama,1,1,6,287,6,230,1280,720
+bue6VC,#0043,Squadron Dayama,2,1,6,332,4,269,1280,720
+bue6VC,#0043,Squadron Dayama,3,-1,4,0,0,673,1280,720
+S6MoyQ,#0044,Squadron Wunus,0,1,6,18,1,635,1280,720
+S6MoyQ,#0044,Squadron Wunus,1,1,6,204,4,551,1280,720
+S6MoyQ,#0044,Squadron Wunus,2,-1,2,0,0,413,1280,720
+MfZqYJ,#0044,Squadron Wunus,0,-1,4,0,0,417,1280,720
+P3lyn8,#0044,Squadron Wunus,0,-1,3,0,0,333,1280,720
+VaC7LP,#0045,Squadron Futer,0,-1,2,0,0,273,1280,720
+nGKLAU,#0045,Squadron Futer,0,-1,3,0,0,354,1280,720
+aPCfx4,#0045,Squadron Futer,0,-1,2,0,0,259,1280,720
+GMkwqm,#0046,Squadron Henerth Mk VIII,0,1,6,63,2,389,1280,720
+GMkwqm,#0046,Squadron Henerth Mk VIII,1,-1,2,0,0,511,1280,720
+Dx2lXg,#0046,Squadron Henerth Mk VIII,0,1,6,59,3,398,1280,720
+Dx2lXg,#0046,Squadron Henerth Mk VIII,1,1,6,100,3,336,1280,720
+Dx2lXg,#0046,Squadron Henerth Mk VIII,2,1,6,20,1,340,1280,720
+Dx2lXg,#0046,Squadron Henerth Mk VIII,3,-1,1,0,0,311,1280,720
+O2RrdO,#0046,Squadron Henerth Mk VIII,0,-1,4,0,0,399,1280,720
+VGSMXG,#0047,Squadron Futis,0,-1,4,0,0,383,1280,720
+e0EN68,#0047,Squadron Futis,0,-1,2,0,0,329,1280,720
+ZCIVUF,#0047,Squadron Futis,0,-1,2,0,0,288,1280,720
+MvyE9c,#0048,Squadron Yayama,0,1,6,169,5,229,1280,720
+MvyE9c,#0048,Squadron Yayama,1,1,6,332,4,316,1280,720
+MvyE9c,#0048,Squadron Yayama,2,1,6,358,5,699,1280,720
+MvyE9c,#0048,Squadron Yayama,3,1,6,49,2,434,1280,720
+MvyE9c,#0048,Squadron Yayama,4,1,6,307,4,175,1280,720
+MvyE9c,#0048,Squadron Yayama,5,1,6,424,5,230,1280,720
+MvyE9c,#0048,Squadron Yayama,6,1,6,307,5,280,1280,720
+MvyE9c,#0048,Squadron Yayama,7,1,6,312,4,220,1280,720
+MvyE9c,#0048,Squadron Yayama,8,1,6,267,5,231,1280,720
+MvyE9c,#0048,Squadron Yayama,9,1,6,183,2,329,1280,720
+MvyE9c,#0048,Squadron Yayama,10,-1,2,0,0,290,1280,720
+werT65,#0048,Squadron Yayama,0,1,6,370,6,188,1280,720
+werT65,#0048,Squadron Yayama,1,-1,4,0,0,409,1280,720
+qABS4E,#0048,Squadron Yayama,0,1,6,205,2,261,1280,720
+qABS4E,#0048,Squadron Yayama,1,1,6,385,4,211,1280,720
+qABS4E,#0048,Squadron Yayama,2,1,6,220,4,315,1280,720
+qABS4E,#0048,Squadron Yayama,3,1,6,140,3,274,1280,720
+qABS4E,#0048,Squadron Yayama,4,1,6,460,6,167,1280,720
+qABS4E,#0048,Squadron Yayama,5,1,6,375,5,250,1280,720
+qABS4E,#0048,Squadron Yayama,6,1,6,225,2,355,1280,720
+qABS4E,#0048,Squadron Yayama,7,1,6,325,5,220,1280,720
+qABS4E,#0048,Squadron Yayama,8,1,6,163,2,268,1280,720
+qABS4E,#0048,Squadron Yayama,9,1,6,223,5,265,1280,720
+qABS4E,#0048,Squadron Yayama,10,1,6,133,5,305,1280,720
+qABS4E,#0048,Squadron Yayama,11,-1,3,0,0,270,1280,720
+dvVv3B,#0049,Squadron Ronus v28.11,0,1,6,254,3,397,1280,720
+dvVv3B,#0049,Squadron Ronus v28.11,1,1,6,501,5,219,1280,720
+dvVv3B,#0049,Squadron Ronus v28.11,2,1,6,119,2,674,1280,720
+dvVv3B,#0049,Squadron Ronus v28.11,3,1,6,147,3,539,1280,720
+dvVv3B,#0049,Squadron Ronus v28.11,4,1,6,204,3,343,1280,720
+dvVv3B,#0049,Squadron Ronus v28.11,5,1,6,205,5,376,1280,720
+dvVv3B,#0049,Squadron Ronus v28.11,6,1,6,314,3,386,1280,720
+dvVv3B,#0049,Squadron Ronus v28.11,7,1,6,341,5,273,1280,720
+dvVv3B,#0049,Squadron Ronus v28.11,8,1,6,143,2,370,1280,720
+dvVv3B,#0049,Squadron Ronus v28.11,9,1,6,176,3,510,1280,720
+dvVv3B,#0049,Squadron Ronus v28.11,10,1,6,208,3,406,1280,720
+dvVv3B,#0049,Squadron Ronus v28.11,11,1,6,300,3,274,1280,720
+dvVv3B,#0049,Squadron Ronus v28.11,12,1,6,276,4,380,1280,720
+dvVv3B,#0049,Squadron Ronus v28.11,13,1,6,192,3,382,1280,720
+dvVv3B,#0049,Squadron Ronus v28.11,14,1,6,60,1,455,1280,720
+dvVv3B,#0049,Squadron Ronus v28.11,15,-1,3,0,0,473,1280,720
+TrsxmG,#0049,Squadron Ronus v28.11,0,1,6,221,4,336,1280,720
+TrsxmG,#0049,Squadron Ronus v28.11,1,1,6,499,5,238,1280,720
+TrsxmG,#0049,Squadron Ronus v28.11,2,1,6,326,4,249,1280,720
+TrsxmG,#0049,Squadron Ronus v28.11,3,1,6,308,4,386,1280,720
+TrsxmG,#0049,Squadron Ronus v28.11,4,1,6,438,5,180,1280,720
+TrsxmG,#0049,Squadron Ronus v28.11,5,-1,5,0,0,536,1280,720
+19pkIW,#0049,Squadron Ronus v28.11,0,1,6,349,4,289,1280,720
+19pkIW,#0049,Squadron Ronus v28.11,1,1,6,307,5,258,1280,720
+19pkIW,#0049,Squadron Ronus v28.11,2,1,6,251,4,294,1280,720
+19pkIW,#0049,Squadron Ronus v28.11,3,1,6,111,3,398,1280,720
+19pkIW,#0049,Squadron Ronus v28.11,4,1,6,377,4,272,1280,720
+19pkIW,#0049,Squadron Ronus v28.11,5,1,6,495,5,257,1280,720
+19pkIW,#0049,Squadron Ronus v28.11,6,1,6,441,6,267,1280,720
+19pkIW,#0049,Squadron Ronus v28.11,7,-1,4,0,0,463,1280,720
+8fK6Hl,#0050,Squadron Dovis v46.22,0,-1,2,0,0,389,1280,720
+05ykgw,#0050,Squadron Dovis v46.22,0,1,6,80,3,425,1280,720
+05ykgw,#0050,Squadron Dovis v46.22,1,-1,1,0,0,349,1280,720
+kbIeT5,#0050,Squadron Dovis v46.22,0,1,6,15,1,387,1280,720
+kbIeT5,#0050,Squadron Dovis v46.22,1,1,6,190,5,287,1280,720
+kbIeT5,#0050,Squadron Dovis v46.22,2,-1,2,0,0,272,1280,720
+T0OJNt,#0051,Squadron Xaturn,0,-1,2,0,0,304,1280,720
+4WJRcF,#0051,Squadron Xaturn,0,-1,0,0,0,256,1280,720
+t9D7vs,#0051,Squadron Xaturn,0,-1,4,0,0,826,1280,720
+razYIe,#0052,Squadron Qustea,0,-1,2,0,0,385,1280,720
+wdFpSs,#0052,Squadron Qustea,0,1,6,46,1,452,1280,720
+wdFpSs,#0052,Squadron Qustea,1,1,6,170,4,287,1280,720
+wdFpSs,#0052,Squadron Qustea,2,-1,1,0,0,309,1280,720
+bJiBRM,#0052,Squadron Qustea,0,-1,3,0,0,298,1280,720
+C4omtc,#0053,Squadron Zostea,0,1,6,291,3,262,1280,720
+C4omtc,#0053,Squadron Zostea,1,1,6,446,5,231,1280,720
+C4omtc,#0053,Squadron Zostea,2,1,6,82,3,469,1280,720
+C4omtc,#0053,Squadron Zostea,3,1,6,186,2,298,1280,720
+C4omtc,#0053,Squadron Zostea,4,1,6,440,5,218,1280,720
+C4omtc,#0053,Squadron Zostea,5,1,6,310,4,245,1280,720
+C4omtc,#0053,Squadron Zostea,6,1,6,307,5,287,1280,720
+C4omtc,#0053,Squadron Zostea,7,1,6,422,5,263,1280,720
+C4omtc,#0053,Squadron Zostea,8,1,6,186,4,325,1280,720
+C4omtc,#0053,Squadron Zostea,9,1,6,149,4,261,1280,720
+C4omtc,#0053,Squadron Zostea,10,1,6,53,2,425,1280,720
+C4omtc,#0053,Squadron Zostea,11,1,6,501,6,190,1280,720
+C4omtc,#0053,Squadron Zostea,12,1,6,40,2,443,1280,720
+C4omtc,#0053,Squadron Zostea,13,1,6,159,3,407,1280,720
+C4omtc,#0053,Squadron Zostea,14,1,6,378,5,216,1280,720
+C4omtc,#0053,Squadron Zostea,15,1,6,354,4,255,1280,720
+C4omtc,#0053,Squadron Zostea,16,1,6,329,5,280,1280,720
+C4omtc,#0053,Squadron Zostea,17,1,6,349,5,242,1280,720
+C4omtc,#0053,Squadron Zostea,18,1,6,113,2,493,1280,720
+C4omtc,#0053,Squadron Zostea,19,-1,2,0,0,328,1280,720
+t0pdbr,#0053,Squadron Zostea,0,1,6,149,3,390,1280,720
+t0pdbr,#0053,Squadron Zostea,1,1,6,328,5,265,1280,720
+t0pdbr,#0053,Squadron Zostea,2,1,6,371,4,230,1280,720
+t0pdbr,#0053,Squadron Zostea,3,1,6,28,2,433,1280,720
+t0pdbr,#0053,Squadron Zostea,4,1,6,433,6,191,1280,720
+t0pdbr,#0053,Squadron Zostea,5,1,6,448,6,210,1280,720
+t0pdbr,#0053,Squadron Zostea,6,1,6,345,5,250,1280,720
+t0pdbr,#0053,Squadron Zostea,7,1,6,338,6,257,1280,720
+t0pdbr,#0053,Squadron Zostea,8,1,6,363,5,248,1280,720
+t0pdbr,#0053,Squadron Zostea,9,1,6,183,3,326,1280,720
+t0pdbr,#0053,Squadron Zostea,10,1,6,378,4,321,1280,720
+t0pdbr,#0053,Squadron Zostea,11,1,6,222,5,273,1280,720
+t0pdbr,#0053,Squadron Zostea,12,1,6,298,4,339,1280,720
+t0pdbr,#0053,Squadron Zostea,13,1,6,183,4,290,1280,720
+t0pdbr,#0053,Squadron Zostea,14,1,6,227,6,205,1280,720
+t0pdbr,#0053,Squadron Zostea,15,1,6,268,4,289,1280,720
+t0pdbr,#0053,Squadron Zostea,16,1,6,284,3,292,1280,720
+t0pdbr,#0053,Squadron Zostea,17,1,6,356,4,238,1280,720
+t0pdbr,#0053,Squadron Zostea,18,-1,0,0,0,380,1280,720
+x1bAZ7,#0053,Squadron Zostea,0,-1,3,0,0,446,1280,720
+7wDmXs,#0054,Squadron Halea v22.63,0,-1,4,0,0,361,1280,720
+a1qU79,#0054,Squadron Halea v22.63,0,1,6,60,2,335,1280,720
+a1qU79,#0054,Squadron Halea v22.63,1,1,6,163,4,298,1280,720
+a1qU79,#0054,Squadron Halea v22.63,2,1,6,180,5,275,1280,720
+a1qU79,#0054,Squadron Halea v22.63,3,-1,4,0,0,317,1280,720
+SFhIIs,#0054,Squadron Halea v22.63,0,1,6,87,3,272,1280,720
+SFhIIs,#0054,Squadron Halea v22.63,1,1,6,10,1,581,1280,720
+SFhIIs,#0054,Squadron Halea v22.63,2,-1,5,0,0,486,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,0,1,6,475,5,307,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,1,1,6,377,3,307,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,2,1,6,371,4,348,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,3,1,6,528,4,374,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,4,1,6,511,5,210,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,5,1,6,498,5,333,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,6,1,6,532,6,257,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,7,1,6,400,6,258,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,8,1,6,418,5,305,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,9,1,6,310,4,323,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,10,1,6,505,6,320,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,11,1,6,314,5,241,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,12,1,6,457,5,286,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,13,1,6,295,2,511,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,14,1,6,337,4,323,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,15,1,6,368,4,300,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,16,1,6,537,6,227,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,17,1,6,420,4,273,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,18,1,6,335,6,295,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,19,1,6,151,3,430,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,20,1,6,180,2,589,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,21,1,6,346,3,396,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,22,1,6,493,6,286,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,23,1,6,295,4,346,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,24,1,6,393,5,295,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,25,1,6,248,5,288,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,26,1,6,278,5,294,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,27,1,6,366,3,480,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,28,1,6,140,3,391,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,29,1,6,165,4,371,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,30,1,6,227,4,259,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,31,1,6,260,5,370,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,32,1,6,390,4,818,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,33,1,6,501,6,276,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,34,1,6,180,3,628,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,35,1,6,439,6,299,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,36,1,6,546,6,316,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,37,1,6,32,2,700,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,38,1,6,323,4,255,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,39,1,6,82,2,579,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,40,1,6,182,3,341,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,41,1,6,117,3,393,1280,720
+2WYBh2,#0055,Squadron Sulara v35.90,42,-1,5,0,0,476,1280,720
+2gfVlv,#0055,Squadron Sulara v35.90,0,1,6,594,5,188,1280,720
+2gfVlv,#0055,Squadron Sulara v35.90,1,1,6,535,6,220,1280,720
+2gfVlv,#0055,Squadron Sulara v35.90,2,1,6,542,5,259,1280,720
+2gfVlv,#0055,Squadron Sulara v35.90,3,1,6,222,4,316,1280,720
+2gfVlv,#0055,Squadron Sulara v35.90,4,1,6,304,4,287,1280,720
+2gfVlv,#0055,Squadron Sulara v35.90,5,-1,2,0,0,487,1280,720
+RKjPvP,#0055,Squadron Sulara v35.90,0,1,6,303,4,313,1280,720
+RKjPvP,#0055,Squadron Sulara v35.90,1,1,6,581,5,262,1280,720
+RKjPvP,#0055,Squadron Sulara v35.90,2,1,6,459,5,273,1280,720
+RKjPvP,#0055,Squadron Sulara v35.90,3,1,6,321,5,328,1280,720
+RKjPvP,#0055,Squadron Sulara v35.90,4,1,6,497,6,158,1280,720
+RKjPvP,#0055,Squadron Sulara v35.90,5,1,6,422,6,231,1280,720
+RKjPvP,#0055,Squadron Sulara v35.90,6,1,6,244,3,339,1280,720
+RKjPvP,#0055,Squadron Sulara v35.90,7,1,6,380,3,334,1280,720
+RKjPvP,#0055,Squadron Sulara v35.90,8,1,6,510,6,246,1280,720
+RKjPvP,#0055,Squadron Sulara v35.90,9,1,6,52,1,561,1280,720
+RKjPvP,#0055,Squadron Sulara v35.90,10,1,6,333,5,301,1280,720
+RKjPvP,#0055,Squadron Sulara v35.90,11,1,6,496,6,238,1280,720
+RKjPvP,#0055,Squadron Sulara v35.90,12,1,6,508,6,247,1280,720
+RKjPvP,#0055,Squadron Sulara v35.90,13,1,6,260,3,343,1280,720
+RKjPvP,#0055,Squadron Sulara v35.90,14,1,6,435,5,233,1280,720
+RKjPvP,#0055,Squadron Sulara v35.90,15,1,6,481,5,274,1280,720
+RKjPvP,#0055,Squadron Sulara v35.90,16,1,6,502,5,223,1280,720
+RKjPvP,#0055,Squadron Sulara v35.90,17,1,6,312,5,334,1280,720
+RKjPvP,#0055,Squadron Sulara v35.90,18,1,6,334,4,340,1280,720
+RKjPvP,#0055,Squadron Sulara v35.90,19,-1,2,0,0,540,1280,720
+CdNBJN,#0056,Squadron Wahiri Mk LXXIV,0,1,6,177,3,491,1280,720
+CdNBJN,#0056,Squadron Wahiri Mk LXXIV,1,1,6,275,4,287,1280,720
+CdNBJN,#0056,Squadron Wahiri Mk LXXIV,2,1,6,199,4,333,1280,720
+CdNBJN,#0056,Squadron Wahiri Mk LXXIV,3,1,6,387,5,330,1280,720
+CdNBJN,#0056,Squadron Wahiri Mk LXXIV,4,1,6,433,5,248,1280,720
+CdNBJN,#0056,Squadron Wahiri Mk LXXIV,5,1,6,522,5,312,1280,720
+CdNBJN,#0056,Squadron Wahiri Mk LXXIV,6,1,6,196,3,463,1280,720
+CdNBJN,#0056,Squadron Wahiri Mk LXXIV,7,1,6,107,2,558,1280,720
+CdNBJN,#0056,Squadron Wahiri Mk LXXIV,8,1,6,384,5,357,1280,720
+CdNBJN,#0056,Squadron Wahiri Mk LXXIV,9,1,6,208,4,381,1280,720
+CdNBJN,#0056,Squadron Wahiri Mk LXXIV,10,1,6,334,5,325,1280,720
+CdNBJN,#0056,Squadron Wahiri Mk LXXIV,11,1,6,129,3,405,1280,720
+CdNBJN,#0056,Squadron Wahiri Mk LXXIV,12,1,6,112,2,559,1280,720
+CdNBJN,#0056,Squadron Wahiri Mk LXXIV,13,1,6,394,6,232,1280,720
+CdNBJN,#0056,Squadron Wahiri Mk LXXIV,14,1,6,191,4,275,1280,720
+CdNBJN,#0056,Squadron Wahiri Mk LXXIV,15,1,6,102,2,428,1280,720
+CdNBJN,#0056,Squadron Wahiri Mk LXXIV,16,1,6,157,3,333,1280,720
+CdNBJN,#0056,Squadron Wahiri Mk LXXIV,17,1,6,444,6,272,1280,720
+CdNBJN,#0056,Squadron Wahiri Mk LXXIV,18,-1,2,0,0,390,1280,720
+XRTVBJ,#0056,Squadron Wahiri Mk LXXIV,0,1,6,487,5,271,1280,720
+XRTVBJ,#0056,Squadron Wahiri Mk LXXIV,1,1,6,424,5,280,1280,720
+XRTVBJ,#0056,Squadron Wahiri Mk LXXIV,2,1,6,94,3,379,1280,720
+XRTVBJ,#0056,Squadron Wahiri Mk LXXIV,3,-1,1,0,0,399,1280,720
+fbuHC0,#0056,Squadron Wahiri Mk LXXIV,0,1,6,14,1,634,1280,720
+fbuHC0,#0056,Squadron Wahiri Mk LXXIV,1,1,6,316,4,344,1280,720
+fbuHC0,#0056,Squadron Wahiri Mk LXXIV,2,1,6,472,5,233,1280,720
+fbuHC0,#0056,Squadron Wahiri Mk LXXIV,3,-1,5,0,0,630,1280,720
+3mxg7r,#0057,Squadron Ienov,0,1,6,371,4,385,1280,720
+3mxg7r,#0057,Squadron Ienov,1,1,6,256,4,318,1280,720
+3mxg7r,#0057,Squadron Ienov,2,1,6,260,2,487,1280,720
+3mxg7r,#0057,Squadron Ienov,3,-1,3,0,0,444,1280,720
+XS2dRJ,#0057,Squadron Ienov,0,1,6,370,6,294,1280,720
+XS2dRJ,#0057,Squadron Ienov,1,1,6,365,5,250,1280,720
+XS2dRJ,#0057,Squadron Ienov,2,1,6,233,4,360,1280,720
+XS2dRJ,#0057,Squadron Ienov,3,1,6,223,4,596,1280,720
+XS2dRJ,#0057,Squadron Ienov,4,-1,1,0,0,495,1280,720
+DXujCa,#0057,Squadron Ienov,0,1,6,75,2,576,1280,720
+DXujCa,#0057,Squadron Ienov,1,1,6,47,1,499,1280,720
+DXujCa,#0057,Squadron Ienov,2,1,6,217,4,304,1280,720
+DXujCa,#0057,Squadron Ienov,3,1,6,188,3,465,1280,720
+DXujCa,#0057,Squadron Ienov,4,1,6,505,4,244,1280,720
+DXujCa,#0057,Squadron Ienov,5,1,6,434,5,340,1280,720
+DXujCa,#0057,Squadron Ienov,6,1,6,253,5,309,1280,720
+DXujCa,#0057,Squadron Ienov,7,-1,4,0,0,500,1280,720
+gLzIfo,#0058,Squadron Guthea,0,1,6,309,5,292,1280,720
+gLzIfo,#0058,Squadron Guthea,1,1,6,291,5,388,1280,720
+gLzIfo,#0058,Squadron Guthea,2,1,6,445,5,317,1280,720
+gLzIfo,#0058,Squadron Guthea,3,-1,2,0,0,356,1280,720
+g4K04E,#0058,Squadron Guthea,0,1,6,74,2,425,1280,720
+g4K04E,#0058,Squadron Guthea,1,1,6,201,2,386,1280,720
+g4K04E,#0058,Squadron Guthea,2,1,6,29,2,380,1280,720
+g4K04E,#0058,Squadron Guthea,3,1,6,19,1,679,1280,720
+g4K04E,#0058,Squadron Guthea,4,1,6,399,3,366,1280,720
+g4K04E,#0058,Squadron Guthea,5,1,6,479,5,320,1280,720
+g4K04E,#0058,Squadron Guthea,6,1,6,596,6,405,1280,720
+g4K04E,#0058,Squadron Guthea,7,-1,5,0,0,841,1280,720
+TXnGz1,#0058,Squadron Guthea,0,1,6,390,6,292,1280,720
+TXnGz1,#0058,Squadron Guthea,1,1,6,337,5,280,1280,720
+TXnGz1,#0058,Squadron Guthea,2,1,6,414,6,240,1280,720
+TXnGz1,#0058,Squadron Guthea,3,-1,2,0,0,391,1280,720
+PYnKaX,#0059,Squadron Qewei,0,-1,2,0,0,236,1280,720
+N5Grzg,#0059,Squadron Qewei,0,1,6,107,3,266,1280,720
+N5Grzg,#0059,Squadron Qewei,1,1,6,317,5,292,1280,720
+N5Grzg,#0059,Squadron Qewei,2,1,6,70,2,422,1280,720
+N5Grzg,#0059,Squadron Qewei,3,-1,0,0,0,358,1280,720
+su6O6o,#0059,Squadron Qewei,0,-1,4,0,0,465,1280,720
+VQbW4p,#0060,Squadron Tonides,0,-1,4,0,0,347,1280,720
+Vr2h3z,#0060,Squadron Tonides,0,1,6,33,2,313,1280,720
+Vr2h3z,#0060,Squadron Tonides,1,-1,1,0,0,269,1280,720
+7IVR5G,#0060,Squadron Tonides,0,1,6,253,4,229,1280,720
+7IVR5G,#0060,Squadron Tonides,1,1,6,94,2,323,1280,720
+7IVR5G,#0060,Squadron Tonides,2,-1,1,0,0,221,1280,720
+CkbyIb,#0061,Squadron Wuturn v18.96,0,1,6,237,5,269,1280,720
+CkbyIb,#0061,Squadron Wuturn v18.96,1,1,6,23,1,1182,1280,720
+CkbyIb,#0061,Squadron Wuturn v18.96,2,1,6,247,5,309,1280,720
+CkbyIb,#0061,Squadron Wuturn v18.96,3,-1,1,0,0,415,1280,720
+jc8GR5,#0061,Squadron Wuturn v18.96,0,-1,5,0,0,674,1280,720
+jzTeXC,#0061,Squadron Wuturn v18.96,0,1,6,301,4,260,1280,720
+jzTeXC,#0061,Squadron Wuturn v18.96,1,1,6,375,6,249,1280,720
+jzTeXC,#0061,Squadron Wuturn v18.96,2,1,6,350,6,224,1280,720
+jzTeXC,#0061,Squadron Wuturn v18.96,3,1,6,39,1,935,1280,720
+jzTeXC,#0061,Squadron Wuturn v18.96,4,1,6,284,5,240,1280,720
+jzTeXC,#0061,Squadron Wuturn v18.96,5,1,6,445,6,235,1280,720
+jzTeXC,#0061,Squadron Wuturn v18.96,6,1,6,320,6,281,1280,720
+jzTeXC,#0061,Squadron Wuturn v18.96,7,1,6,122,2,308,1280,720
+jzTeXC,#0061,Squadron Wuturn v18.96,8,1,6,220,5,316,1280,720
+jzTeXC,#0061,Squadron Wuturn v18.96,9,1,6,147,2,374,1280,720
+jzTeXC,#0061,Squadron Wuturn v18.96,10,1,6,56,1,402,1280,720
+jzTeXC,#0061,Squadron Wuturn v18.96,11,1,6,203,3,701,1280,720
+jzTeXC,#0061,Squadron Wuturn v18.96,12,1,6,64,2,828,1280,720
+jzTeXC,#0061,Squadron Wuturn v18.96,13,-1,5,0,0,522,1280,720
+97PQVc,#0062,Squadron Nanov,0,1,6,127,1,480,1280,720
+97PQVc,#0062,Squadron Nanov,1,1,6,491,6,200,1280,720
+97PQVc,#0062,Squadron Nanov,2,1,6,190,2,516,1280,720
+97PQVc,#0062,Squadron Nanov,3,-1,3,0,0,563,1280,720
+mMJMQr,#0062,Squadron Nanov,0,1,6,345,4,320,1280,720
+mMJMQr,#0062,Squadron Nanov,1,1,6,344,4,315,1280,720
+mMJMQr,#0062,Squadron Nanov,2,-1,4,0,0,404,1280,720
+d5kins,#0062,Squadron Nanov,0,1,6,495,6,277,1280,720
+d5kins,#0062,Squadron Nanov,1,1,6,46,3,407,1280,720
+d5kins,#0062,Squadron Nanov,2,1,6,242,4,412,1280,720
+d5kins,#0062,Squadron Nanov,3,1,6,112,4,385,1280,720
+d5kins,#0062,Squadron Nanov,4,1,6,191,3,372,1280,720
+d5kins,#0062,Squadron Nanov,5,1,6,423,4,482,1280,720
+d5kins,#0062,Squadron Nanov,6,1,6,319,6,334,1280,720
+d5kins,#0062,Squadron Nanov,7,1,6,307,4,277,1280,720
+d5kins,#0062,Squadron Nanov,8,1,6,254,3,363,1280,720
+d5kins,#0062,Squadron Nanov,9,1,6,323,5,346,1280,720
+d5kins,#0062,Squadron Nanov,10,1,6,469,5,288,1280,720
+d5kins,#0062,Squadron Nanov,11,1,6,371,4,273,1280,720
+d5kins,#0062,Squadron Nanov,12,1,6,125,2,453,1280,720
+d5kins,#0062,Squadron Nanov,13,1,6,317,4,369,1280,720
+d5kins,#0062,Squadron Nanov,14,1,6,150,1,407,1280,720
+d5kins,#0062,Squadron Nanov,15,1,6,252,3,401,1280,720
+d5kins,#0062,Squadron Nanov,16,1,6,424,6,207,1280,720
+d5kins,#0062,Squadron Nanov,17,1,6,238,4,508,1280,720
+d5kins,#0062,Squadron Nanov,18,-1,4,0,0,582,1280,720
+pnaJiy,#0063,Squadron Logawa,0,1,6,473,5,395,1280,720
+pnaJiy,#0063,Squadron Logawa,1,1,6,506,6,399,1280,720
+pnaJiy,#0063,Squadron Logawa,2,1,6,368,4,332,1280,720
+pnaJiy,#0063,Squadron Logawa,3,1,6,16,1,840,1280,720
+pnaJiy,#0063,Squadron Logawa,4,1,6,349,3,312,1280,720
+pnaJiy,#0063,Squadron Logawa,5,1,6,173,3,419,1280,720
+pnaJiy,#0063,Squadron Logawa,6,1,6,289,4,354,1280,720
+pnaJiy,#0063,Squadron Logawa,7,1,6,120,2,741,1280,720
+pnaJiy,#0063,Squadron Logawa,8,1,6,232,3,368,1280,720
+pnaJiy,#0063,Squadron Logawa,9,1,6,327,5,326,1280,720
+pnaJiy,#0063,Squadron Logawa,10,1,6,356,4,357,1280,720
+pnaJiy,#0063,Squadron Logawa,11,1,6,298,5,315,1280,720
+pnaJiy,#0063,Squadron Logawa,12,1,6,75,3,941,1280,720
+pnaJiy,#0063,Squadron Logawa,13,1,6,381,5,297,1280,720
+pnaJiy,#0063,Squadron Logawa,14,-1,4,0,0,1092,1280,720
+RwtF6T,#0063,Squadron Logawa,0,1,6,298,4,315,1280,720
+RwtF6T,#0063,Squadron Logawa,1,1,6,405,5,254,1280,720
+RwtF6T,#0063,Squadron Logawa,2,1,6,208,3,500,1280,720
+RwtF6T,#0063,Squadron Logawa,3,1,6,383,5,400,1280,720
+RwtF6T,#0063,Squadron Logawa,4,1,6,477,6,242,1280,720
+RwtF6T,#0063,Squadron Logawa,5,1,6,220,5,306,1280,720
+RwtF6T,#0063,Squadron Logawa,6,1,6,424,5,283,1280,720
+RwtF6T,#0063,Squadron Logawa,7,1,6,237,4,678,1280,720
+RwtF6T,#0063,Squadron Logawa,8,1,6,245,4,324,1280,720
+RwtF6T,#0063,Squadron Logawa,9,1,6,90,2,482,1280,720
+RwtF6T,#0063,Squadron Logawa,10,1,6,51,1,539,1280,720
+RwtF6T,#0063,Squadron Logawa,11,1,6,332,6,366,1280,720
+RwtF6T,#0063,Squadron Logawa,12,-1,3,0,0,708,1280,720
+0WTbeE,#0063,Squadron Logawa,0,1,6,254,6,344,1280,720
+0WTbeE,#0063,Squadron Logawa,1,1,6,354,4,345,1280,720
+0WTbeE,#0063,Squadron Logawa,2,1,6,47,2,735,1280,720
+0WTbeE,#0063,Squadron Logawa,3,-1,4,0,0,476,1280,720
+npsGsE,#0064,Squadron Zoclite,0,1,6,112,3,475,1280,720
+npsGsE,#0064,Squadron Zoclite,1,1,6,265,4,302,1280,720
+npsGsE,#0064,Squadron Zoclite,2,1,6,218,3,261,1280,720
+npsGsE,#0064,Squadron Zoclite,3,-1,2,0,0,510,1280,720
+cRUM5M,#0064,Squadron Zoclite,0,-1,5,0,0,747,1280,720
+am6te6,#0064,Squadron Zoclite,0,-1,5,0,0,464,1280,720
+qqaX2u,#0065,Squadron Huthea,0,-1,3,0,0,419,1280,720
+TIShd2,#0065,Squadron Huthea,0,-1,3,0,0,438,1280,720
+cCt2wr,#0065,Squadron Huthea,0,1,6,151,4,320,1280,720
+cCt2wr,#0065,Squadron Huthea,1,1,6,132,2,408,1280,720
+cCt2wr,#0065,Squadron Huthea,2,1,6,167,2,346,1280,720
+cCt2wr,#0065,Squadron Huthea,3,-1,3,0,0,485,1280,720
