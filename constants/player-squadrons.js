@@ -67,6 +67,7 @@ const playerSquadrons = [
     '66_squadron_ooXXsQgkjUaQz8TgXU4MxR57dVrmY6eR4UEYpAfFMcckKSbxbZv.json',
     '67_squadron_ooWz7iE2D8MBYnVMUX5JPfbRyPrsyTXskyM3aVv5HkDda8ytPdT.json',
     '68_squadron_ooWz7iE2D8MBYnVMUX5JPfbRyPrsyTXskyM3aVv5HkDda8ytPdT_2.json',
+    '69_squadron_opEPFzsSY4dT7UvauQK2U56wFLng6tbFgFNBF4yZ1TGJij5ncMQ.json'
 ];
 
 export default playerSquadrons;
