@@ -7,8 +7,8 @@ import ScoreManager from '../manager/score-manager.js';
 
 export const width = 800;
 export const height = 800;
-// export const width = 1280;
-// export const height = 720;
+// export const width = 1600;
+// export const height = 900;
 
 export const game = {
     rank: 0,
