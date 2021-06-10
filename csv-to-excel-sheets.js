@@ -24,28 +24,28 @@ async function writeExcel() {
         return await parse(csv, options);
     }
 
-    const highScores1280x720 = await getDataFromCsv('high-scores_1280x720.csv', parserOptions);
+    const highScores1600x900 = await getDataFromCsv('high-scores_1600x900.csv', parserOptions);
     const highScores800x800 = await getDataFromCsv('high-scores_800x800.csv', parserOptions);
 
-    const squadron1280x720 = await getDataFromCsv('squadrons-stats_1280x720.csv', parserOptions);
+    const squadron1600x900 = await getDataFromCsv('squadrons-stats_1600x900.csv', parserOptions);
     const squadron800x800 = await getDataFromCsv('squadrons-stats_800x800.csv', parserOptions);
 
-    const drone1280x720 = await getDataFromCsv('drones-stats_1280x720.csv', parserOptions);
+    const drone1600x900 = await getDataFromCsv('drones-stats_1600x900.csv', parserOptions);
     const drone800x800 = await getDataFromCsv('drones-stats_800x800.csv', parserOptions);
 
-    const sortedHighScores1280x720 = highScores1280x720.sort(
+    const sortedHighScores1600x900 = highScores1600x900.sort(
         (a, b) => b.highScore - a.highScore,
     );
     const sortedHighScores800x800 = highScores800x800.sort(
         (a, b) => b.highScore - a.highScore,
     );
-    const sortedSquadron1280x720 = squadron1280x720.sort(
+    const sortedSquadron1600x900 = squadron1600x900.sort(
         (a, b) => b.survivingDrones - a.survivingDrones,
     );
     const sortedSquadron800x800 = squadron800x800.sort(
         (a, b) => b.survivingDrones - a.survivingDrones,
     );
-    const sortedDrone1280x720 = drone1280x720.sort(
+    const sortedDrone1600x900 = drone1600x900.sort(
         (a, b) => b.damage - a.damage,
     );
     const sortedDrone800x800 = drone800x800.sort(
@@ -75,11 +75,11 @@ async function writeExcel() {
         }
     };
 
-    writeWorkSheet(wb, sortedHighScores1280x720, 'high-scores_1280x720');
+    writeWorkSheet(wb, sortedHighScores1600x900, 'high-scores_1600x900');
     writeWorkSheet(wb, sortedHighScores800x800, 'high-scores_800x800');
-    writeWorkSheet(wb, sortedSquadron1280x720, 'squadrons_1280x720');
+    writeWorkSheet(wb, sortedSquadron1600x900, 'squadrons_1600x900');
     writeWorkSheet(wb, sortedSquadron800x800, 'squadrons_800x800');
-    writeWorkSheet(wb, sortedDrone1280x720, 'drones_1280x720');
+    writeWorkSheet(wb, sortedDrone1600x900, 'drones_1600x900');
     writeWorkSheet(wb, sortedDrone800x800, 'drones_800x800');
 
     wb.write(`stats_${(new Date()).toISOString().slice(0, 10)}.xlsx`);
