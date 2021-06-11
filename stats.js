@@ -1,4 +1,4 @@
-import { chassis, scanners, steering, thrusters, gimbals } from './constants/utilities.js';
+import { chassis, gimbals, scanners, steering, thrusters } from './constants/utilities.js';
 import ObjectsToCsv from 'objects-to-csv';
 import path from 'path';
 import { height, width } from './constants/constants.js';
@@ -77,6 +77,35 @@ export default class Stats {
             {append});
     }
 
+    async writeRoundRobin(filePath = './', append = false) {
+        await new ObjectsToCsv(this._squadronStats).toDisk(
+            path.join(filePath, `rr_squadrons-stats_${width}x${height}.csv`),
+            {append});
+        await new ObjectsToCsv(this._droneStats).toDisk(
+            path.join(filePath, `rr_drones-stats_${width}x${height}.csv`),
+            {append});
+        const squadWldObj = this._squadronStats.reduce((obj, ss) => {
+            obj[ss.name] = obj[ss.name] || {w: 0, l: 0, d: 0};
+            switch(ss.wld) {
+                case -1:
+                    obj[ss.name].l++;
+                    break;
+                case 0:
+                    obj[ss.name].d++;
+                    break;
+                case 1:
+                    obj[ss.name].w++;
+                    break;
+            }
+            return obj;
+        }, {});
+        const squadWldArr = Object.entries(squadWldObj).map(([name, wld]) => ({name, ...wld}))
+        await new ObjectsToCsv(squadWldArr).toDisk(
+            path.join(filePath, `rr_results_${width}x${height}.csv`),
+            {append});
+
+    }
+
     async writePickTopHighScores(filePath = './', append = false) {
         const weeklyHighScores = JSON.stringify(this._highScores.reduce((result, hs) => {
             const lastSquadHighScoreIndex = result.findIndex(r => r.number === hs.number);
@@ -85,12 +114,14 @@ export default class Stats {
                 return result;
             }
             if(result[lastSquadHighScoreIndex].highScore < hs.highScore) {
-                result.splice(lastSquadHighScoreIndex, 1)
+                result.splice(lastSquadHighScoreIndex, 1);
                 result.push(hs);
             }
             return result;
         }, []).sort((a, b) => b.highScore - a.highScore));
-        const file = path.join(filePath, `weekly-high-scores_${width}x${height}_${(new Date()).toISOString().slice(0, 10)}.json`);
+        const file = path.join(filePath,
+            `weekly-high-scores_${width}x${height}_${(new Date()).toISOString()
+                .slice(0, 10)}.json`);
         fs.writeFileSync(file, weeklyHighScores);
 
     }
