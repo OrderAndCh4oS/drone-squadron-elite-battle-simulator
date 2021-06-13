@@ -77,12 +77,12 @@ export default class Stats {
             {append});
     }
 
-    async writeRoundRobin(filePath = './', append = false) {
+    async writeRoundRobin(filePath = './', round = 0,  append = false) {
         await new ObjectsToCsv(this._squadronStats).toDisk(
-            path.join(filePath, `rr_squadrons-stats_${width}x${height}.csv`),
+            path.join(filePath, `rr_round_${round+1}_squadrons-stats_${width}x${height}.csv`),
             {append});
         await new ObjectsToCsv(this._droneStats).toDisk(
-            path.join(filePath, `rr_drones-stats_${width}x${height}.csv`),
+            path.join(filePath, `rr_round_${round+1}_drones-stats_${width}x${height}.csv`),
             {append});
         const squadWldObj = this._squadronStats.reduce((obj, ss) => {
             obj[ss.name] = obj[ss.name] || {w: 0, l: 0, d: 0};
@@ -101,9 +101,17 @@ export default class Stats {
         }, {});
         const squadWldArr = Object.entries(squadWldObj).map(([name, wld]) => ({name, ...wld}))
         await new ObjectsToCsv(squadWldArr).toDisk(
-            path.join(filePath, `rr_results_${width}x${height}.csv`),
+            path.join(filePath, `rr_round_${round+1}_results_${width}x${height}.csv`),
             {append});
+    }
 
+    async writeSwissElimination(filePath = './',  append = false) {
+        await new ObjectsToCsv(this._squadronStats).toDisk(
+            path.join(filePath, `swiss_elimination_squadrons-stats_${width}x${height}.csv`),
+            {append});
+        await new ObjectsToCsv(this._droneStats).toDisk(
+            path.join(filePath, `swiss_elimination_drones-stats_${width}x${height}.csv`),
+            {append});
     }
 
     async writePickTopHighScores(filePath = './', append = false) {

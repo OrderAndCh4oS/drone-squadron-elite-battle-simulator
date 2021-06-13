@@ -10,7 +10,6 @@ import {
 } from './constants/constants.js';
 import { deltaTime } from './service/delta-time.js';
 import SquadronFactory from './factory/squadron-factory.js';
-import ShortUniqueId from 'short-unique-id';
 import Stats from './stats.js';
 import playerSquadrons from './constants/player-squadrons.js';
 import { fetchPlayerSquadron } from './api/get-drones.js';
@@ -40,15 +39,13 @@ const roundRobin = (n) => {
     return rounds;
 };
 
-const uid = new ShortUniqueId();
 
 let currentPairing = 0;
 // let roundRobinPairs = roundRobin(playerSquadrons.length).flat(1);
-let roundRobinPairs = roundRobin(6).flat(1);
+let roundRobinPairs = roundRobin(playerSquadrons.length).flat(1);
 let playerOne
 let playerTwo
 const playerStats = new Stats();
-const playerTwoStats = new Stats();
 
 const requestAnimationFrame = f => {
     setImmediate(f);

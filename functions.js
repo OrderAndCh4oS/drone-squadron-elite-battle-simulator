@@ -50,7 +50,7 @@ export function angleBetweenRange(angleOne, angleTwo, range) {
 }
 
 export function shuffle(arr) {
-    let randomizedArray = [];
+    const randomizedArray = [];
     let array = arr;
     while(array.length !== 0) {
         let rIndex = Math.floor(array.length * Math.random());
