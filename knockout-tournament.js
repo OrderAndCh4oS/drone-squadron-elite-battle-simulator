@@ -1,4 +1,13 @@
-import { dm, game, grid, height, pm, scoreManager, squadrons, width } from './constants/constants.js';
+import {
+    dm,
+    game,
+    grid,
+    height,
+    pm,
+    scoreManager,
+    squadrons,
+    width,
+} from './constants/constants.js';
 import { fetchPlayerSquadron } from './api/get-drones.js';
 import TournamentOrganizer from 'tournament-organizer';
 import Stats from './stats.js';
@@ -14,7 +23,7 @@ import playerSquadrons from './constants/player-squadrons.js';
 const playerStats = new Stats();
 
 const playGame = (playerOne, playerTwo) =>
-    new Promise(async (resolve) => {
+    new Promise(async(resolve) => {
         const requestAnimationFrame = f => {
             setImmediate(f);
         };
@@ -94,16 +103,21 @@ const playGame = (playerOne, playerTwo) =>
         await initialiseRound();
         deltaTime.reset();
         requestAnimationFrame(animate);
-    })
+    });
 
-const players = shuffle(await Promise.all(Array(playerSquadrons.length).fill().map((_, i) => fetchPlayerSquadron(i))));
+async function getPlayers() {
+    const players = await Promise.all(Array(playerSquadrons.length).fill().map((_, i) => fetchPlayerSquadron(i)));
+    return shuffle(players.map((p, i) => ({...p, id: i})));
+}
+
+const players = await getPlayers();
 const manager = new TournamentOrganizer.EventManager();
 
 const tourney = manager.createTournament(null, {
     name: 'Drone Squadron Swiss Elimination',
     format: 'swiss',
     playoffs: 'elim',
-    cutLimit: 8,
+    cutLimit: 16,
     bestOf: 3,
     winValue: 3,
     drawValue: 1,
@@ -124,16 +138,16 @@ while(tourney.activeMatches().length) {
     let oneWins = 0;
     let twoWins = 0;
     let draws = 0;
-    const playerOne = players.find(p => p.leader === match.playerOne.alias)
-    const playerTwo = players.find(p => p.leader === match.playerTwo.alias)
+    const playerOne = players.find(p => p.leader === match.playerOne.alias);
+    const playerTwo = players.find(p => p.leader === match.playerTwo.alias);
     for(let i = 0; i < 3; i++) {
-        const result = await playGame(playerOne, playerTwo)
+        const result = await playGame(playerOne, playerTwo);
         if(result.playerOneWld === 1 && result.playerTwoWld === -1) {
-            oneWins++
+            oneWins++;
         } else if(result.playerTwoWld === 1 && result.playerOneWld === -1) {
-            twoWins++
+            twoWins++;
         } else if(result.playerOneWld === 0 && result.playerTwoWld === 0) {
-            draws++
+            draws++;
         }
     }
     tourney.result(match, oneWins, twoWins, draws);
@@ -145,9 +159,9 @@ for(const player of tourney.players) {
     const opponents = player.results
         .map(r => tourney.players.find(p => p.id === r.opponent).alias)
         .join(',');
-    const squadronData = players.find(p => p.leader === player.alias)
+    const squadronData = players.find(p => p.leader === player.alias);
     playerData.push({
-        number: `#${pad(squadronData.id, 4)}`,
+        number: `#${pad(squadronData.id + 1, 4)}`,
         squadron: player.alias,
         wld,
         matches: player.matches,
@@ -158,26 +172,26 @@ for(const player of tourney.players) {
         byes: player.byes,
         matchWinPercentageMTG: player.tiebreakers.matchWinPctM.toPrecision(3),
         gameWinPercentage: player.tiebreakers.gameWinPct.toPrecision(3),
-        opponents
+        opponents,
     });
 }
 
-const matchData = []
+const matchData = [];
 for(const match of tourney.matches) {
-    const playerOneSquadronData = players.find(p => p.leader === match.playerOne.alias)
+    const playerOneSquadronData = players.find(p => p.leader === match.playerOne.alias);
     const playerTwoSquadronData = match.playerTwo?.alias
         ? players.find(p => p.leader === match.playerTwo.alias)
         : null;
     matchData.push({
-        playerOneNumber: `#${pad(playerOneSquadronData.id, 4)}`,
+        playerOneNumber: `#${pad(playerOneSquadronData.id + 1, 4)}`,
         playerOne: match.playerOne.alias,
-        playerTwoNumber: playerTwoSquadronData ? `#${pad(playerTwoSquadronData.id, 4)}` : 'Bye',
+        playerTwoNumber: playerTwoSquadronData ? `#${pad(playerTwoSquadronData.id + 1, 4)}` : 'Bye',
         playerTwo: match.playerTwo?.alias || 'Bye',
         round: match.round,
         playerOneWins: match.playerOneWins,
         playerTwoWins: match.playerTwoWins,
         draws: match.draws,
-    })
+    });
 }
 
 await playerStats.writeSwissElimination('./stats');
@@ -186,19 +200,19 @@ const today = (new Date()).toISOString().slice(0, 10);
 
 await new ObjectsToCsv(playerData).toDisk(
     path.join('./stats', `swiss_elimination_results_${width}x${height}_${today}.csv`),
-    {append: false}
+    {append: false},
 );
 await new ObjectsToCsv(matchData).toDisk(
     path.join('./stats', `swiss_elimination_matches_${width}x${height}_${today}.csv`),
-    {append: false}
+    {append: false},
 );
 
 fs.writeFileSync(path.join(
     './stats',
-    `swiss_elimination_results_${width}x${height}_${today}.json`
+    `swiss_elimination_results_${width}x${height}_${today}.json`,
 ), JSON.stringify(playerData));
 
 fs.writeFileSync(path.join(
     './stats',
-    `swiss_elimination_matches_${width}x${height}_${today}.json`
+    `swiss_elimination_matches_${width}x${height}_${today}.json`,
 ), JSON.stringify(matchData));

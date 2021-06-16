@@ -82,7 +82,7 @@ async function writeExcel() {
     writeWorkSheet(wb, sortedDrone1600x900, 'drones_1600x900');
     writeWorkSheet(wb, sortedDrone800x800, 'drones_800x800');
 
-    wb.write(`stats_${(new Date()).toISOString().slice(0, 10)}.xlsx`);
+    wb.write(`high-score-stats_${(new Date()).toISOString().slice(0, 10)}.xlsx`);
 }
 
 await writeExcel();
