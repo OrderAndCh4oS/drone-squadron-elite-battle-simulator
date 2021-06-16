@@ -3,23 +3,18 @@ import ObjectsToCsv from 'objects-to-csv';
 import path from 'path';
 import { height, width } from './constants/constants.js';
 import fs from 'fs';
+import pad from './helpers.js';
 
 export default class Stats {
     _highScores = [];
     _squadronStats = [];
     _droneStats = [];
 
-    pad(n, width, unit) {
-        unit = unit || '0';
-        n = n + '';
-        return n.length >= width ? n : new Array(width - n.length + 1).join(unit) + n;
-    };
-
     addStatsFor(
         uid, currentSquadron, squadron, rank, wld, survivingDrones, roundTime, width, height) {
         this._squadronStats.push({
             uid,
-            number: `#${this.pad(currentSquadron + 1, 4)}`,
+            number: `#${pad(currentSquadron + 1, 4)}`,
             name: squadron.name,
             rank,
             wld,
@@ -32,7 +27,7 @@ export default class Stats {
         });
         this._droneStats.push(...squadron.drones.map(d => ({
             uid,
-            number: `#${this.pad(currentSquadron + 1, 4)}`,
+            number: `#${pad(currentSquadron + 1, 4)}`,
             squadron: squadron.name,
             name: d.name,
             value: d.value,
@@ -56,7 +51,7 @@ export default class Stats {
     addHighScore(uid, currentSquadron, squadron, highScore, rank, width, height) {
         this._highScores.push({
             uid,
-            number: `#${this.pad(currentSquadron + 1, 4)}`,
+            number: `#${pad(currentSquadron + 1, 4)}`,
             squadron: squadron.name,
             highScore,
             rank,

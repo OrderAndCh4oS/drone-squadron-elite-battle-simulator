@@ -1,6 +1,5 @@
 import { dm, game, grid, height, pm, scoreManager, squadrons, width } from './constants/constants.js';
 import { fetchPlayerSquadron } from './api/get-drones.js';
-import playerSquadrons from './constants/player-squadrons.js';
 import TournamentOrganizer from 'tournament-organizer';
 import Stats from './stats.js';
 import SquadronFactory from './factory/squadron-factory.js';
@@ -9,6 +8,8 @@ import ObjectsToCsv from 'objects-to-csv';
 import path from 'path';
 import fs from 'fs';
 import { shuffle } from './functions.js';
+import pad from './helpers.js';
+import playerSquadrons from './constants/player-squadrons.js';
 
 const playerStats = new Stats();
 
@@ -99,11 +100,11 @@ const players = shuffle(await Promise.all(Array(playerSquadrons.length).fill().m
 const manager = new TournamentOrganizer.EventManager();
 
 const tourney = manager.createTournament(null, {
-    name: 'My Example Tournament',
+    name: 'Drone Squadron Swiss Elimination',
     format: 'swiss',
-    playoffs: '2xelim',
+    playoffs: 'elim',
     cutLimit: 8,
-    bestOf: 1,
+    bestOf: 3,
     winValue: 3,
     drawValue: 1,
     tiebreakers: ['magic-tcg'],
@@ -144,7 +145,9 @@ for(const player of tourney.players) {
     const opponents = player.results
         .map(r => tourney.players.find(p => p.id === r.opponent).alias)
         .join(',');
+    const squadronData = players.find(p => p.leader === player.alias)
     playerData.push({
+        number: `#${pad(squadronData.id, 4)}`,
         squadron: player.alias,
         wld,
         matches: player.matches,
@@ -153,20 +156,27 @@ for(const player of tourney.players) {
         gamePoints: player.gamePoints,
         initialByes: player.initialByes,
         byes: player.byes,
-        gameWinPercentage: player.tiebreakers.gameWinPct,
+        matchWinPercentageMTG: player.tiebreakers.matchWinPctM.toPrecision(3),
+        gameWinPercentage: player.tiebreakers.gameWinPct.toPrecision(3),
         opponents
     });
 }
 
 const matchData = []
 for(const match of tourney.matches) {
+    const playerOneSquadronData = players.find(p => p.leader === match.playerOne.alias)
+    const playerTwoSquadronData = match.playerTwo?.alias
+        ? players.find(p => p.leader === match.playerTwo.alias)
+        : null;
     matchData.push({
+        playerOneNumber: `#${pad(playerOneSquadronData.id, 4)}`,
         playerOne: match.playerOne.alias,
+        playerTwoNumber: playerTwoSquadronData ? `#${pad(playerTwoSquadronData.id, 4)}` : 'Bye',
         playerTwo: match.playerTwo?.alias || 'Bye',
         round: match.round,
         playerOneWins: match.playerOneWins,
         playerTwoWins: match.playerTwoWins,
-        draws: match.draws
+        draws: match.draws,
     })
 }
 

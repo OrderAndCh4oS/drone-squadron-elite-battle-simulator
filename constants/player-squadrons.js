@@ -104,6 +104,12 @@ const playerSquadrons = [
     '103_squadron_oomYGYBnqGcUR2utBVwrt9xtPm3LjZq3U9qQhYk4jFpZXd98uAx.json',
     '104_squadron_opNDNcqBqmzXcenh1LhGkitV7eU82hq2WLMGj6W6TedMiZhzYzC.json',
     '105_squadron_onpCiLR1tQvCzVWQ6ise7DphkUnYB7x8EHFt17aySs8gCiaEzNb.json',
+    '106_squadron_ooqoVaffHZdXC4jiN9U1NbB6anBkLfj29d5o1MmzY65MFxSJdse.json',
+    '107_squadron_ongv2wA4gSZRuXLnYDMYknDt3tPFCUt4VUZNiBRxvKBDR4uUFse.json',
+    '108_squadron_oo6UY9H6mBsCj7bpYisy1fafZuiUGvJgK6sRsUAUiPY5FUbzAMH.json',
+    '109_squadron_ooAa21iPqwKGEExQ3hK9mqELLCp5Cg3mvJ4XnhUgQRfhFW7zsBM.json',
+    '110_squadron_ooEGuvFpiZ8rBu4A2jyrPrApGcfErcdpb8o1TPCY29ooTG9ZTzE.json',
+    '111_squadron_onsT9RC36QetrjkSBM29EEtZhNG3ADScw7UW5Zt6HTLA9BGUHVU.json',
 ];
 
 export default playerSquadrons;
