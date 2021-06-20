@@ -115,7 +115,7 @@ const endRound = async(isDraw = false) => {
     game.rank = 0;
     runs++;
     roundUid = uid();
-    if(runs < totalRuns) {
+    if(runs < totalRuns && game.rank <= 99) {
         await start();
     } else {
         await stats.write('./stats');
