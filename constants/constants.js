@@ -5,7 +5,7 @@ import { chassis, gimbals, scanners, steering, thrusters } from './utilities.js'
 import { weapons } from './weapons.js';
 import ScoreManager from '../manager/score-manager.js';
 
-// export const width = 800;
+// export const width = 800
 // export const height = 800;
 export const width = 1600;
 export const height = 900;

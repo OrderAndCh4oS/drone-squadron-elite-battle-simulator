@@ -17,7 +17,7 @@ import { fetchEnemySquadron, fetchPlayerSquadron } from './api/get-drones.js';
 
 const uid = new ShortUniqueId();
 
-let currentPlayer = 0;
+let currentPlayer = 136;
 const stats = new Stats();
 let roundUid = uid();
 let totalRuns = 3;
