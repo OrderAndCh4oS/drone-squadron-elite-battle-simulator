@@ -1,0 +1,584 @@
+playerOneNumber,playerOne,playerTwoNumber,playerTwo,round,playerOneWins,playerTwoWins,draws
+#0012,Yutera Mk LXXXIV,#0112,Matania,1,0,3,0
+#0078,Zuter,#0128,Xetune,1,0,3,0
+#0026,Jolea,#0111,Herilia v14.82,1,0,3,0
+#0016,Purilia Mk XXXV,#0084,Iuzuno,1,2,1,0
+#0069,Bonope,#0051,Xaturn,1,3,0,0
+#0070,Qunus,#0097,Foter,1,1,2,0
+#0020,Humia,#0076,Qater,1,0,3,0
+#0074,Petania Mk LXXXVII,#0040,Wuter Mk XVII,1,3,0,0
+#0025,Iapra,#0137,Juzuno v16.41,1,0,3,0
+#0098,Suria Mk XCVII,#0068,Fucury,1,2,1,0
+#0039,Cuvis,#0101,Fabos,1,2,1,0
+#0106,Jatania,#0065,Huthea,1,3,0,0
+#0104,Nutera,#0058,Guthea,1,0,3,0
+#0132,Vetania,#0042,Potera,1,0,3,0
+#0011,Wuwei v12.30,#0021,Selea,1,0,3,0
+#0004,Pecury,#0003,Tubos,1,0,3,0
+#0006,Sophus,#0127,Quwei,1,1,2,0
+#0029,Nehiri,#0050,Dovis v46.22,1,2,1,0
+#0062,Nanov,#0028,Senus Mk XLIX,1,0,3,0
+#0126,Wanus v30.81,#0031,Ianov,1,0,3,0
+#0041,Toliv v6.73,#0036,Tenia,1,0,3,0
+#0095,Rugawa,#0064,Zoclite,1,3,0,0
+#0130,Doruta,#0010,Xocury,1,3,0,0
+#0067,Rozuno,#0057,Ienov,1,1,2,0
+#0013,Tewei v11.69,#0035,Haruta Mk XLIX,1,1,2,0
+#0024,Wehines Mk L,#0120,Waria v41.6,1,0,3,0
+#0109,Ioliv,#0054,Halea v22.63,1,3,0,0
+#0043,Dayama,#0030,Yenus,1,0,3,0
+#0089,Lanus,#0022,Yocarro Mk XLVII,1,3,0,0
+#0073,Vophus,#0117,Cethea,1,0,3,0
+#0135,Durus v12.47,#0048,Yayama,1,0,3,0
+#0080,Fuwei,#0131,Iunus v35.24,1,3,0,0
+#0087,Doyama Mk VII,#0049,Ronus v28.11,1,3,0,0
+#0059,Qewei,#0046,Henerth Mk VIII,1,2,1,0
+#0119,Xunus Mk XII,#0018,Buwei,1,2,1,0
+#0136,Tuvis,#0052,Qustea,1,3,0,0
+#0103,Xotune v29.73,#0045,Futer,1,3,0,0
+#0056,Wahiri Mk LXXIV,#0099,Vathea,1,2,1,0
+#0005,Cotania,#0121,Sugantu,1,2,1,0
+#0023,Manope Mk XXXVII,#0071,Secarro,1,0,3,0
+#0124,Fanov v33.40,#0047,Futis,1,3,0,0
+#0037,Decarro,#0123,Fatera,1,2,1,0
+#0141,Quphus,#0075,Jenides,1,0,3,0
+#0027,Yutania,#0129,Peter,1,3,0,0
+#0015,Honov,#0038,Selia,1,3,0,0
+#0116,Soria,#0032,Later,1,3,0,0
+#0107,Danov,#0008,Tepra,1,1,2,0
+#0138,Bowei,#0094,Monus,1,0,3,0
+#0044,Wunus,#0066,Ferilia,1,1,2,0
+#0060,Tonides,#0118,Pucarro,1,0,3,0
+#0082,Qaturn,#0077,Vucarro v33.11,1,2,1,0
+#0072,Xulia,#0088,Julea,1,0,3,0
+#0096,Funerth,#0085,Fupra,1,3,0,0
+#0093,Megantu,#0063,Logawa,1,0,3,0
+#0134,Tetune,#0100,Turilia v28.53,1,1,2,0
+#0139,Konus Mk LVIII,#0110,Keclite,1,0,3,0
+#0014,Qewei Mk XCV,#0091,Qalea,1,0,3,0
+#0114,Negantu,#0083,Hunus v28.9,1,3,0,0
+#0053,Zostea,#0108,Getis,1,3,0,0
+#0019,Iavis v40.72,#0017,Wonus,1,1,2,0
+#0001,Gaphus,#0009,Relia v12.42,1,3,0,0
+#0081,Wustea Mk LXXXVI,#0133,Felea,1,2,1,0
+#0102,Huyama,#0079,Dutune,1,3,0,0
+#0086,Peturn,#0140,Jeliv,1,3,0,0
+#0033,Lacarro,#0007,Nostea,1,0,3,0
+#0122,Wanope,#0090,Gohiri,1,2,1,0
+#0092,Yestea,#0034,Pucury v46.28,1,0,3,0
+#0113,Kunope,#0002,Nonia,1,2,1,0
+#0125,Soter v3.44,#0105,Nalea v36.5,1,2,1,0
+#0061,Wuturn v18.96,#0055,Sulara v35.90,1,1,2,0
+#0115,Lethea Mk XCVII,Bye,Bye,1,2,0,0
+#0003,Tubos,#0113,Kunope,2,1,2,0
+#0071,Secarro,#0111,Herilia v14.82,2,2,1,0
+#0016,Purilia Mk XXXV,#0034,Pucury v46.28,2,0,3,0
+#0008,Tepra,#0058,Guthea,2,0,3,0
+#0029,Nehiri,#0027,Yutania,2,0,3,0
+#0036,Tenia,#0122,Wanope,2,1,2,0
+#0125,Soter v3.44,#0097,Foter,2,3,0,0
+#0082,Qaturn,#0089,Lanus,2,2,1,0
+#0048,Yayama,#0118,Pucarro,2,3,0,0
+#0103,Xotune v29.73,#0098,Suria Mk XCVII,2,3,0,0
+#0088,Julea,#0031,Ianov,2,0,3,0
+#0055,Sulara v35.90,#0039,Cuvis,2,3,0,0
+#0119,Xunus Mk XII,#0080,Fuwei,2,3,0,0
+#0053,Zostea,#0037,Decarro,2,1,2,0
+#0074,Petania Mk LXXXVII,#0057,Ienov,2,3,0,0
+#0124,Fanov v33.40,#0063,Logawa,2,3,0,0
+#0086,Peturn,#0117,Cethea,2,0,3,0
+#0109,Ioliv,#0001,Gaphus,2,2,1,0
+#0017,Wonus,#0021,Selea,2,3,0,0
+#0096,Funerth,#0042,Potera,2,3,0,0
+#0081,Wustea Mk LXXXVI,#0110,Keclite,2,1,2,0
+#0015,Honov,#0130,Doruta,2,0,3,0
+#0091,Qalea,#0100,Turilia v28.53,2,1,2,0
+#0106,Jatania,#0028,Senus Mk XLIX,2,1,2,0
+#0007,Nostea,#0115,Lethea Mk XCVII,2,2,1,0
+#0094,Monus,#0127,Quwei,2,3,0,0
+#0069,Bonope,#0116,Soria,2,0,3,0
+#0087,Doyama Mk VII,#0076,Qater,2,2,1,0
+#0075,Jenides,#0120,Waria v41.6,2,0,3,0
+#0102,Huyama,#0137,Juzuno v16.41,2,3,0,0
+#0059,Qewei,#0030,Yenus,2,0,3,0
+#0005,Cotania,#0136,Tuvis,2,0,3,0
+#0114,Negantu,#0112,Matania,2,3,0,0
+#0056,Wahiri Mk LXXIV,#0128,Xetune,2,0,3,0
+#0095,Rugawa,#0035,Haruta Mk XLIX,2,3,0,0
+#0066,Ferilia,#0049,Ronus v28.11,2,1,2,0
+#0108,Getis,#0026,Jolea,2,2,1,0
+#0019,Iavis v40.72,#0107,Danov,2,3,0,0
+#0090,Gohiri,#0060,Tonides,2,3,0,0
+#0044,Wunus,#0033,Lacarro,2,2,1,0
+#0006,Sophus,#0140,Jeliv,2,3,0,0
+#0065,Huthea,#0078,Zuter,2,2,1,0
+#0099,Vathea,#0126,Wanus v30.81,2,3,0,0
+#0062,Nanov,#0101,Fabos,2,3,0,0
+#0047,Futis,#0014,Qewei Mk XCV,2,2,1,0
+#0054,Halea v22.63,#0004,Pecury,2,2,1,0
+#0043,Dayama,#0020,Humia,2,1,2,0
+#0068,Fucury,#0077,Vucarro v33.11,2,2,1,0
+#0018,Buwei,#0010,Xocury,2,3,0,0
+#0141,Quphus,#0083,Hunus v28.9,2,0,3,0
+#0013,Tewei v11.69,#0024,Wehines Mk L,2,3,0,0
+#0138,Bowei,#0072,Xulia,2,3,0,0
+#0040,Wuter Mk XVII,#0046,Henerth Mk VIII,2,3,0,0
+#0023,Manope Mk XXXVII,#0131,Iunus v35.24,2,1,2,0
+#0139,Konus Mk LVIII,#0002,Nonia,2,1,2,0
+#0073,Vophus,#0045,Futer,2,0,3,0
+#0011,Wuwei v12.30,#0050,Dovis v46.22,2,2,1,0
+#0093,Megantu,#0052,Qustea,2,0,3,0
+#0129,Peter,#0022,Yocarro Mk XLVII,2,1,2,0
+#0135,Durus v12.47,#0025,Iapra,2,2,1,0
+#0123,Fatera,#0084,Iuzuno,2,2,1,0
+#0009,Relia v12.42,#0012,Yutera Mk LXXXIV,2,2,1,0
+#0038,Selia,#0132,Vetania,2,0,3,0
+#0032,Later,#0092,Yestea,2,2,1,0
+#0121,Sugantu,#0051,Xaturn,2,3,0,0
+#0070,Qunus,#0067,Rozuno,2,1,2,0
+#0134,Tetune,#0061,Wuturn v18.96,2,1,2,0
+#0104,Nutera,#0079,Dutune,2,0,3,0
+#0105,Nalea v36.5,#0064,Zoclite,2,1,2,0
+#0085,Fupra,#0133,Felea,2,1,2,0
+#0041,Toliv v6.73,Bye,Bye,2,2,0,0
+#0074,Petania Mk LXXXVII,#0136,Tuvis,3,3,0,0
+#0128,Xetune,#0116,Soria,3,3,0,0
+#0095,Rugawa,#0031,Ianov,3,0,3,0
+#0114,Negantu,#0055,Sulara v35.90,3,1,2,0
+#0102,Huyama,#0048,Yayama,3,3,0,0
+#0124,Fanov v33.40,#0071,Secarro,3,3,0,0
+#0113,Kunope,#0087,Doyama Mk VII,3,1,2,0
+#0034,Pucury v46.28,#0120,Waria v41.6,3,0,3,0
+#0117,Cethea,#0037,Decarro,3,1,2,0
+#0122,Wanope,#0058,Guthea,3,3,0,0
+#0030,Yenus,#0017,Wonus,3,1,2,0
+#0100,Turilia v28.53,#0094,Monus,3,1,2,0
+#0130,Doruta,#0110,Keclite,3,3,0,0
+#0082,Qaturn,#0109,Ioliv,3,1,2,0
+#0007,Nostea,#0103,Xotune v29.73,3,0,3,0
+#0125,Soter v3.44,#0027,Yutania,3,2,1,0
+#0028,Senus Mk XLIX,#0096,Funerth,3,0,3,0
+#0119,Xunus Mk XII,#0115,Lethea Mk XCVII,3,3,0,0
+#0076,Qater,#0049,Ronus v28.11,3,1,2,0
+#0045,Futer,#0062,Nanov,3,0,3,0
+#0016,Purilia Mk XXXV,#0064,Zoclite,3,0,3,0
+#0003,Tubos,#0137,Juzuno v16.41,3,0,3,0
+#0042,Potera,#0069,Bonope,3,1,2,0
+#0089,Lanus,#0066,Ferilia,3,2,1,0
+#0040,Wuter Mk XVII,#0088,Julea,3,0,3,0
+#0057,Ienov,#0054,Halea v22.63,3,2,1,0
+#0018,Buwei,#0097,Foter,3,2,1,0
+#0106,Jatania,#0068,Fucury,3,3,0,0
+#0079,Dutune,#0132,Vetania,3,3,0,0
+#0133,Felea,#0098,Suria Mk XCVII,3,3,0,0
+#0011,Wuwei v12.30,#0036,Tenia,3,0,3,0
+#0021,Selea,#0002,Nonia,3,3,0,0
+#0019,Iavis v40.72,#0065,Huthea,3,3,0,0
+#0044,Wunus,#0035,Haruta Mk XLIX,3,0,3,0
+#0020,Humia,#0032,Later,3,3,0,0
+#0063,Logawa,#0091,Qalea,3,2,1,0
+#0067,Rozuno,#0008,Tepra,3,1,2,0
+#0013,Tewei v11.69,#0022,Yocarro Mk XLVII,3,3,0,0
+#0121,Sugantu,#0086,Peturn,3,1,2,0
+#0111,Herilia v14.82,#0075,Jenides,3,2,1,0
+#0059,Qewei,#0056,Wahiri Mk LXXIV,3,0,3,0
+#0061,Wuturn v18.96,#0081,Wustea Mk LXXXVI,3,0,3,0
+#0001,Gaphus,#0118,Pucarro,3,2,1,0
+#0138,Bowei,#0053,Zostea,3,0,3,0
+#0041,Toliv v6.73,#0090,Gohiri,3,0,3,0
+#0005,Cotania,#0052,Qustea,3,1,2,0
+#0099,Vathea,#0083,Hunus v28.9,3,2,1,0
+#0006,Sophus,#0029,Nehiri,3,3,0,0
+#0108,Getis,#0009,Relia v12.42,3,1,2,0
+#0131,Iunus v35.24,#0135,Durus v12.47,3,0,3,0
+#0123,Fatera,#0080,Fuwei,3,1,2,0
+#0039,Cuvis,#0015,Honov,3,1,2,0
+#0047,Futis,#0112,Matania,3,0,3,0
+#0127,Quwei,#0060,Tonides,3,2,1,0
+#0077,Vucarro v33.11,#0104,Nutera,3,3,0,0
+#0025,Iapra,#0026,Jolea,3,3,0,0
+#0043,Dayama,#0107,Danov,3,1,2,0
+#0139,Konus Mk LVIII,#0084,Iuzuno,3,2,1,0
+#0141,Quphus,#0078,Zuter,3,0,3,0
+#0014,Qewei Mk XCV,#0012,Yutera Mk LXXXIV,3,3,0,0
+#0038,Selia,#0073,Vophus,3,3,0,0
+#0085,Fupra,#0093,Megantu,3,3,0,0
+#0072,Xulia,#0129,Peter,3,1,2,0
+#0092,Yestea,#0134,Tetune,3,0,3,0
+#0024,Wehines Mk L,#0126,Wanus v30.81,3,3,0,0
+#0140,Jeliv,#0023,Manope Mk XXXVII,3,0,3,0
+#0050,Dovis v46.22,#0010,Xocury,3,3,0,0
+#0004,Pecury,#0101,Fabos,3,1,2,0
+#0051,Xaturn,#0033,Lacarro,3,1,2,0
+#0070,Qunus,#0046,Henerth Mk VIII,3,2,1,0
+#0105,Nalea v36.5,Bye,Bye,3,2,0,0
+#0130,Doruta,#0087,Doyama Mk VII,4,2,1,0
+#0094,Monus,#0124,Fanov v33.40,4,0,3,0
+#0031,Ianov,#0096,Funerth,4,2,1,0
+#0120,Waria v41.6,#0074,Petania Mk LXXXVII,4,1,2,0
+#0037,Decarro,#0055,Sulara v35.90,4,0,3,0
+#0122,Wanope,#0103,Xotune v29.73,4,3,0,0
+#0128,Xetune,#0125,Soter v3.44,4,3,0,0
+#0109,Ioliv,#0102,Huyama,4,0,3,0
+#0119,Xunus Mk XII,#0017,Wonus,4,2,1,0
+#0088,Julea,#0117,Cethea,4,1,2,0
+#0106,Jatania,#0112,Matania,4,3,0,0
+#0116,Soria,#0135,Durus v12.47,4,2,1,0
+#0064,Zoclite,#0027,Yutania,4,3,0,0
+#0079,Dutune,#0028,Senus Mk XLIX,4,2,1,0
+#0057,Ienov,#0007,Nostea,4,3,0,0
+#0071,Secarro,#0056,Wahiri Mk LXXIV,4,3,0,0
+#0018,Buwei,#0052,Qustea,4,3,0,0
+#0089,Lanus,#0053,Zostea,4,1,2,0
+#0015,Honov,#0035,Haruta Mk XLIX,4,2,1,0
+#0020,Humia,#0090,Gohiri,4,0,3,0
+#0137,Juzuno v16.41,#0063,Logawa,4,1,2,0
+#0013,Tewei v11.69,#0127,Quwei,4,3,0,0
+#0062,Nanov,#0110,Keclite,4,1,2,0
+#0001,Gaphus,#0034,Pucury v46.28,4,3,0,0
+#0058,Guthea,#0081,Wustea Mk LXXXVI,4,0,3,0
+#0008,Tepra,#0086,Peturn,4,3,0,0
+#0111,Herilia v14.82,#0009,Relia v12.42,4,2,1,0
+#0006,Sophus,#0069,Bonope,4,2,1,0
+#0019,Iavis v40.72,#0021,Selea,4,2,1,0
+#0049,Ronus v28.11,#0082,Qaturn,4,1,2,0
+#0099,Vathea,#0080,Fuwei,4,0,3,0
+#0030,Yenus,#0048,Yayama,4,2,1,0
+#0114,Negantu,#0100,Turilia v28.53,4,3,0,0
+#0136,Tuvis,#0036,Tenia,4,2,1,0
+#0133,Felea,#0113,Kunope,4,2,1,0
+#0095,Rugawa,#0105,Nalea v36.5,4,3,0,0
+#0115,Lethea Mk XCVII,#0098,Suria Mk XCVII,4,3,0,0
+#0134,Tetune,#0129,Peter,4,3,0,0
+#0061,Wuturn v18.96,#0097,Foter,4,3,0,0
+#0005,Cotania,#0085,Fupra,4,0,3,0
+#0042,Potera,#0047,Futis,4,2,1,0
+#0041,Toliv v6.73,#0123,Fatera,4,0,3,0
+#0118,Pucarro,#0029,Nehiri,4,3,0,0
+#0138,Bowei,#0033,Lacarro,4,3,0,0
+#0091,Qalea,#0039,Cuvis,4,3,0,0
+#0132,Vetania,#0011,Wuwei v12.30,4,2,1,0
+#0070,Qunus,#0107,Danov,4,0,3,0
+#0045,Futer,#0025,Iapra,4,0,3,0
+#0002,Nonia,#0003,Tubos,4,2,1,0
+#0083,Hunus v28.9,#0032,Later,4,1,2,0
+#0024,Wehines Mk L,#0139,Konus Mk LVIII,4,3,0,0
+#0022,Yocarro Mk XLVII,#0076,Qater,4,1,2,0
+#0044,Wunus,#0050,Dovis v46.22,4,3,0,0
+#0068,Fucury,#0101,Fabos,4,1,2,0
+#0077,Vucarro v33.11,#0131,Iunus v35.24,4,3,0,0
+#0054,Halea v22.63,#0040,Wuter Mk XVII,4,1,2,0
+#0014,Qewei Mk XCV,#0108,Getis,4,1,2,0
+#0016,Purilia Mk XXXV,#0038,Selia,4,3,0,0
+#0067,Rozuno,#0066,Ferilia,4,0,3,0
+#0023,Manope Mk XXXVII,#0059,Qewei,4,1,2,0
+#0065,Huthea,#0075,Jenides,4,1,2,0
+#0121,Sugantu,#0078,Zuter,4,1,2,0
+#0104,Nutera,#0043,Dayama,4,0,3,0
+#0051,Xaturn,#0141,Quphus,4,0,3,0
+#0093,Megantu,#0072,Xulia,4,1,2,0
+#0140,Jeliv,#0073,Vophus,4,2,1,0
+#0060,Tonides,#0084,Iuzuno,4,3,0,0
+#0026,Jolea,#0004,Pecury,4,2,1,0
+#0012,Yutera Mk LXXXIV,#0046,Henerth Mk VIII,4,0,3,0
+#0126,Wanus v30.81,#0092,Yestea,4,2,1,0
+#0010,Xocury,Bye,Bye,4,2,0,0
+#0124,Fanov v33.40,#0119,Xunus Mk XII,5,2,1,0
+#0122,Wanope,#0031,Ianov,5,2,1,0
+#0128,Xetune,#0130,Doruta,5,1,2,0
+#0055,Sulara v35.90,#0074,Petania Mk LXXXVII,5,3,0,0
+#0102,Huyama,#0030,Yenus,5,3,0,0
+#0015,Honov,#0094,Monus,5,1,2,0
+#0106,Jatania,#0114,Negantu,5,1,2,0
+#0008,Tepra,#0117,Cethea,5,1,2,0
+#0018,Buwei,#0057,Ienov,5,3,0,0
+#0103,Xotune v29.73,#0006,Sophus,5,2,1,0
+#0109,Ioliv,#0111,Herilia v14.82,5,1,2,0
+#0017,Wonus,#0063,Logawa,5,2,1,0
+#0116,Soria,#0013,Tewei v11.69,5,0,3,0
+#0133,Felea,#0080,Fuwei,5,3,0,0
+#0096,Funerth,#0001,Gaphus,5,2,1,0
+#0037,Decarro,#0120,Waria v41.6,5,2,1,0
+#0087,Doyama Mk VII,#0082,Qaturn,5,2,1,0
+#0081,Wustea Mk LXXXVI,#0136,Tuvis,5,1,2,0
+#0019,Iavis v40.72,#0090,Gohiri,5,3,0,0
+#0071,Secarro,#0053,Zostea,5,1,2,0
+#0064,Zoclite,#0125,Soter v3.44,5,3,0,0
+#0095,Rugawa,#0110,Keclite,5,3,0,0
+#0079,Dutune,#0049,Ronus v28.11,5,1,2,0
+#0118,Pucarro,#0002,Nonia,5,0,3,0
+#0028,Senus Mk XLIX,#0112,Matania,5,1,2,0
+#0089,Lanus,#0062,Nanov,5,1,2,0
+#0024,Wehines Mk L,#0076,Qater,5,1,2,0
+#0007,Nostea,#0059,Qewei,5,2,1,0
+#0078,Zuter,#0132,Vetania,5,3,0,0
+#0052,Qustea,#0115,Lethea Mk XCVII,5,1,2,0
+#0113,Kunope,#0107,Danov,5,3,0,0
+#0108,Getis,#0088,Julea,5,0,3,0
+#0101,Fabos,#0021,Selea,5,0,3,0
+#0061,Wuturn v18.96,#0044,Wunus,5,2,1,0
+#0077,Vucarro v33.11,#0025,Iapra,5,3,0,0
+#0137,Juzuno v16.41,#0040,Wuter Mk XVII,5,3,0,0
+#0135,Durus v12.47,#0042,Potera,5,3,0,0
+#0020,Humia,#0123,Fatera,5,0,3,0
+#0075,Jenides,#0069,Bonope,5,2,1,0
+#0100,Turilia v28.53,#0127,Quwei,5,3,0,0
+#0138,Bowei,#0032,Later,5,3,0,0
+#0016,Purilia Mk XXXV,#0058,Guthea,5,0,3,0
+#0027,Yutania,#0066,Ferilia,5,1,2,0
+#0085,Fupra,#0091,Qalea,5,3,0,0
+#0048,Yayama,#0056,Wahiri Mk LXXIV,5,1,2,0
+#0099,Vathea,#0086,Peturn,5,3,0,0
+#0009,Relia v12.42,#0035,Haruta Mk XLIX,5,0,3,0
+#0134,Tetune,#0034,Pucury v46.28,5,2,1,0
+#0036,Tenia,#0097,Foter,5,3,0,0
+#0010,Xocury,#0043,Dayama,5,0,3,0
+#0083,Hunus v28.9,#0026,Jolea,5,3,0,0
+#0131,Iunus v35.24,#0022,Yocarro Mk XLVII,5,0,3,0
+#0041,Toliv v6.73,#0141,Quphus,5,2,1,0
+#0129,Peter,#0046,Henerth Mk VIII,5,2,1,0
+#0038,Selia,#0072,Xulia,5,3,0,0
+#0047,Futis,#0050,Dovis v46.22,5,3,0,0
+#0023,Manope Mk XXXVII,#0070,Qunus,5,1,2,0
+#0105,Nalea v36.5,#0068,Fucury,5,3,0,0
+#0014,Qewei Mk XCV,#0003,Tubos,5,0,3,0
+#0045,Futer,#0033,Lacarro,5,1,2,0
+#0065,Huthea,#0011,Wuwei v12.30,5,2,1,0
+#0140,Jeliv,#0067,Rozuno,5,0,3,0
+#0121,Sugantu,#0139,Konus Mk LVIII,5,1,2,0
+#0005,Cotania,#0029,Nehiri,5,3,0,0
+#0098,Suria Mk XCVII,#0054,Halea v22.63,5,0,3,0
+#0060,Tonides,#0126,Wanus v30.81,5,1,2,0
+#0039,Cuvis,#0004,Pecury,5,3,0,0
+#0084,Iuzuno,#0012,Yutera Mk LXXXIV,5,0,3,0
+#0073,Vophus,#0051,Xaturn,5,1,2,0
+#0092,Yestea,#0104,Nutera,5,0,3,0
+#0093,Megantu,Bye,Bye,5,2,0,0
+#0130,Doruta,#0055,Sulara v35.90,6,2,1,0
+#0124,Fanov v33.40,#0122,Wanope,6,2,1,0
+#0102,Huyama,#0117,Cethea,6,3,0,0
+#0087,Doyama Mk VII,#0119,Xunus Mk XII,6,0,3,0
+#0136,Tuvis,#0103,Xotune v29.73,6,1,2,0
+#0111,Herilia v14.82,#0053,Zostea,6,1,2,0
+#0064,Zoclite,#0128,Xetune,6,1,2,0
+#0037,Decarro,#0019,Iavis v40.72,6,1,2,0
+#0095,Rugawa,#0018,Buwei,6,2,1,0
+#0094,Monus,#0133,Felea,6,1,2,0
+#0096,Funerth,#0074,Petania Mk LXXXVII,6,1,2,0
+#0013,Tewei v11.69,#0017,Wonus,6,2,1,0
+#0031,Ianov,#0114,Negantu,6,0,3,0
+#0077,Vucarro v33.11,#0110,Keclite,6,0,3,0
+#0134,Tetune,#0058,Guthea,6,1,2,0
+#0123,Fatera,#0112,Matania,6,0,3,0
+#0076,Qater,#0115,Lethea Mk XCVII,6,2,1,0
+#0109,Ioliv,#0036,Tenia,6,1,2,0
+#0035,Haruta Mk XLIX,#0080,Fuwei,6,2,1,0
+#0062,Nanov,#0006,Sophus,6,3,0,0
+#0090,Gohiri,#0078,Zuter,6,2,1,0
+#0113,Kunope,#0081,Wustea Mk LXXXVI,6,0,3,0
+#0120,Waria v41.6,#0061,Wuturn v18.96,6,3,0,0
+#0125,Soter v3.44,#0088,Julea,6,1,2,0
+#0066,Ferilia,#0056,Wahiri Mk LXXIV,6,1,2,0
+#0049,Ronus v28.11,#0085,Fupra,6,0,3,0
+#0021,Selea,#0082,Qaturn,6,2,1,0
+#0135,Durus v12.47,#0137,Juzuno v16.41,6,0,3,0
+#0138,Bowei,#0015,Honov,6,1,2,0
+#0008,Tepra,#0001,Gaphus,6,1,2,0
+#0116,Soria,#0030,Yenus,6,2,1,0
+#0071,Secarro,#0079,Dutune,6,1,2,0
+#0099,Vathea,#0063,Logawa,6,1,2,0
+#0002,Nonia,#0057,Ienov,6,0,3,0
+#0100,Turilia v28.53,#0007,Nostea,6,3,0,0
+#0075,Jenides,#0106,Jatania,6,0,3,0
+#0105,Nalea v36.5,#0039,Cuvis,6,2,1,0
+#0065,Huthea,#0129,Peter,6,2,1,0
+#0089,Lanus,#0069,Bonope,6,2,1,0
+#0139,Konus Mk LVIII,#0118,Pucarro,6,1,2,0
+#0038,Selia,#0059,Qewei,6,1,2,0
+#0127,Quwei,#0108,Getis,6,1,2,0
+#0003,Tubos,#0070,Qunus,6,3,0,0
+#0107,Danov,#0032,Later,6,3,0,0
+#0043,Dayama,#0040,Wuter Mk XVII,6,2,1,0
+#0024,Wehines Mk L,#0041,Toliv v6.73,6,3,0,0
+#0033,Lacarro,#0047,Futis,6,1,2,0
+#0044,Wunus,#0052,Qustea,6,3,0,0
+#0027,Yutania,#0086,Peturn,6,3,0,0
+#0016,Purilia Mk XXXV,#0091,Qalea,6,0,3,0
+#0034,Pucury v46.28,#0054,Halea v22.63,6,2,1,0
+#0126,Wanus v30.81,#0020,Humia,6,1,2,0
+#0028,Senus Mk XLIX,#0009,Relia v12.42,6,3,0,0
+#0042,Potera,#0022,Yocarro Mk XLVII,6,0,3,0
+#0067,Rozuno,#0083,Hunus v28.9,6,0,3,0
+#0132,Vetania,#0101,Fabos,6,3,0,0
+#0005,Cotania,#0048,Yayama,6,0,3,0
+#0025,Iapra,#0023,Manope Mk XXXVII,6,1,2,0
+#0026,Jolea,#0097,Foter,6,2,1,0
+#0012,Yutera Mk LXXXIV,#0050,Dovis v46.22,6,3,0,0
+#0046,Henerth Mk VIII,#0131,Iunus v35.24,6,2,1,0
+#0098,Suria Mk XCVII,#0060,Tonides,6,2,1,0
+#0121,Sugantu,#0010,Xocury,6,1,2,0
+#0093,Megantu,#0068,Fucury,6,2,1,0
+#0141,Quphus,#0014,Qewei Mk XCV,6,0,3,0
+#0011,Wuwei v12.30,#0140,Jeliv,6,1,2,0
+#0104,Nutera,#0045,Futer,6,3,0,0
+#0029,Nehiri,#0051,Xaturn,6,2,1,0
+#0072,Xulia,#0092,Yestea,6,2,1,0
+#0004,Pecury,#0084,Iuzuno,6,1,2,0
+#0073,Vophus,Bye,Bye,6,2,0,0
+#0124,Fanov v33.40,#0102,Huyama,7,0,3,0
+#0130,Doruta,#0103,Xotune v29.73,7,3,0,0
+#0055,Sulara v35.90,#0133,Felea,7,1,2,0
+#0095,Rugawa,#0114,Negantu,7,1,2,0
+#0019,Iavis v40.72,#0119,Xunus Mk XII,7,0,3,0
+#0074,Petania Mk LXXXVII,#0013,Tewei v11.69,7,2,1,0
+#0053,Zostea,#0122,Wanope,7,0,3,0
+#0128,Xetune,#0094,Monus,7,2,1,0
+#0110,Keclite,#0106,Jatania,7,2,1,0
+#0036,Tenia,#0085,Fupra,7,0,3,0
+#0136,Tuvis,#0112,Matania,7,2,1,0
+#0037,Decarro,#0079,Dutune,7,2,1,0
+#0076,Qater,#0056,Wahiri Mk LXXIV,7,3,0,0
+#0017,Wonus,#0090,Gohiri,7,3,0,0
+#0018,Buwei,#0015,Honov,7,1,2,0
+#0021,Selea,#0087,Doyama Mk VII,7,1,2,0
+#0001,Gaphus,#0058,Guthea,7,3,0,0
+#0088,Julea,#0057,Ienov,7,2,1,0
+#0117,Cethea,#0035,Haruta Mk XLIX,7,0,3,0
+#0100,Turilia v28.53,#0064,Zoclite,7,2,1,0
+#0120,Waria v41.6,#0116,Soria,7,3,0,0
+#0081,Wustea Mk LXXXVI,#0137,Juzuno v16.41,7,2,1,0
+#0111,Herilia v14.82,#0031,Ianov,7,0,3,0
+#0096,Funerth,#0062,Nanov,7,2,1,0
+#0063,Logawa,#0022,Yocarro Mk XLVII,7,3,0,0
+#0099,Vathea,#0065,Huthea,7,2,1,0
+#0078,Zuter,#0006,Sophus,7,2,1,0
+#0138,Bowei,#0077,Vucarro v33.11,7,0,3,0
+#0047,Futis,#0034,Pucury v46.28,7,1,2,0
+#0123,Fatera,#0132,Vetania,7,2,1,0
+#0049,Ronus v28.11,#0027,Yutania,7,1,2,0
+#0109,Ioliv,#0003,Tubos,7,2,1,0
+#0007,Nostea,#0118,Pucarro,7,1,2,0
+#0024,Wehines Mk L,#0107,Danov,7,2,1,0
+#0043,Dayama,#0125,Soter v3.44,7,2,1,0
+#0044,Wunus,#0108,Getis,7,1,2,0
+#0059,Qewei,#0048,Yayama,7,0,3,0
+#0135,Durus v12.47,#0083,Hunus v28.9,7,1,2,0
+#0082,Qaturn,#0075,Jenides,7,2,1,0
+#0089,Lanus,#0020,Humia,7,2,1,0
+#0061,Wuturn v18.96,#0080,Fuwei,7,0,3,0
+#0091,Qalea,#0002,Nonia,7,2,1,0
+#0066,Ferilia,#0113,Kunope,7,2,1,0
+#0071,Secarro,#0115,Lethea Mk XCVII,7,3,0,0
+#0030,Yenus,#0028,Senus Mk XLIX,7,2,1,0
+#0008,Tepra,#0134,Tetune,7,1,2,0
+#0105,Nalea v36.5,#0104,Nutera,7,3,0,0
+#0016,Purilia Mk XXXV,#0098,Suria Mk XCVII,7,0,3,0
+#0038,Selia,#0029,Nehiri,7,1,2,0
+#0140,Jeliv,#0033,Lacarro,7,1,2,0
+#0039,Cuvis,#0139,Konus Mk LVIII,7,3,0,0
+#0127,Quwei,#0052,Qustea,7,2,1,0
+#0041,Toliv v6.73,#0025,Iapra,7,0,3,0
+#0010,Xocury,#0046,Henerth Mk VIII,7,1,2,0
+#0086,Peturn,#0023,Manope Mk XXXVII,7,1,2,0
+#0005,Cotania,#0012,Yutera Mk LXXXIV,7,2,1,0
+#0072,Xulia,#0101,Fabos,7,0,3,0
+#0054,Halea v22.63,#0126,Wanus v30.81,7,3,0,0
+#0014,Qewei Mk XCV,#0040,Wuter Mk XVII,7,0,3,0
+#0026,Jolea,#0042,Potera,7,2,1,0
+#0067,Rozuno,#0129,Peter,7,1,2,0
+#0009,Relia v12.42,#0069,Bonope,7,0,3,0
+#0032,Later,#0093,Megantu,7,3,0,0
+#0070,Qunus,#0131,Iunus v35.24,7,1,2,0
+#0060,Tonides,#0097,Foter,7,0,3,0
+#0011,Wuwei v12.30,#0121,Sugantu,7,2,1,0
+#0050,Dovis v46.22,#0084,Iuzuno,7,1,2,0
+#0045,Futer,#0141,Quphus,7,1,2,0
+#0073,Vophus,#0068,Fucury,7,2,1,0
+#0051,Xaturn,#0092,Yestea,7,0,3,0
+#0004,Pecury,Bye,Bye,7,2,0,0
+#0102,Huyama,#0130,Doruta,8,1,2,0
+#0124,Fanov v33.40,#0128,Xetune,8,3,0,0
+#0133,Felea,#0074,Petania Mk LXXXVII,8,1,2,0
+#0114,Negantu,#0122,Wanope,8,1,2,0
+#0119,Xunus Mk XII,#0103,Xotune v29.73,8,3,0,0
+#0019,Iavis v40.72,#0063,Logawa,8,3,0,0
+#0017,Wonus,#0088,Julea,8,3,0,0
+#0013,Tewei v11.69,#0081,Wustea Mk LXXXVI,8,2,1,0
+#0031,Ianov,#0087,Doyama Mk VII,8,1,2,0
+#0120,Waria v41.6,#0076,Qater,8,2,1,0
+#0037,Decarro,#0095,Rugawa,8,0,3,0
+#0085,Fupra,#0053,Zostea,8,1,2,0
+#0015,Honov,#0055,Sulara v35.90,8,0,3,0
+#0136,Tuvis,#0100,Turilia v28.53,8,3,0,0
+#0001,Gaphus,#0035,Haruta Mk XLIX,8,2,1,0
+#0096,Funerth,#0110,Keclite,8,1,2,0
+#0079,Dutune,#0078,Zuter,8,3,0,0
+#0064,Zoclite,#0112,Matania,8,1,2,0
+#0043,Dayama,#0137,Juzuno v16.41,8,0,3,0
+#0036,Tenia,#0116,Soria,8,1,2,0
+#0118,Pucarro,#0083,Hunus v28.9,8,1,2,0
+#0080,Fuwei,#0071,Secarro,8,2,1,0
+#0105,Nalea v36.5,#0117,Cethea,8,3,0,0
+#0057,Ienov,#0106,Jatania,8,2,1,0
+#0109,Ioliv,#0090,Gohiri,8,0,3,0
+#0134,Tetune,#0123,Fatera,8,1,2,0
+#0056,Wahiri Mk LXXIV,#0082,Qaturn,8,1,2,0
+#0027,Yutania,#0099,Vathea,8,2,1,0
+#0024,Wehines Mk L,#0108,Getis,8,1,2,0
+#0077,Vucarro v33.11,#0089,Lanus,8,0,3,0
+#0048,Yayama,#0021,Selea,8,2,1,0
+#0091,Qalea,#0062,Nanov,8,2,1,0
+#0030,Yenus,#0094,Monus,8,2,1,0
+#0111,Herilia v14.82,#0034,Pucury v46.28,8,2,1,0
+#0018,Buwei,#0058,Guthea,8,0,3,0
+#0066,Ferilia,#0023,Manope Mk XXXVII,8,2,1,0
+#0044,Wunus,#0132,Vetania,8,2,1,0
+#0033,Lacarro,#0020,Humia,8,0,3,0
+#0061,Wuturn v18.96,#0049,Ronus v28.11,8,1,2,0
+#0125,Soter v3.44,#0028,Senus Mk XLIX,8,1,2,0
+#0040,Wuter Mk XVII,#0138,Bowei,8,0,3,0
+#0054,Halea v22.63,#0047,Futis,8,2,1,0
+#0003,Tubos,#0005,Cotania,8,2,1,0
+#0101,Fabos,#0107,Danov,8,0,3,0
+#0046,Henerth Mk VIII,#0127,Quwei,8,0,3,0
+#0059,Qewei,#0115,Lethea Mk XCVII,8,2,1,0
+#0098,Suria Mk XCVII,#0022,Yocarro Mk XLVII,8,1,2,0
+#0069,Bonope,#0065,Huthea,8,1,2,0
+#0129,Peter,#0008,Tepra,8,2,1,0
+#0113,Kunope,#0039,Cuvis,8,3,0,0
+#0025,Iapra,#0007,Nostea,8,1,2,0
+#0135,Durus v12.47,#0032,Later,8,2,1,0
+#0026,Jolea,#0075,Jenides,8,0,3,0
+#0006,Sophus,#0002,Nonia,8,2,1,0
+#0029,Nehiri,#0072,Xulia,8,0,3,0
+#0093,Megantu,#0041,Toliv v6.73,8,0,3,0
+#0052,Qustea,#0070,Qunus,8,1,2,0
+#0016,Purilia Mk XXXV,#0042,Potera,8,3,0,0
+#0038,Selia,#0097,Foter,8,0,3,0
+#0104,Nutera,#0067,Rozuno,8,0,3,0
+#0010,Xocury,#0139,Konus Mk LVIII,8,2,1,0
+#0073,Vophus,#0126,Wanus v30.81,8,1,2,0
+#0012,Yutera Mk LXXXIV,#0011,Wuwei v12.30,8,2,1,0
+#0131,Iunus v35.24,#0141,Quphus,8,1,2,0
+#0014,Qewei Mk XCV,#0084,Iuzuno,8,2,1,0
+#0009,Relia v12.42,#0140,Jeliv,8,3,0,0
+#0086,Peturn,#0004,Pecury,8,2,1,0
+#0121,Sugantu,#0068,Fucury,8,0,3,0
+#0051,Xaturn,#0050,Dovis v46.22,8,0,3,0
+#0092,Yestea,#0045,Futer,8,3,0,0
+#0060,Tonides,Bye,Bye,8,2,0,0
+#0122,Wanope,#0128,Xetune,9,1,2,0
+#0130,Doruta,#0017,Wonus,9,3,0,0
+#0013,Tewei v11.69,#0055,Sulara v35.90,9,0,3,0
+#0095,Rugawa,#0087,Doyama Mk VII,9,3,0,0
+#0053,Zostea,#0124,Fanov v33.40,9,0,3,0
+#0133,Felea,#0102,Huyama,9,0,3,0
+#0074,Petania Mk LXXXVII,#0019,Iavis v40.72,9,2,1,0
+#0114,Negantu,#0119,Xunus Mk XII,9,1,2,0
+#0128,Xetune,#0130,Doruta,10,2,1,0
+#0055,Sulara v35.90,#0095,Rugawa,10,0,3,0
+#0124,Fanov v33.40,#0102,Huyama,10,0,3,0
+#0074,Petania Mk LXXXVII,#0119,Xunus Mk XII,10,1,2,0
+#0128,Xetune,#0095,Rugawa,11,2,1,0
+#0102,Huyama,#0119,Xunus Mk XII,11,2,1,0
+#0128,Xetune,#0102,Huyama,12,1,2,0
