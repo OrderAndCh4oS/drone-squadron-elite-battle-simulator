@@ -1,436 +1,460 @@
 uid,number,squadron,highScore,rank,width,height
-IcrlAk,#0001,Squadron Gaphus,383300,12,1600,900
-rk2M5z,#0001,Squadron Gaphus,542900,17,1600,900
-xn8Dmm,#0001,Squadron Gaphus,334300,10,1600,900
-y25uqU,#0002,Squadron Nonia,283200,9,1600,900
-jFiH1U,#0002,Squadron Nonia,103200,3,1600,900
-zmMody,#0002,Squadron Nonia,288200,9,1600,900
-2HT0jm,#0003,Squadron Tubos,97000,3,1600,900
-fNNI3V,#0003,Squadron Tubos,24800,0,1600,900
-MMSTps,#0003,Squadron Tubos,266400,8,1600,900
-fKkCSh,#0004,Squadron Pecury,39600,1,1600,900
-0R4RU1,#0004,Squadron Pecury,9000,0,1600,900
-PSHLTq,#0004,Squadron Pecury,0,0,1600,900
-VnquLS,#0005,Squadron Cotania,4800,0,1600,900
-xuHGRB,#0005,Squadron Cotania,42200,1,1600,900
-HgC58t,#0005,Squadron Cotania,81700,2,1600,900
-D4oo6G,#0006,Squadron Sophus,9100,0,1600,900
-EpNPG2,#0006,Squadron Sophus,53500,1,1600,900
-7DcT8e,#0006,Squadron Sophus,58700,2,1600,900
-GzgYqY,#0007,Squadron Nostea,359200,11,1600,900
-u7evvu,#0007,Squadron Nostea,72000,2,1600,900
-fsThPB,#0007,Squadron Nostea,38000,1,1600,900
-XGIuEP,#0008,Squadron Tepra,15100,0,1600,900
-Yc6yKT,#0008,Squadron Tepra,19100,0,1600,900
-boYc1T,#0008,Squadron Tepra,18800,0,1600,900
-j20QuZ,#0009,Squadron Relia v12.42,64400,2,1600,900
-WQKHrH,#0009,Squadron Relia v12.42,82600,2,1600,900
-dI2ro1,#0009,Squadron Relia v12.42,14500,0,1600,900
-LEwYeE,#0010,Squadron Xocury,4500,0,1600,900
-Qdj1oL,#0010,Squadron Xocury,9000,0,1600,900
-8RY1Pq,#0010,Squadron Xocury,18800,0,1600,900
-0pSyVe,#0011,Squadron Wuwei v12.30,8800,0,1600,900
-6qRYOF,#0011,Squadron Wuwei v12.30,4800,0,1600,900
-o34hpV,#0011,Squadron Wuwei v12.30,4800,0,1600,900
-aLa2Jv,#0012,Squadron Yutera Mk LXXXIV,4500,0,1600,900
-jfGAkB,#0012,Squadron Yutera Mk LXXXIV,14000,0,1600,900
-T8j2z2,#0012,Squadron Yutera Mk LXXXIV,19300,0,1600,900
-HCTjNM,#0013,Squadron Tewei v11.69,292400,9,1600,900
-ELjx9P,#0013,Squadron Tewei v11.69,359200,11,1600,900
-70PU19,#0013,Squadron Tewei v11.69,609900,19,1600,900
-8ozt7x,#0014,Squadron Qewei Mk XCV,50000,1,1600,900
-1oidxv,#0014,Squadron Qewei Mk XCV,14500,0,1600,900
-6xaehk,#0014,Squadron Qewei Mk XCV,48600,1,1600,900
-oNqx5Q,#0015,Squadron Honov,290400,9,1600,900
-GpN1cG,#0015,Squadron Honov,283700,9,1600,900
-kZogms,#0015,Squadron Honov,159000,5,1600,900
-1Hfwhm,#0016,Squadron Purilia Mk XXXV,54200,1,1600,900
-wREQM7,#0016,Squadron Purilia Mk XXXV,175500,5,1600,900
-aYYx8A,#0016,Squadron Purilia Mk XXXV,24800,0,1600,900
-339jS4,#0017,Squadron Wonus,334300,10,1600,900
-WQkVE2,#0017,Squadron Wonus,286800,9,1600,900
-eGpUg7,#0017,Squadron Wonus,382500,12,1600,900
-y6AnaG,#0018,Squadron Buwei,323500,10,1600,900
-QF65iy,#0018,Squadron Buwei,295600,9,1600,900
-gHw7Gp,#0018,Squadron Buwei,377800,12,1600,900
-tH28Ii,#0019,Squadron Iavis v40.72,622100,19,1600,900
-Rk0wOM,#0019,Squadron Iavis v40.72,625900,19,1600,900
-TePn50,#0019,Squadron Iavis v40.72,620800,19,1600,900
-uvUz8a,#0020,Squadron Humia,286800,9,1600,900
-JrHuGu,#0020,Squadron Humia,13300,0,1600,900
-du90cK,#0020,Squadron Humia,19100,0,1600,900
-bz1Raw,#0021,Squadron Selea,98100,3,1600,900
-I09STH,#0021,Squadron Selea,317800,10,1600,900
-LDZWe2,#0021,Squadron Selea,78200,2,1600,900
-t45DyB,#0022,Squadron Yocarro Mk XLVII,196000,6,1600,900
-eeAHrX,#0022,Squadron Yocarro Mk XLVII,20600,0,1600,900
-11c9up,#0022,Squadron Yocarro Mk XLVII,301200,9,1600,900
-TySxwY,#0023,Squadron Manope Mk XXXVII,62200,2,1600,900
-FMsAFZ,#0023,Squadron Manope Mk XXXVII,24800,0,1600,900
-917N1s,#0023,Squadron Manope Mk XXXVII,271500,8,1600,900
-CgBBdV,#0024,Squadron Wehines Mk L,109000,3,1600,900
-R6FXrZ,#0024,Squadron Wehines Mk L,112900,3,1600,900
-hn0Jyj,#0024,Squadron Wehines Mk L,71900,2,1600,900
-R1dvzb,#0025,Squadron Iapra,9000,0,1600,900
-MLZi8t,#0025,Squadron Iapra,130100,4,1600,900
-KATavV,#0025,Squadron Iapra,201300,6,1600,900
-7rpimE,#0026,Squadron Jolea,4800,0,1600,900
-3FaGKs,#0026,Squadron Jolea,228300,7,1600,900
-erSFsL,#0026,Squadron Jolea,20500,0,1600,900
-XRSuvZ,#0027,Squadron Yutania,14500,0,1600,900
-i9fo91,#0027,Squadron Yutania,281500,9,1600,900
-yKPMFL,#0027,Squadron Yutania,4800,0,1600,900
-jz7jWL,#0028,Squadron Senus Mk XLIX,913800,28,1600,900
-x0pLhu,#0028,Squadron Senus Mk XLIX,18800,0,1600,900
-rt2NW6,#0028,Squadron Senus Mk XLIX,308100,10,1600,900
-mKtScK,#0029,Squadron Nehiri,5500,0,1600,900
-W6LIlQ,#0029,Squadron Nehiri,0,0,1600,900
-k2Xqwt,#0029,Squadron Nehiri,6000,0,1600,900
-v4Fpek,#0030,Squadron Yenus,349500,11,1600,900
-H4HuB7,#0030,Squadron Yenus,941100,29,1600,900
-10rQkS,#0030,Squadron Yenus,615400,19,1600,900
-j0Xyij,#0031,Squadron Ianov,581300,18,1600,900
-uamMqS,#0031,Squadron Ianov,908300,28,1600,900
-paMKR0,#0031,Squadron Ianov,1258800,38,1600,900
-FINtzr,#0032,Squadron Later,92400,3,1600,900
-VtscZu,#0032,Squadron Later,109000,3,1600,900
-E1mp41,#0032,Squadron Later,171600,5,1600,900
-WSap9J,#0033,Squadron Lacarro,15100,0,1600,900
-yWsOcy,#0033,Squadron Lacarro,0,0,1600,900
-fkDnth,#0033,Squadron Lacarro,15000,0,1600,900
-pmefBt,#0034,Squadron Pucury v46.28,25000,0,1600,900
-P9uwYl,#0034,Squadron Pucury v46.28,239200,7,1600,900
-CQSuPH,#0034,Squadron Pucury v46.28,74200,2,1600,900
-ZB5IvJ,#0035,Squadron Haruta Mk XLIX,113600,3,1600,900
-RUhEUY,#0035,Squadron Haruta Mk XLIX,586900,18,1600,900
-PaE0TV,#0035,Squadron Haruta Mk XLIX,609200,19,1600,900
-uXb3bQ,#0036,Squadron Tenia,234300,7,1600,900
-BjxYNq,#0036,Squadron Tenia,108400,3,1600,900
-4UZXCg,#0036,Squadron Tenia,81700,2,1600,900
-fnUXwv,#0037,Squadron Decarro,18800,0,1600,900
-2Rj5Gl,#0037,Squadron Decarro,398100,12,1600,900
-FUr0aa,#0037,Squadron Decarro,285300,9,1600,900
-I93U8P,#0038,Squadron Selia,108300,3,1600,900
-5U1x6b,#0038,Squadron Selia,15100,0,1600,900
-u6qiyi,#0038,Squadron Selia,76000,2,1600,900
-Osf7NW,#0039,Squadron Cuvis,78200,2,1600,900
-gcKl6G,#0039,Squadron Cuvis,44800,1,1600,900
-c37lvH,#0039,Squadron Cuvis,77000,2,1600,900
-zT7pH7,#0040,Squadron Wuter Mk XVII,24800,0,1600,900
-JrZKtk,#0040,Squadron Wuter Mk XVII,609200,19,1600,900
-6JJ3hJ,#0040,Squadron Wuter Mk XVII,9100,0,1600,900
-Qa6HKm,#0041,Squadron Toliv v6.73,159800,5,1600,900
-oz2Ks7,#0041,Squadron Toliv v6.73,102700,3,1600,900
-6ID8HC,#0041,Squadron Toliv v6.73,13300,0,1600,900
-0c61Y5,#0042,Squadron Potera,4300,0,1600,900
-RrYqQe,#0042,Squadron Potera,0,0,1600,900
-nv2FLw,#0042,Squadron Potera,4500,0,1600,900
-8Dr8dq,#0043,Squadron Dayama,76000,2,1600,900
-K3RpZF,#0043,Squadron Dayama,46700,1,1600,900
-3Drklx,#0043,Squadron Dayama,392400,12,1600,900
-0wllNX,#0044,Squadron Wunus,81700,2,1600,900
-PWGb1L,#0044,Squadron Wunus,201000,6,1600,900
-wq44K2,#0044,Squadron Wunus,14700,0,1600,900
-qNZW4M,#0045,Squadron Futer,9300,0,1600,900
-HXNeMH,#0045,Squadron Futer,14800,0,1600,900
-SBbWAZ,#0045,Squadron Futer,4500,0,1600,900
-qr3jHz,#0046,Squadron Henerth Mk VIII,63400,2,1600,900
-eT0u1R,#0046,Squadron Henerth Mk VIII,8500,0,1600,900
-5qKZhf,#0046,Squadron Henerth Mk VIII,50000,1,1600,900
-JojKV3,#0047,Squadron Futis,14500,0,1600,900
-18GjbW,#0047,Squadron Futis,254000,8,1600,900
-MLIIoB,#0047,Squadron Futis,14600,0,1600,900
-CSqPA6,#0048,Squadron Yayama,295600,9,1600,900
-pQBI2J,#0048,Squadron Yayama,107200,3,1600,900
-onXXfo,#0048,Squadron Yayama,298700,9,1600,900
-UKbtfB,#0049,Squadron Ronus v28.11,24500,0,1600,900
-TeZzvY,#0049,Squadron Ronus v28.11,102600,3,1600,900
-tbFsb8,#0049,Squadron Ronus v28.11,340000,11,1600,900
-FXFw7T,#0050,Squadron Dovis v46.22,13300,0,1600,900
-Oyb1yJ,#0050,Squadron Dovis v46.22,4200,0,1600,900
-aydLy1,#0050,Squadron Dovis v46.22,44100,1,1600,900
-v555I1,#0051,Squadron Xaturn,4200,0,1600,900
-zHRq6E,#0051,Squadron Xaturn,9000,0,1600,900
-WLhAIR,#0051,Squadron Xaturn,9100,0,1600,900
-Z11s3J,#0052,Squadron Qustea,52800,1,1600,900
-o9Sv9d,#0052,Squadron Qustea,109000,3,1600,900
-0yVsWE,#0052,Squadron Qustea,149900,5,1600,900
-n5BcLK,#0053,Squadron Zostea,450600,14,1600,900
-uC38kv,#0053,Squadron Zostea,20600,0,1600,900
-JlJDCt,#0053,Squadron Zostea,112900,3,1600,900
-xQhgbE,#0054,Squadron Halea v22.63,13600,0,1600,900
-VYEzLx,#0054,Squadron Halea v22.63,25000,0,1600,900
-zRIhbn,#0054,Squadron Halea v22.63,67400,2,1600,900
-tZsJkH,#0055,Squadron Sulara v35.90,609900,19,1600,900
-VfrhBV,#0055,Squadron Sulara v35.90,365300,11,1600,900
-IAn82Q,#0055,Squadron Sulara v35.90,621400,19,1600,900
-mEz1wV,#0056,Squadron Wahiri Mk LXXIV,383300,12,1600,900
-7hK02b,#0056,Squadron Wahiri Mk LXXIV,376700,12,1600,900
-5aDzH5,#0056,Squadron Wahiri Mk LXXIV,13500,0,1600,900
-Pp5HF0,#0057,Squadron Ienov,46700,1,1600,900
-GEFXzz,#0057,Squadron Ienov,97000,3,1600,900
-Qc64qA,#0057,Squadron Ienov,318400,10,1600,900
-sTwvj9,#0058,Squadron Guthea,113600,3,1600,900
-yExaxL,#0058,Squadron Guthea,463900,14,1600,900
-t08PYn,#0058,Squadron Guthea,81700,2,1600,900
-NDv1OX,#0059,Squadron Qewei,109000,3,1600,900
-ixdNLN,#0059,Squadron Qewei,48300,1,1600,900
-LOkeAE,#0059,Squadron Qewei,17800,0,1600,900
-S4RSSl,#0060,Squadron Tonides,83200,2,1600,900
-VRxicP,#0060,Squadron Tonides,83200,2,1600,900
-RPLInp,#0060,Squadron Tonides,107800,3,1600,900
-NaIOWh,#0061,Squadron Wuturn v18.96,388900,12,1600,900
-NYNeoa,#0061,Squadron Wuturn v18.96,4300,0,1600,900
-jZ1iEb,#0061,Squadron Wuturn v18.96,295600,9,1600,900
-jaN22y,#0062,Squadron Nanov,104900,3,1600,900
-UEN4Rr,#0062,Squadron Nanov,328600,10,1600,900
-NbVzJa,#0062,Squadron Nanov,70000,2,1600,900
-T51HL2,#0063,Squadron Logawa,271700,8,1600,900
-ik59Wi,#0063,Squadron Logawa,113600,3,1600,900
-4DRjnn,#0063,Squadron Logawa,92400,3,1600,900
-2IfqV1,#0064,Squadron Zoclite,114600,3,1600,900
-nHBU1B,#0064,Squadron Zoclite,297300,9,1600,900
-6Zbm3w,#0064,Squadron Zoclite,10800,0,1600,900
-7CO0dl,#0065,Squadron Huthea,166400,5,1600,900
-LqDzwa,#0065,Squadron Huthea,77900,2,1600,900
-vByRle,#0065,Squadron Huthea,102700,3,1600,900
-ADxSfG,#0066,Squadron Ferilia,13300,0,1600,900
-xOIO9j,#0066,Squadron Ferilia,159800,5,1600,900
-Zu1n2y,#0066,Squadron Ferilia,62200,2,1600,900
-jjw9le,#0067,Squadron Rozuno,103200,3,1600,900
-nHXbev,#0067,Squadron Rozuno,15100,0,1600,900
-yXeyLn,#0067,Squadron Rozuno,295600,9,1600,900
-lp6F58,#0068,Squadron Fucury,45800,1,1600,900
-s8roo4,#0068,Squadron Fucury,18800,0,1600,900
-2SfYz5,#0068,Squadron Fucury,8500,0,1600,900
-wPucxu,#0069,Squadron Bonope,15000,0,1600,900
-3YCTWB,#0069,Squadron Bonope,19000,0,1600,900
-HZiu5Q,#0069,Squadron Bonope,271700,8,1600,900
-JoXWjQ,#0070,Squadron Qunus,103800,3,1600,900
-N6Yfsh,#0070,Squadron Qunus,104400,3,1600,900
-ainEVx,#0070,Squadron Qunus,62700,2,1600,900
-tJFHhg,#0071,Squadron Secarro,114100,3,1600,900
-fupbIb,#0071,Squadron Secarro,175500,5,1600,900
-m3H65R,#0071,Squadron Secarro,312700,10,1600,900
-PNSKCA,#0072,Squadron Xulia,42900,1,1600,900
-5TLOCK,#0072,Squadron Xulia,10000,0,1600,900
-xcqjT8,#0072,Squadron Xulia,14500,0,1600,900
-hne3vF,#0073,Squadron Vophus,23800,0,1600,900
-O5EVEB,#0073,Squadron Vophus,23300,0,1600,900
-XUcYOv,#0073,Squadron Vophus,66900,2,1600,900
-SadvAx,#0074,Squadron Petania Mk LXXXVII,450400,14,1600,900
-LjHFTM,#0074,Squadron Petania Mk LXXXVII,334300,10,1600,900
-uZUXoS,#0074,Squadron Petania Mk LXXXVII,112900,3,1600,900
-Szvd3Q,#0075,Squadron Jenides,46700,1,1600,900
-eAO5Ct,#0075,Squadron Jenides,290700,9,1600,900
-BwhaGy,#0075,Squadron Jenides,76600,2,1600,900
-vEwcHF,#0076,Squadron Qater,382500,12,1600,900
-WU2y4t,#0076,Squadron Qater,359200,11,1600,900
-rH2HGZ,#0076,Squadron Qater,112900,3,1600,900
-HbroQx,#0077,Squadron Vucarro v33.11,4300,0,1600,900
-z4wvSR,#0077,Squadron Vucarro v33.11,4500,0,1600,900
-XeyUax,#0077,Squadron Vucarro v33.11,113000,3,1600,900
-8DGfkx,#0078,Squadron Zuter,15100,0,1600,900
-vaJa8r,#0078,Squadron Zuter,9300,0,1600,900
-5ZKvKe,#0078,Squadron Zuter,143400,4,1600,900
-hLh5mf,#0079,Squadron Dutune,9000,0,1600,900
-EecdKR,#0079,Squadron Dutune,104200,3,1600,900
-ljXMPh,#0079,Squadron Dutune,253700,8,1600,900
-CjQqQV,#0080,Squadron Fuwei,365300,11,1600,900
-HJqsBi,#0080,Squadron Fuwei,540800,17,1600,900
-u4fzWy,#0080,Squadron Fuwei,455700,14,1600,900
-l6zpoP,#0081,Squadron Wustea Mk LXXXVI,654700,20,1600,900
-pza8iW,#0081,Squadron Wustea Mk LXXXVI,603200,19,1600,900
-nBGsox,#0081,Squadron Wustea Mk LXXXVI,626700,19,1600,900
-ZSu9iL,#0082,Squadron Qaturn,65300,2,1600,900
-3vbOjO,#0082,Squadron Qaturn,109000,3,1600,900
-6IjRZE,#0082,Squadron Qaturn,271500,8,1600,900
-UXkPb1,#0083,Squadron Hunus v28.9,598800,19,1600,900
-f4d2O6,#0083,Squadron Hunus v28.9,450900,14,1600,900
-mwR2yM,#0083,Squadron Hunus v28.9,297300,9,1600,900
-1wWezr,#0084,Squadron Iuzuno,72500,2,1600,900
-eiu0Bb,#0084,Squadron Iuzuno,79100,2,1600,900
-8TJicj,#0084,Squadron Iuzuno,109000,3,1600,900
-lrhZzJ,#0085,Squadron Fupra,614300,19,1600,900
-OmU2yl,#0085,Squadron Fupra,279900,9,1600,900
-sWCVbm,#0085,Squadron Fupra,295800,9,1600,900
-Lq92SE,#0086,Squadron Peturn,9100,0,1600,900
-gAsSeZ,#0086,Squadron Peturn,52600,1,1600,900
-BhseOl,#0086,Squadron Peturn,9100,0,1600,900
-xms3JT,#0087,Squadron Doyama Mk VII,328500,10,1600,900
-cvgjfm,#0087,Squadron Doyama Mk VII,385900,12,1600,900
-FULklc,#0087,Squadron Doyama Mk VII,384500,12,1600,900
-wZVWXo,#0088,Squadron Julea,259000,8,1600,900
-MXcLpX,#0088,Squadron Julea,93400,3,1600,900
-v6DMR2,#0088,Squadron Julea,228100,7,1600,900
-7xLrgH,#0089,Squadron Lanus,334300,10,1600,900
-JMwNrZ,#0089,Squadron Lanus,165000,5,1600,900
-gOzBtc,#0089,Squadron Lanus,93400,3,1600,900
-jNvsBt,#0090,Squadron Gohiri,301200,9,1600,900
-m33ByO,#0090,Squadron Gohiri,292000,9,1600,900
-V865eo,#0090,Squadron Gohiri,430700,13,1600,900
-nKbJtm,#0091,Squadron Qalea,295100,9,1600,900
-p8n4nG,#0091,Squadron Qalea,334300,10,1600,900
-92YUxR,#0091,Squadron Qalea,175500,5,1600,900
-Nt2E6o,#0092,Squadron Yestea,104400,3,1600,900
-izyxDR,#0092,Squadron Yestea,24800,0,1600,900
-hHO9Qp,#0092,Squadron Yestea,14500,0,1600,900
-D2UJor,#0093,Squadron Megantu,67900,2,1600,900
-JmjDKN,#0093,Squadron Megantu,0,0,1600,900
-L28AH0,#0093,Squadron Megantu,4800,0,1600,900
-Zt70A3,#0094,Squadron Monus,98500,3,1600,900
-hVFdLd,#0094,Squadron Monus,580800,18,1600,900
-WnNxHA,#0094,Squadron Monus,387800,12,1600,900
-rGTnoM,#0095,Squadron Rugawa,392400,12,1600,900
-DMQLRs,#0095,Squadron Rugawa,1229400,37,1600,900
-rcCPPj,#0095,Squadron Rugawa,389100,12,1600,900
-5TFeHF,#0096,Squadron Funerth,614300,19,1600,900
-KCTt76,#0096,Squadron Funerth,561200,17,1600,900
-iGx9li,#0096,Squadron Funerth,398100,12,1600,900
-C1TZVo,#0097,Squadron Foter,112900,3,1600,900
-7l46t8,#0097,Squadron Foter,196300,6,1600,900
-hz2XUR,#0097,Squadron Foter,52600,1,1600,900
-4YPtzs,#0098,Squadron Suria Mk XCVII,292000,9,1600,900
-pAr6JP,#0098,Squadron Suria Mk XCVII,0,0,1600,900
-C26P8T,#0098,Squadron Suria Mk XCVII,25000,0,1600,900
-WenLBW,#0099,Squadron Vathea,228500,7,1600,900
-wE0ccB,#0099,Squadron Vathea,289900,9,1600,900
-qEUj91,#0099,Squadron Vathea,19300,0,1600,900
-1kdV5O,#0100,Squadron Turilia v28.53,67300,2,1600,900
-UDzQhR,#0100,Squadron Turilia v28.53,79100,2,1600,900
-0jMGuj,#0100,Squadron Turilia v28.53,334200,10,1600,900
-h67yxM,#0101,Squadron Fabos,9100,0,1600,900
-9wjOaf,#0101,Squadron Fabos,48600,1,1600,900
-vQhDMw,#0101,Squadron Fabos,18800,0,1600,900
-9R8vAN,#0102,Squadron Huyama,1531200,46,1600,900
-QA0Zoe,#0102,Squadron Huyama,626500,19,1600,900
-8zw6U3,#0102,Squadron Huyama,2946400,85,1600,900
-5MDLHe,#0103,Squadron Xotune v29.73,301400,9,1600,900
-53Y5bm,#0103,Squadron Xotune v29.73,609200,19,1600,900
-glpyol,#0103,Squadron Xotune v29.73,375300,12,1600,900
-TnRMY0,#0104,Squadron Nutera,84300,2,1600,900
-AvVh1R,#0104,Squadron Nutera,11500,0,1600,900
-cNyDBX,#0104,Squadron Nutera,16300,0,1600,900
-ZkJWIW,#0105,Squadron Nalea v36.5,159800,5,1600,900
-ekdUE2,#0105,Squadron Nalea v36.5,82600,2,1600,900
-yqvFb6,#0105,Squadron Nalea v36.5,271700,8,1600,900
-oMbsFX,#0106,Squadron Jatania,380000,12,1600,900
-OzgsNN,#0106,Squadron Jatania,239200,7,1600,900
-1oVEPc,#0106,Squadron Jatania,615200,19,1600,900
-RG9mR3,#0107,Squadron Danov,165000,5,1600,900
-6r9HLi,#0107,Squadron Danov,329100,10,1600,900
-stzdkC,#0107,Squadron Danov,626500,19,1600,900
-YIpsqP,#0108,Squadron Getis,53500,1,1600,900
-f2YlHL,#0108,Squadron Getis,77700,2,1600,900
-09xBD6,#0108,Squadron Getis,66200,2,1600,900
-kpyCpv,#0109,Squadron Ioliv,103200,3,1600,900
-ZfGMb1,#0109,Squadron Ioliv,288900,9,1600,900
-qgWwIZ,#0109,Squadron Ioliv,14700,0,1600,900
-dvOa6g,#0110,Squadron Keclite,25100,0,1600,900
-nMn9up,#0110,Squadron Keclite,360100,11,1600,900
-jCzOlv,#0110,Squadron Keclite,626500,19,1600,900
-lSNP9h,#0111,Squadron Herilia v14.82,580500,18,1600,900
-lOFeql,#0111,Squadron Herilia v14.82,285100,9,1600,900
-wwUBhM,#0111,Squadron Herilia v14.82,395000,12,1600,900
-Qd8WnV,#0112,Squadron Matania,23300,0,1600,900
-sCQ3Ev,#0112,Squadron Matania,604100,19,1600,900
-rU4GLG,#0112,Squadron Matania,292000,9,1600,900
-6jRZFq,#0113,Squadron Kunope,355100,11,1600,900
-kpU0kK,#0113,Squadron Kunope,285100,9,1600,900
-ucfz6K,#0113,Squadron Kunope,385600,12,1600,900
-ij0r7J,#0114,Squadron Negantu,450600,14,1600,900
-IMke2W,#0114,Squadron Negantu,455200,14,1600,900
-NxWXuQ,#0114,Squadron Negantu,659400,20,1600,900
-cgT1ob,#0115,Squadron Lethea Mk XCVII,14600,0,1600,900
-SxGAca,#0115,Squadron Lethea Mk XCVII,81700,2,1600,900
-2hDKGL,#0115,Squadron Lethea Mk XCVII,16300,0,1600,900
-RqCwcR,#0116,Squadron Soria,283000,9,1600,900
-tafOJr,#0116,Squadron Soria,72000,2,1600,900
-ZkbiDp,#0116,Squadron Soria,361400,11,1600,900
-fS3puv,#0117,Squadron Cethea,110000,3,1600,900
-lUgwgZ,#0117,Squadron Cethea,5500,0,1600,900
-AZJwXr,#0117,Squadron Cethea,266900,8,1600,900
-LgQSnP,#0118,Squadron Pucarro,366800,11,1600,900
-QxnPlj,#0118,Squadron Pucarro,113000,3,1600,900
-T4fEHa,#0118,Squadron Pucarro,295100,9,1600,900
-e8Kdkr,#0119,Squadron Xunus Mk XII,450900,14,1600,900
-qm6dQv,#0119,Squadron Xunus Mk XII,620200,19,1600,900
-Z9hFBm,#0119,Squadron Xunus Mk XII,609900,19,1600,900
-PCX9Nb,#0120,Squadron Waria v41.6,285300,9,1600,900
-omwqqG,#0120,Squadron Waria v41.6,586400,18,1600,900
-kSAEhO,#0120,Squadron Waria v41.6,455700,14,1600,900
-q5COsD,#0121,Squadron Sugantu,9100,0,1600,900
-FPPxyS,#0121,Squadron Sugantu,32800,1,1600,900
-gQZT4G,#0121,Squadron Sugantu,11500,0,1600,900
-H1hoyn,#0122,Squadron Wanope,393300,12,1600,900
-2skqUL,#0122,Squadron Wanope,445500,14,1600,900
-cmqjUY,#0122,Squadron Wanope,425200,13,1600,900
-kcWMhv,#0123,Squadron Fatera,290400,9,1600,900
-GsScmK,#0123,Squadron Fatera,83600,2,1600,900
-uVdaXY,#0123,Squadron Fatera,233400,7,1600,900
-Ndfzvn,#0124,Squadron Fanov v33.40,604800,19,1600,900
-918fGY,#0124,Squadron Fanov v33.40,614600,19,1600,900
-9IehYK,#0124,Squadron Fanov v33.40,571400,18,1600,900
-RJ799h,#0125,Squadron Soter v3.44,24800,0,1600,900
-R94p5D,#0125,Squadron Soter v3.44,323500,10,1600,900
-FlL4E0,#0125,Squadron Soter v3.44,334200,10,1600,900
-N5bDae,#0126,Squadron Wanus v30.81,10000,0,1600,900
-9bOvZ1,#0126,Squadron Wanus v30.81,103200,3,1600,900
-W7gLOo,#0126,Squadron Wanus v30.81,20800,0,1600,900
-hH3VtG,#0127,Squadron Quwei,14600,0,1600,900
-F73wMC,#0127,Squadron Quwei,10300,0,1600,900
-2Ksiks,#0127,Squadron Quwei,297400,9,1600,900
-Ej5Z4d,#0128,Squadron Xetune,386600,12,1600,900
-cASlCt,#0128,Squadron Xetune,398100,12,1600,900
-Awekwe,#0128,Squadron Xetune,362500,11,1600,900
-ne1EHF,#0129,Squadron Peter,137700,4,1600,900
-0BH31H,#0129,Squadron Peter,283200,9,1600,900
-9kLzcE,#0129,Squadron Peter,18500,0,1600,900
-zOPHDe,#0130,Squadron Doruta,397300,12,1600,900
-Rrq7IG,#0130,Squadron Doruta,587100,18,1600,900
-BQCfeQ,#0130,Squadron Doruta,1229800,37,1600,900
-VAoWHF,#0131,Squadron Iunus v35.24,15000,0,1600,900
-MVqoZV,#0131,Squadron Iunus v35.24,23300,0,1600,900
-bcNFH1,#0131,Squadron Iunus v35.24,10200,0,1600,900
-SivtsO,#0132,Squadron Vetania,76100,2,1600,900
-PkoiWD,#0132,Squadron Vetania,126600,4,1600,900
-V65gkl,#0132,Squadron Vetania,9000,0,1600,900
-E8C2pu,#0133,Squadron Felea,385800,12,1600,900
-bXMt1Y,#0133,Squadron Felea,50700,1,1600,900
-rBemcj,#0133,Squadron Felea,620200,19,1600,900
-1dzghp,#0134,Squadron Tetune,14500,0,1600,900
-qxsemv,#0134,Squadron Tetune,83600,2,1600,900
-6JWIlY,#0134,Squadron Tetune,82600,2,1600,900
-pIhayu,#0135,Squadron Durus v12.47,261900,8,1600,900
-cJcXG7,#0135,Squadron Durus v12.47,81700,2,1600,900
-EBq57Q,#0135,Squadron Durus v12.47,94000,3,1600,900
-B2cXyA,#0136,Squadron Tuvis,392400,12,1600,900
-aZFy4V,#0136,Squadron Tuvis,329200,10,1600,900
-YzzPMJ,#0136,Squadron Tuvis,13500,0,1600,900
-bk9pJY,#0137,Squadron Juzuno v16.41,239500,7,1600,900
-AlOHJd,#0137,Squadron Juzuno v16.41,52800,1,1600,900
-Qyq5TW,#0137,Squadron Juzuno v16.41,113600,3,1600,900
-PiJfUg,#0138,Squadron Bowei,398000,12,1600,900
-POULEj,#0138,Squadron Bowei,302500,9,1600,900
-5Ab9x4,#0138,Squadron Bowei,93400,3,1600,900
-LqgjQ7,#0139,Squadron Konus Mk LVIII,4300,0,1600,900
-Lj7FHA,#0139,Squadron Konus Mk LVIII,9700,0,1600,900
-9FMEBE,#0139,Squadron Konus Mk LVIII,9000,0,1600,900
-dHxIxN,#0140,Squadron Jeliv,10800,0,1600,900
-azND4X,#0140,Squadron Jeliv,24800,0,1600,900
-NeAc2o,#0140,Squadron Jeliv,4300,0,1600,900
-HvR38A,#0141,Squadron Quphus,14500,0,1600,900
-AvgJ5p,#0141,Squadron Quphus,9700,0,1600,900
-DefQ6j,#0141,Squadron Quphus,9700,0,1600,900
-zIlrbN,#0142,Squadron Nuthea,571600,18,1600,900
-ZccmpG,#0142,Squadron Nuthea,455700,14,1600,900
-3H4Itg,#0142,Squadron Nuthea,288600,9,1600,900
-5q3SX6,#0143,Squadron Ronope Mk LXVIII,23300,0,1600,900
-PRHHQb,#0143,Squadron Ronope Mk LXVIII,10300,0,1600,900
-naJ7QZ,#0143,Squadron Ronope Mk LXVIII,13300,0,1600,900
-PJ3a7w,#0144,Squadron Muhiri v31.23,366800,11,1600,900
-E4428q,#0144,Squadron Muhiri v31.23,98600,3,1600,900
-3PVyDK,#0144,Squadron Muhiri v31.23,354700,11,1600,900
-MpfzfJ,#0145,Squadron Yolia v39.2,460300,14,1600,900
-6LKKSB,#0145,Squadron Yolia v39.2,5500,0,1600,900
-3w8sty,#0145,Squadron Yolia v39.2,398100,12,1600,900
+soXwAm,#0001,Squadron Gaphus,98500,3,1600,900
+qobyz4,#0001,Squadron Gaphus,386600,12,1600,900
+cbWG9i,#0001,Squadron Gaphus,233700,7,1600,900
+W9Mf3a,#0002,Squadron Nonia,13600,0,1600,900
+fJYXox,#0002,Squadron Nonia,298900,9,1600,900
+3tZHjI,#0002,Squadron Nonia,454500,14,1600,900
+lKDqYL,#0003,Squadron Tubos,351900,11,1600,900
+7clklk,#0003,Squadron Tubos,88300,3,1600,900
+10GfQz,#0003,Squadron Tubos,334200,10,1600,900
+ZtS1j1,#0004,Squadron Pecury,9000,0,1600,900
+wnKLWj,#0004,Squadron Pecury,14500,0,1600,900
+F9vNKe,#0004,Squadron Pecury,18800,0,1600,900
+f3bhMI,#0005,Squadron Cotania,9700,0,1600,900
+fnqpyE,#0005,Squadron Cotania,20800,0,1600,900
+xORctj,#0005,Squadron Cotania,38700,1,1600,900
+ZhqmV4,#0006,Squadron Sophus,77700,2,1600,900
+WBtru3,#0006,Squadron Sophus,70900,2,1600,900
+DLSF3s,#0006,Squadron Sophus,18800,0,1600,900
+d7RaaI,#0007,Squadron Nostea,17800,0,1600,900
+qVcAII,#0007,Squadron Nostea,76000,2,1600,900
+QTKtj8,#0007,Squadron Nostea,262400,8,1600,900
+hnLnX3,#0008,Squadron Tepra,93400,3,1600,900
+yvrqHL,#0008,Squadron Tepra,107800,3,1600,900
+15Xj3L,#0008,Squadron Tepra,107800,3,1600,900
+jy633V,#0009,Squadron Relia v12.42,259700,8,1600,900
+owk5l4,#0009,Squadron Relia v12.42,76600,2,1600,900
+afISVb,#0009,Squadron Relia v12.42,66200,2,1600,900
+Devq4c,#0010,Squadron Xocury,11500,0,1600,900
+NwG36n,#0010,Squadron Xocury,8700,0,1600,900
+ajKeOL,#0010,Squadron Xocury,14800,0,1600,900
+rWTLuW,#0011,Squadron Wuwei v12.30,70900,2,1600,900
+xrhGYE,#0011,Squadron Wuwei v12.30,16300,0,1600,900
+wbPR95,#0011,Squadron Wuwei v12.30,88300,3,1600,900
+360EMK,#0012,Squadron Yutera Mk LXXXIV,14500,0,1600,900
+XJhQgx,#0012,Squadron Yutera Mk LXXXIV,79100,2,1600,900
+HkQ2Z4,#0012,Squadron Yutera Mk LXXXIV,23300,0,1600,900
+vf2RTO,#0013,Squadron Tewei v11.69,1119400,34,1600,900
+Vf9632,#0013,Squadron Tewei v11.69,598800,19,1600,900
+JLDOJq,#0013,Squadron Tewei v11.69,398300,12,1600,900
+UZRF9z,#0014,Squadron Qewei Mk XCV,6000,0,1600,900
+fGt1wA,#0014,Squadron Qewei Mk XCV,18800,0,1600,900
+b7mUsT,#0014,Squadron Qewei Mk XCV,84800,2,1600,900
+pzNCtF,#0015,Squadron Honov,68500,2,1600,900
+GKvVQA,#0015,Squadron Honov,264500,8,1600,900
+zzNu0b,#0015,Squadron Honov,264500,8,1600,900
+bNsWhA,#0016,Squadron Purilia Mk XXXV,25000,0,1600,900
+tQmePf,#0016,Squadron Purilia Mk XXXV,16300,0,1600,900
+vhPeZh,#0016,Squadron Purilia Mk XXXV,74200,2,1600,900
+wd6i5U,#0017,Squadron Wonus,610100,19,1600,900
+DGR0mX,#0017,Squadron Wonus,360300,11,1600,900
+UkihNs,#0017,Squadron Wonus,14500,0,1600,900
+zWOtYR,#0018,Squadron Buwei,286800,9,1600,900
+TdW3dr,#0018,Squadron Buwei,73500,2,1600,900
+u9Ifnl,#0018,Squadron Buwei,23300,0,1600,900
+4ESoe2,#0019,Squadron Iavis v40.72,587400,18,1600,900
+aaiv5X,#0019,Squadron Iavis v40.72,391500,12,1600,900
+kSQ0KL,#0019,Squadron Iavis v40.72,911500,28,1600,900
+B7kN7u,#0020,Squadron Humia,6000,0,1600,900
+f8r5hU,#0020,Squadron Humia,312700,10,1600,900
+tRUM7B,#0020,Squadron Humia,4800,0,1600,900
+hrEcgp,#0021,Squadron Selea,98000,3,1600,900
+wVP7uY,#0021,Squadron Selea,24800,0,1600,900
+RsKaTX,#0021,Squadron Selea,114100,3,1600,900
+zcMpfN,#0022,Squadron Yocarro Mk XLVII,82600,2,1600,900
+51pAEw,#0022,Squadron Yocarro Mk XLVII,83200,2,1600,900
+WoeadF,#0022,Squadron Yocarro Mk XLVII,425200,13,1600,900
+CsiQF0,#0023,Squadron Manope Mk XXXVII,8500,0,1600,900
+Agqh0v,#0023,Squadron Manope Mk XXXVII,234600,7,1600,900
+VblMdS,#0023,Squadron Manope Mk XXXVII,9000,0,1600,900
+mNUEpd,#0024,Squadron Wehines Mk L,9100,0,1600,900
+DUBQRR,#0024,Squadron Wehines Mk L,18500,0,1600,900
+PNOeCh,#0024,Squadron Wehines Mk L,9000,0,1600,900
+aDxAOV,#0025,Squadron Iapra,48600,1,1600,900
+LZLpRh,#0025,Squadron Iapra,350600,11,1600,900
+7UVFIw,#0025,Squadron Iapra,67400,2,1600,900
+GrR1Jt,#0026,Squadron Jolea,24800,0,1600,900
+wkYtYT,#0026,Squadron Jolea,23300,0,1600,900
+ZWvGfG,#0026,Squadron Jolea,58700,2,1600,900
+0BKYWZ,#0027,Squadron Yutania,68500,2,1600,900
+JtyMwk,#0027,Squadron Yutania,16000,0,1600,900
+7FK9BR,#0027,Squadron Yutania,14700,0,1600,900
+oK7PIw,#0028,Squadron Senus Mk XLIX,176900,5,1600,900
+QxrUDC,#0028,Squadron Senus Mk XLIX,613600,19,1600,900
+DQHH3z,#0028,Squadron Senus Mk XLIX,84800,2,1600,900
+ff6jHI,#0029,Squadron Nehiri,10500,0,1600,900
+n2TtRs,#0029,Squadron Nehiri,16300,0,1600,900
+9lha1Z,#0029,Squadron Nehiri,9000,0,1600,900
+3dz1I7,#0030,Squadron Yenus,609200,19,1600,900
+1sWppY,#0030,Squadron Yenus,25100,0,1600,900
+D6fog8,#0030,Squadron Yenus,1244200,38,1600,900
+nYdq0I,#0031,Squadron Ianov,287100,9,1600,900
+cz7XGE,#0031,Squadron Ianov,551300,17,1600,900
+x9MREC,#0031,Squadron Ianov,947400,29,1600,900
+7E3mKk,#0032,Squadron Later,229300,7,1600,900
+a0XATT,#0032,Squadron Later,207900,6,1600,900
+8uTzFx,#0032,Squadron Later,33500,1,1600,900
+g1mjqO,#0033,Squadron Lacarro,8500,0,1600,900
+G2VCN7,#0033,Squadron Lacarro,58700,2,1600,900
+nHUHKF,#0033,Squadron Lacarro,16000,0,1600,900
+nYwVHl,#0034,Squadron Pucury v46.28,103200,3,1600,900
+v9X4wf,#0034,Squadron Pucury v46.28,259000,8,1600,900
+buVrdw,#0034,Squadron Pucury v46.28,66900,2,1600,900
+r262MH,#0035,Squadron Haruta Mk XLIX,323400,10,1600,900
+VKyaht,#0035,Squadron Haruta Mk XLIX,264300,8,1600,900
+IajjTz,#0035,Squadron Haruta Mk XLIX,605100,19,1600,900
+qctAtP,#0036,Squadron Tenia,48600,1,1600,900
+TlDNu6,#0036,Squadron Tenia,175500,5,1600,900
+ZkOyjO,#0036,Squadron Tenia,9300,0,1600,900
+XGAwTe,#0037,Squadron Decarro,487200,15,1600,900
+VnbuPV,#0037,Squadron Decarro,329300,10,1600,900
+trDyJN,#0037,Squadron Decarro,603200,19,1600,900
+6wf2VU,#0038,Squadron Selia,73500,2,1600,900
+UyXjxb,#0038,Squadron Selia,48100,1,1600,900
+jSUJWF,#0038,Squadron Selia,8800,0,1600,900
+8sR31I,#0039,Squadron Cuvis,16300,0,1600,900
+kHuRR7,#0039,Squadron Cuvis,71300,2,1600,900
+cevia0,#0039,Squadron Cuvis,171600,5,1600,900
+vGk0wK,#0040,Squadron Wuter Mk XVII,271700,8,1600,900
+EYWGFQ,#0040,Squadron Wuter Mk XVII,108300,3,1600,900
+Ay8ckQ,#0040,Squadron Wuter Mk XVII,372000,12,1600,900
+kDYksH,#0041,Squadron Toliv v6.73,38000,1,1600,900
+DdzEnD,#0041,Squadron Toliv v6.73,174800,5,1600,900
+GCxDNK,#0041,Squadron Toliv v6.73,234100,7,1600,900
+qdLjmb,#0042,Squadron Potera,8800,0,1600,900
+Ceb8UD,#0042,Squadron Potera,15000,0,1600,900
+18aEyN,#0042,Squadron Potera,10300,0,1600,900
+XtoXkp,#0043,Squadron Dayama,455700,14,1600,900
+iKvzQM,#0043,Squadron Dayama,50700,1,1600,900
+sjRsNh,#0043,Squadron Dayama,458300,14,1600,900
+qIsDn9,#0044,Squadron Wunus,81700,2,1600,900
+14UkUZ,#0044,Squadron Wunus,98100,3,1600,900
+U3W644,#0044,Squadron Wunus,0,0,1600,900
+0Z0eUN,#0045,Squadron Futer,15000,0,1600,900
+cXsx0O,#0045,Squadron Futer,19000,0,1600,900
+wi4JvK,#0045,Squadron Futer,0,0,1600,900
+mtPVJe,#0046,Squadron Henerth Mk VIII,20500,0,1600,900
+plEXwk,#0046,Squadron Henerth Mk VIII,15000,0,1600,900
+2OnMLM,#0046,Squadron Henerth Mk VIII,9800,0,1600,900
+W7EktX,#0047,Squadron Futis,15100,0,1600,900
+lW0vXV,#0047,Squadron Futis,234100,7,1600,900
+Y9PnXR,#0047,Squadron Futis,82600,2,1600,900
+qx3OdD,#0048,Squadron Yayama,328500,10,1600,900
+rk2ADh,#0048,Squadron Yayama,281900,9,1600,900
+HRBGAW,#0048,Squadron Yayama,171600,5,1600,900
+s30rfx,#0049,Squadron Ronus v28.11,592700,18,1600,900
+CxVsR3,#0049,Squadron Ronus v28.11,430700,13,1600,900
+uBbHSo,#0049,Squadron Ronus v28.11,14500,0,1600,900
+4rMQ4f,#0050,Squadron Dovis v46.22,9100,0,1600,900
+zsZHCo,#0050,Squadron Dovis v46.22,11500,0,1600,900
+qdmrII,#0050,Squadron Dovis v46.22,88300,3,1600,900
+BdALw7,#0051,Squadron Xaturn,4500,0,1600,900
+qZm3JL,#0051,Squadron Xaturn,9000,0,1600,900
+9JeqrG,#0051,Squadron Xaturn,6000,0,1600,900
+5dBGbc,#0052,Squadron Qustea,223700,7,1600,900
+zBCa4t,#0052,Squadron Qustea,0,0,1600,900
+w1Kuiw,#0052,Squadron Qustea,25100,0,1600,900
+kO9FLO,#0053,Squadron Zostea,614400,19,1600,900
+DJikkJ,#0053,Squadron Zostea,381100,12,1600,900
+Jx6Ds4,#0053,Squadron Zostea,323600,10,1600,900
+GhPAQb,#0054,Squadron Halea v22.63,0,0,1600,900
+7i2B5M,#0054,Squadron Halea v22.63,84300,2,1600,900
+OwNxcB,#0054,Squadron Halea v22.63,44800,1,1600,900
+yNyJLo,#0055,Squadron Sulara v35.90,558500,17,1600,900
+7kQilv,#0055,Squadron Sulara v35.90,476700,15,1600,900
+UpQyex,#0055,Squadron Sulara v35.90,619900,19,1600,900
+CHfkxZ,#0056,Squadron Wahiri Mk LXXIV,388200,12,1600,900
+hYVFfU,#0056,Squadron Wahiri Mk LXXIV,359200,11,1600,900
+ZlW9Cx,#0056,Squadron Wahiri Mk LXXIV,648700,20,1600,900
+evyVIt,#0057,Squadron Ienov,103200,3,1600,900
+TqCKUg,#0057,Squadron Ienov,107900,3,1600,900
+5Ezi4w,#0057,Squadron Ienov,403900,13,1600,900
+CxKkSt,#0058,Squadron Guthea,312700,10,1600,900
+RQmmtx,#0058,Squadron Guthea,14500,0,1600,900
+adOWzB,#0058,Squadron Guthea,271700,8,1600,900
+nFfssR,#0059,Squadron Qewei,175500,5,1600,900
+haerxq,#0059,Squadron Qewei,19100,0,1600,900
+7h5SVo,#0059,Squadron Qewei,259700,8,1600,900
+LLwKCI,#0060,Squadron Tonides,17800,0,1600,900
+RvVqEQ,#0060,Squadron Tonides,25000,0,1600,900
+AdoqJ8,#0060,Squadron Tonides,23300,0,1600,900
+n1SH9i,#0061,Squadron Wuturn v18.96,217900,7,1600,900
+HjHXod,#0061,Squadron Wuturn v18.96,398300,12,1600,900
+D0qJtU,#0061,Squadron Wuturn v18.96,108300,3,1600,900
+NjcPnl,#0062,Squadron Nanov,614500,19,1600,900
+PmmzzR,#0062,Squadron Nanov,604800,19,1600,900
+POpgf3,#0062,Squadron Nanov,577900,18,1600,900
+wWwXCt,#0063,Squadron Logawa,302500,9,1600,900
+FPPp0Y,#0063,Squadron Logawa,360100,11,1600,900
+OqHjA8,#0063,Squadron Logawa,54200,1,1600,900
+V4afdu,#0064,Squadron Zoclite,365900,11,1600,900
+2yqGQw,#0064,Squadron Zoclite,287000,9,1600,900
+GW1FSD,#0064,Squadron Zoclite,9300,0,1600,900
+alwk6E,#0065,Squadron Huthea,4800,0,1600,900
+sZvDi8,#0065,Squadron Huthea,23800,0,1600,900
+Op77RC,#0065,Squadron Huthea,25000,0,1600,900
+WM4qj6,#0066,Squadron Ferilia,98100,3,1600,900
+B8VyKl,#0066,Squadron Ferilia,334300,10,1600,900
+HrvSeW,#0066,Squadron Ferilia,239700,7,1600,900
+EyvjN6,#0067,Squadron Rozuno,47600,1,1600,900
+nMLgCZ,#0067,Squadron Rozuno,74400,2,1600,900
+qxTnWy,#0067,Squadron Rozuno,0,0,1600,900
+ZqhODD,#0068,Squadron Fucury,13600,0,1600,900
+nxEFG5,#0068,Squadron Fucury,9300,0,1600,900
+cOT1w0,#0068,Squadron Fucury,8700,0,1600,900
+4rAMIg,#0069,Squadron Bonope,94000,3,1600,900
+EtUGs6,#0069,Squadron Bonope,4300,0,1600,900
+WkRYUj,#0069,Squadron Bonope,97500,3,1600,900
+vNzvDn,#0070,Squadron Qunus,77700,2,1600,900
+mfF7hV,#0070,Squadron Qunus,67400,2,1600,900
+KRVMSm,#0070,Squadron Qunus,281500,9,1600,900
+21QRAQ,#0071,Squadron Secarro,383300,12,1600,900
+64mDZH,#0071,Squadron Secarro,18800,0,1600,900
+ywc7yO,#0071,Squadron Secarro,170300,5,1600,900
+HRZgWx,#0072,Squadron Xulia,9100,0,1600,900
+DR6IFn,#0072,Squadron Xulia,20500,0,1600,900
+5BrbNv,#0072,Squadron Xulia,9000,0,1600,900
+aSbgok,#0073,Squadron Vophus,24800,0,1600,900
+fhLNtu,#0073,Squadron Vophus,175500,5,1600,900
+f4XwNS,#0073,Squadron Vophus,103900,3,1600,900
+Mk8GlK,#0074,Squadron Petania Mk LXXXVII,445500,14,1600,900
+oVR9UG,#0074,Squadron Petania Mk LXXXVII,302900,9,1600,900
+Zv75I1,#0074,Squadron Petania Mk LXXXVII,103200,3,1600,900
+ZML9ry,#0075,Squadron Jenides,102700,3,1600,900
+fULDOr,#0075,Squadron Jenides,574700,18,1600,900
+Zc4KiZ,#0075,Squadron Jenides,0,0,1600,900
+gHSweb,#0076,Squadron Qater,288900,9,1600,900
+moRFi3,#0076,Squadron Qater,587400,18,1600,900
+AKJ1QH,#0076,Squadron Qater,266400,8,1600,900
+PUq9pU,#0077,Squadron Vucarro v33.11,42200,1,1600,900
+Wg2lEc,#0077,Squadron Vucarro v33.11,9300,0,1600,900
+gLrUd9,#0077,Squadron Vucarro v33.11,82600,2,1600,900
+Y5nZzR,#0078,Squadron Zuter,102100,3,1600,900
+pyePFI,#0078,Squadron Zuter,360300,11,1600,900
+lzx8RC,#0078,Squadron Zuter,9000,0,1600,900
+tVBcdc,#0079,Squadron Dutune,322800,10,1600,900
+gK9GSA,#0079,Squadron Dutune,227800,7,1600,900
+yOjn6Z,#0079,Squadron Dutune,82600,2,1600,900
+QBIKMI,#0080,Squadron Fuwei,14800,0,1600,900
+sW2JJa,#0080,Squadron Fuwei,392400,12,1600,900
+ZlaB6E,#0080,Squadron Fuwei,349500,11,1600,900
+WBxGWs,#0081,Squadron Wustea Mk LXXXVI,2019200,60,1600,900
+t4hAzm,#0081,Squadron Wustea Mk LXXXVI,1217600,37,1600,900
+iVWQur,#0081,Squadron Wustea Mk LXXXVI,1449600,44,1600,900
+6rz2ZS,#0082,Squadron Qaturn,10200,0,1600,900
+eawj9A,#0082,Squadron Qaturn,304300,9,1600,900
+zqJRft,#0082,Squadron Qaturn,445800,14,1600,900
+JQJtcV,#0083,Squadron Hunus v28.9,455500,14,1600,900
+d7KvIh,#0083,Squadron Hunus v28.9,107800,3,1600,900
+XF1Yur,#0083,Squadron Hunus v28.9,108500,3,1600,900
+0bpKzS,#0084,Squadron Iuzuno,19000,0,1600,900
+nJprI1,#0084,Squadron Iuzuno,4800,0,1600,900
+kHRDxS,#0084,Squadron Iuzuno,83600,2,1600,900
+AwZ6x4,#0085,Squadron Fupra,103200,3,1600,900
+JnfRJJ,#0085,Squadron Fupra,578000,18,1600,900
+liEbc8,#0085,Squadron Fupra,380000,12,1600,900
+DSco4f,#0086,Squadron Peturn,4800,0,1600,900
+JFQhbw,#0086,Squadron Peturn,13300,0,1600,900
+p9ExZ9,#0086,Squadron Peturn,10800,0,1600,900
+jH0bvE,#0087,Squadron Doyama Mk VII,355600,11,1600,900
+ULzvte,#0087,Squadron Doyama Mk VII,458800,14,1600,900
+VP2uz6,#0087,Squadron Doyama Mk VII,11500,0,1600,900
+AeJygh,#0088,Squadron Julea,201000,6,1600,900
+be8ag8,#0088,Squadron Julea,323400,10,1600,900
+NoONKe,#0088,Squadron Julea,425900,13,1600,900
+Cy2snJ,#0089,Squadron Lanus,608300,19,1600,900
+NOPSOL,#0089,Squadron Lanus,13500,0,1600,900
+8Wo4p7,#0089,Squadron Lanus,323500,10,1600,900
+09SLDf,#0090,Squadron Gohiri,363000,11,1600,900
+5IfmwI,#0090,Squadron Gohiri,72500,2,1600,900
+VM4PA9,#0090,Squadron Gohiri,0,0,1600,900
+IyT1l1,#0091,Squadron Qalea,329200,10,1600,900
+qqEFo7,#0091,Squadron Qalea,430700,13,1600,900
+MgsePL,#0091,Squadron Qalea,302500,9,1600,900
+pkd5gJ,#0092,Squadron Yestea,66200,2,1600,900
+7W2jFO,#0092,Squadron Yestea,33500,1,1600,900
+xlgnH0,#0092,Squadron Yestea,77000,2,1600,900
+3el2TZ,#0093,Squadron Megantu,4300,0,1600,900
+9g86Yz,#0093,Squadron Megantu,8700,0,1600,900
+kD7qGM,#0093,Squadron Megantu,0,0,1600,900
+RaLM4v,#0094,Squadron Monus,365300,11,1600,900
+N0xwzg,#0094,Squadron Monus,103800,3,1600,900
+96EQa1,#0094,Squadron Monus,324200,10,1600,900
+xTkqIm,#0095,Squadron Rugawa,620400,19,1600,900
+1io5H4,#0095,Squadron Rugawa,430700,13,1600,900
+vWD9SS,#0095,Squadron Rugawa,620200,19,1600,900
+M0rqXf,#0096,Squadron Funerth,1285800,39,1600,900
+rUzY5s,#0096,Squadron Funerth,614500,19,1600,900
+kxEatA,#0096,Squadron Funerth,24800,0,1600,900
+NIeFGJ,#0097,Squadron Foter,53500,1,1600,900
+LQTgC0,#0097,Squadron Foter,98500,3,1600,900
+qpu1Tq,#0097,Squadron Foter,66900,2,1600,900
+KS7VZe,#0098,Squadron Suria Mk XCVII,42200,1,1600,900
+trSLCZ,#0098,Squadron Suria Mk XCVII,78200,2,1600,900
+F9fjix,#0098,Squadron Suria Mk XCVII,8800,0,1600,900
+tzzKZP,#0099,Squadron Vathea,76600,2,1600,900
+K4l1fV,#0099,Squadron Vathea,234400,7,1600,900
+EXF7Vm,#0099,Squadron Vathea,259700,8,1600,900
+Fz6z2C,#0100,Squadron Turilia v28.53,329300,10,1600,900
+h7BTEg,#0100,Squadron Turilia v28.53,102700,3,1600,900
+6EcmxV,#0100,Squadron Turilia v28.53,48300,1,1600,900
+AxonOW,#0101,Squadron Fabos,9000,0,1600,900
+Iq2JP8,#0101,Squadron Fabos,16300,0,1600,900
+BvsQG4,#0101,Squadron Fabos,4800,0,1600,900
+KUofC8,#0102,Squadron Huyama,1245900,38,1600,900
+oIyKqt,#0102,Squadron Huyama,377600,12,1600,900
+aYf4pS,#0102,Squadron Huyama,593000,18,1600,900
+2tw4iC,#0103,Squadron Xotune v29.73,24800,0,1600,900
+sXPLCS,#0103,Squadron Xotune v29.73,455700,14,1600,900
+r7vKP9,#0103,Squadron Xotune v29.73,581300,18,1600,900
+526kfo,#0104,Squadron Nutera,113600,3,1600,900
+6NMDy2,#0104,Squadron Nutera,72500,2,1600,900
+PHGKwR,#0104,Squadron Nutera,55200,1,1600,900
+mQkVcF,#0105,Squadron Nalea v36.5,4800,0,1600,900
+S8UrjW,#0105,Squadron Nalea v36.5,361400,11,1600,900
+nFTMRr,#0105,Squadron Nalea v36.5,113000,3,1600,900
+qVQxWf,#0106,Squadron Jatania,302500,9,1600,900
+dlR7Gw,#0106,Squadron Jatania,365900,11,1600,900
+Q5jkMx,#0106,Squadron Jatania,68500,2,1600,900
+9B0bUg,#0107,Squadron Danov,114100,3,1600,900
+NBxp45,#0107,Squadron Danov,112900,3,1600,900
+ZOu83V,#0107,Squadron Danov,463900,14,1600,900
+BYBVYq,#0108,Squadron Getis,13600,0,1600,900
+n2mpzM,#0108,Squadron Getis,186100,6,1600,900
+UApTW8,#0108,Squadron Getis,17800,0,1600,900
+Yo01me,#0109,Squadron Ioliv,23300,0,1600,900
+zwltpr,#0109,Squadron Ioliv,4200,0,1600,900
+9cbLeJ,#0109,Squadron Ioliv,25000,0,1600,900
+IoqeXR,#0110,Squadron Keclite,329200,10,1600,900
+rjhE6q,#0110,Squadron Keclite,1110900,34,1600,900
+YACbKt,#0110,Squadron Keclite,480500,15,1600,900
+yNIgpU,#0111,Squadron Herilia v14.82,571800,18,1600,900
+jb4daR,#0111,Squadron Herilia v14.82,392500,12,1600,900
+gEw5Cj,#0111,Squadron Herilia v14.82,288600,9,1600,900
+6KgIVu,#0112,Squadron Matania,295600,9,1600,900
+edUoQr,#0112,Squadron Matania,287000,9,1600,900
+MsTslC,#0112,Squadron Matania,324200,10,1600,900
+DSEHqO,#0113,Squadron Kunope,386600,12,1600,900
+8xYIdI,#0113,Squadron Kunope,463900,14,1600,900
+n8nTk2,#0113,Squadron Kunope,10300,0,1600,900
+4clWol,#0114,Squadron Negantu,1240200,38,1600,900
+bgnr3T,#0114,Squadron Negantu,292000,9,1600,900
+BjbDqt,#0114,Squadron Negantu,1534200,46,1600,900
+KDrz4I,#0115,Squadron Lethea Mk XCVII,228500,7,1600,900
+ahcKmk,#0115,Squadron Lethea Mk XCVII,103300,3,1600,900
+TAAbLK,#0115,Squadron Lethea Mk XCVII,43200,1,1600,900
+Z51wez,#0116,Squadron Soria,114100,3,1600,900
+hwhNpw,#0116,Squadron Soria,463400,14,1600,900
+chBbDc,#0116,Squadron Soria,78200,2,1600,900
+RmO6Ip,#0117,Squadron Cethea,9000,0,1600,900
+Tpuy2H,#0117,Squadron Cethea,72000,2,1600,900
+kwOfS9,#0117,Squadron Cethea,88300,3,1600,900
+v46ojf,#0118,Squadron Pucarro,304500,9,1600,900
+axgO1y,#0118,Squadron Pucarro,15300,0,1600,900
+eHLFsH,#0118,Squadron Pucarro,323400,10,1600,900
+VXaw9U,#0119,Squadron Xunus Mk XII,824200,25,1600,900
+hKJbSr,#0119,Squadron Xunus Mk XII,302900,9,1600,900
+DO8QLx,#0119,Squadron Xunus Mk XII,391700,12,1600,900
+EI6RkE,#0120,Squadron Waria v41.6,297300,9,1600,900
+bqCtxq,#0120,Squadron Waria v41.6,620800,19,1600,900
+glopCj,#0120,Squadron Waria v41.6,450600,14,1600,900
+CTRvL4,#0121,Squadron Sugantu,4200,0,1600,900
+pKbWdQ,#0121,Squadron Sugantu,4200,0,1600,900
+S98h40,#0121,Squadron Sugantu,99100,3,1600,900
+wJRJvq,#0122,Squadron Wanope,649100,20,1600,900
+09SFEM,#0122,Squadron Wanope,488400,15,1600,900
+ou4ryg,#0122,Squadron Wanope,595500,18,1600,900
+fszHFw,#0123,Squadron Fatera,383300,12,1600,900
+2je0Mx,#0123,Squadron Fatera,334300,10,1600,900
+0Hm64E,#0123,Squadron Fatera,302500,9,1600,900
+dLhNvi,#0124,Squadron Fanov v33.40,1253100,38,1600,900
+2uQqwo,#0124,Squadron Fanov v33.40,114100,3,1600,900
+pS5S1g,#0124,Squadron Fanov v33.40,1244600,38,1600,900
+MY8XnC,#0125,Squadron Soter v3.44,463900,14,1600,900
+16Wd5e,#0125,Squadron Soter v3.44,108300,3,1600,900
+uFEu9U,#0125,Squadron Soter v3.44,112900,3,1600,900
+9sdvow,#0126,Squadron Wanus v30.81,18800,0,1600,900
+z2dlBm,#0126,Squadron Wanus v30.81,72000,2,1600,900
+qXdgi4,#0126,Squadron Wanus v30.81,24800,0,1600,900
+IQkCSK,#0127,Squadron Quwei,103700,3,1600,900
+jrvoGc,#0127,Squadron Quwei,23300,0,1600,900
+602AEL,#0127,Squadron Quwei,113600,3,1600,900
+IxCCwu,#0128,Squadron Xetune,328500,10,1600,900
+7Ne5IT,#0128,Squadron Xetune,297400,9,1600,900
+P2Denw,#0128,Squadron Xetune,391400,12,1600,900
+Nw2dhU,#0129,Squadron Peter,19000,0,1600,900
+KtJuK0,#0129,Squadron Peter,283700,9,1600,900
+RXOPb4,#0129,Squadron Peter,112900,3,1600,900
+zkOT8J,#0130,Squadron Doruta,620700,19,1600,900
+ONQL5E,#0130,Squadron Doruta,691400,21,1600,900
+EVjuV6,#0130,Squadron Doruta,679500,21,1600,900
+kqOAUI,#0131,Squadron Iunus v35.24,13300,0,1600,900
+2rR6WO,#0131,Squadron Iunus v35.24,43200,1,1600,900
+cLbqrO,#0131,Squadron Iunus v35.24,15100,0,1600,900
+WzKXZT,#0132,Squadron Vetania,66200,2,1600,900
+kXMK32,#0132,Squadron Vetania,145000,4,1600,900
+VwByI2,#0132,Squadron Vetania,18800,0,1600,900
+lVx8Eo,#0133,Squadron Felea,890800,27,1600,900
+viOGOs,#0133,Squadron Felea,430700,13,1600,900
+yjM3wa,#0133,Squadron Felea,4200,0,1600,900
+rPCy6q,#0134,Squadron Tetune,295500,9,1600,900
+bCn3Pp,#0134,Squadron Tetune,201000,6,1600,900
+ZMEI28,#0134,Squadron Tetune,362300,11,1600,900
+4YVJgI,#0135,Squadron Durus v12.47,140300,4,1600,900
+kvNb98,#0135,Squadron Durus v12.47,84300,2,1600,900
+xcLdeh,#0135,Squadron Durus v12.47,392200,12,1600,900
+8IncOd,#0136,Squadron Tuvis,109000,3,1600,900
+blDNtf,#0136,Squadron Tuvis,239200,7,1600,900
+DZLpEU,#0136,Squadron Tuvis,110000,3,1600,900
+nAJ2PR,#0137,Squadron Juzuno v16.41,9300,0,1600,900
+lgfd3Q,#0137,Squadron Juzuno v16.41,445800,14,1600,900
+lVfedR,#0137,Squadron Juzuno v16.41,609200,19,1600,900
+H0QeJC,#0138,Squadron Bowei,43100,1,1600,900
+5UGzOK,#0138,Squadron Bowei,81700,2,1600,900
+VnINTN,#0138,Squadron Bowei,0,0,1600,900
+q5quch,#0139,Squadron Konus Mk LVIII,9100,0,1600,900
+mlm3Ya,#0139,Squadron Konus Mk LVIII,50000,1,1600,900
+p9LCL6,#0139,Squadron Konus Mk LVIII,6000,0,1600,900
+8pWMzS,#0140,Squadron Jeliv,14500,0,1600,900
+C75yba,#0140,Squadron Jeliv,24800,0,1600,900
+DI8PTn,#0140,Squadron Jeliv,4800,0,1600,900
+kp4v2Z,#0141,Squadron Quphus,9000,0,1600,900
+6U6q3y,#0141,Squadron Quphus,0,0,1600,900
+wQgfb0,#0141,Squadron Quphus,76000,2,1600,900
+G81bf8,#0142,Squadron Nuthea,586400,18,1600,900
+3zXOYy,#0142,Squadron Nuthea,458800,14,1600,900
+w3ZUZi,#0142,Squadron Nuthea,642600,20,1600,900
+EupM2Z,#0143,Squadron Ronope Mk LXVIII,54500,1,1600,900
+wSrxLN,#0143,Squadron Ronope Mk LXVIII,19000,0,1600,900
+noBd9k,#0143,Squadron Ronope Mk LXVIII,9100,0,1600,900
+HoxzN6,#0144,Squadron Muhiri v31.23,365300,11,1600,900
+pIR4fS,#0144,Squadron Muhiri v31.23,604800,19,1600,900
+G9A7Yf,#0144,Squadron Muhiri v31.23,354000,11,1600,900
+2OIkyJ,#0145,Squadron Yolia v39.2,340000,11,1600,900
+8JDsp2,#0145,Squadron Yolia v39.2,99100,3,1600,900
+BSyYkj,#0145,Squadron Yolia v39.2,102600,3,1600,900
+n5ghHi,#0146,Squadron Yonia,98500,3,1600,900
+emYHjr,#0146,Squadron Yonia,10500,0,1600,900
+ycbeb0,#0146,Squadron Yonia,223500,7,1600,900
+5Y8N0X,#0147,Squadron Totera,234300,7,1600,900
+I7pYxh,#0147,Squadron Totera,229300,7,1600,900
+mTuTew,#0147,Squadron Totera,620200,19,1600,900
+p2H6gO,#0148,Squadron Juter Mk LXVII,603200,19,1600,900
+4Km8jS,#0148,Squadron Juter Mk LXVII,367500,11,1600,900
+7SRCtV,#0148,Squadron Juter Mk LXVII,426600,13,1600,900
+t9tKxv,#0149,Squadron Futurn Mk LXXIX,323900,10,1600,900
+qRsGOI,#0149,Squadron Futurn Mk LXXIX,77500,2,1600,900
+9SrImc,#0149,Squadron Futurn Mk LXXIX,603200,19,1600,900
+piAlNx,#0150,Squadron Nunerth,317800,10,1600,900
+OI2OKr,#0150,Squadron Nunerth,15000,0,1600,900
+kv8C0g,#0150,Squadron Nunerth,239200,7,1600,900
+iXlfBU,#0151,Squadron Iutov,14300,0,1600,900
+7O55Cw,#0151,Squadron Iutov,266500,8,1600,900
+e8iGO7,#0151,Squadron Iutov,20800,0,1600,900
+9sOxw4,#0152,Squadron Koturn,673600,21,1600,900
+pXGD31,#0152,Squadron Koturn,1297000,39,1600,900
+U5xfEJ,#0152,Squadron Koturn,605100,19,1600,900
+C0BB6t,#0153,Squadron Mustea Mk XIII,367500,11,1600,900
+T9vEk9,#0153,Squadron Mustea Mk XIII,19600,0,1600,900
+MjPSQk,#0153,Squadron Mustea Mk XIII,619600,19,1600,900

@@ -5,6 +5,7 @@
   "main": "index.js",
   "type": "module",
   "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.24.0",
     "csv-parse": "^4.15.4",
     "excel4node": "^1.7.2",
     "node-fetch": "^2.6.1",
@@ -16,5 +17,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@aws-sdk/client-sts": "^3.24.0",
+    "@aws-sdk/credential-provider-ini": "^3.24.0",
+    "@aws-sdk/lib-dynamodb": "^3.24.0"
+  }
 }
